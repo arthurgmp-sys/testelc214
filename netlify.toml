@@ -1,7 +1,10 @@
 [build]
-  functions = "netlify/functions"
-  edge_functions = "netlify/edge-functions"
+  # Define onde estão as funções normais e as edge functions
+  functions = "netlify/functions"
+  edge_functions = "netlify/edge-functions"
 
+# Esta regra aplica a função 'guarda' a todos os acessos à pasta /quiz/
+# O '*' garante que tanto /quiz/ quanto /quiz/index.html sejam protegidos.
 [[edge_functions]]
-  path = "/quiz/*"
-  function = "guarda"
+  function = "guarda"
+  path = "/quiz/*"
