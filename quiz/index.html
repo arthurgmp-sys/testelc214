@@ -565,50 +565,8 @@
         }
 
         // --- INICIALIZAÇÃO E EVENTOS ---
-
-        // Função de verificação de acesso ATUALIZADA E DEFINITIVA
-        async function checkAccess() {
-            // Pega os parâmetros da URL atual
-            const urlParams = new URLSearchParams(window.location.search);
-            const token = urlParams.get('token');
-
-            // Se o aluno chegou aqui sem um token, acesso negado na hora.
-            if (!token) {
-                appContainer.innerHTML = `<div class="text-center p-8">
-                        <h1 class="text-2xl font-bold text-red-500">🚫 Acesso Inválido</h1>
-                        <p class="text-gray-600 dark:text-gray-300 mt-2">Este conteúdo é exclusivo para alunos. Por favor, acesse através da plataforma.</p>
-                    </div>`;
-                loadingScreen.classList.add('hidden');
-                return false;
-            }
-
-            try {
-                // Envia o token para a nossa função validadora no servidor
-                const response = await fetch(`/.netlify/functions/validar-token?token=${token}`);
-                const data = await response.json();
-
-                // Se a resposta do servidor for que o token é válido, permite o acesso.
-                if (response.ok && data.success) {
-                    return true;
-                }
-            } catch (error) {
-                console.error("Erro ao validar token:", error);
-            }
-
-            // Se a validação falhou por qualquer motivo (expirado, inválido, já usado, erro de rede), nega o acesso.
-            appContainer.innerHTML = `<div class="text-center p-8">
-                    <h1 class="text-2xl font-bold text-red-500">🚫 Acesso Negado</h1>
-                    <p class="text-gray-600 dark:text-gray-300 mt-2">Este link é inválido, expirado ou já foi utilizado. Por favor, gere um novo acesso na plataforma.</p>
-                </div>`;
-            loadingScreen.classList.add('hidden');
-            return false;
-        }
-
-        document.addEventListener('DOMContentLoaded', async () => { // Adicionado 'async'
-            if (!(await checkAccess())) { // Adicionado 'await'
-                return; // Interrompe a execução se o acesso for negado
-            }
-
+        
+        document.addEventListener('DOMContentLoaded', () => {
             fetch('questoes.json')
                 .then(response => {
                     if (!response.ok) { throw new Error('Erro ao carregar o arquivo de questões.'); }
