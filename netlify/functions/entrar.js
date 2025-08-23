@@ -6,7 +6,7 @@ const crypto = require("crypto");
 
 const LINK_KEY = process.env.LINK_KEY || "";   // defina no Netlify (Site settings → Environment variables)
 
-const COOKIE_MAX_AGE = 2 * 60;                // 120 seg teste
+const COOKIE_MAX_AGE = 10 * 60 * 60;                // 10 horas de sessão
 
 
 
