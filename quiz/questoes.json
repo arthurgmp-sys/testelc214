@@ -1077,5 +1077,434 @@
       "Incorreta. O art. 482, II, apresenta os requisitos para os representantes municipais de forma alternativa (\"atenda, ao menos, a um dos seguintes requisitos\"). Portanto, ter o tempo de experiência exigido nas alíneas \"b\" ou \"c\" é suficiente, não sendo indispensável ocupar o cargo de Secretário.",
       "Incorreta. A assertiva contradiz diretamente o art. 482, § 4º, que determina que, em caso de vacância, a função será exercida pelo respectivo suplente durante o período remanescente."
     ]
-  }
+  },
+  {
+    "id": "LC214-051",
+    "question": "Considerando as disposições da Lei Complementar nº 214/2025 sobre o Imposto sobre Bens e Serviços (IBS) e a Contribuição Social sobre Bens e Serviços (CBS), é considerado contribuinte",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Sujeição Passiva e Responsabilidade (exceto plataformas digitais)",
+    "options": [
+      "o fornecedor que realizar operações de modo eventual, independentemente do volume que caracterize atividade econômica.",
+      "o importador, exceto se pessoa física que realize a importação para consumo próprio e sem finalidade comercial.",
+      "o fornecedor que realizar operações no desenvolvimento de atividade econômica, de modo habitual ou em volume que caracterize atividade econômica.",
+      "o adquirente, em qualquer hipótese de aquisição de bens, ainda que o fornecedor seja contribuinte regularmente inscrito.",
+      "o fornecedor residente ou domiciliado no exterior, que fica dispensado de se cadastrar como contribuinte caso realize operações no País, sendo a responsabilidade atribuída exclusivamente ao adquirente."
+    ],
+    "answer": 2,
+    "justifications": [
+      "Incorreta. A lei exige que a operação seja realizada \"de modo habitual ou em volume que caracterize atividade econômica\" para que o fornecedor seja considerado contribuinte. Art. 21, inciso I, alínea \"b\".",
+      "Incorreta. A lei define o importador como contribuinte de forma ampla, sem fazer a ressalva mencionada na alternativa. rt. 21, inciso III, e Art. 63, caput.",
+      "Correta. A alternativa reproduz fielmente as condições estabelecidas no Art. 21, I, da LC 214/2025 para a caracterização do fornecedor como contribuinte.",
+      "Incorreta. O adquirente é considerado contribuinte em hipóteses específicas, como na aquisição de bem apreendido ou abandonado em licitação pública ou em leilão judicial, e não em qualquer hipótese. Art. 21, inciso II, alíneas \"a\" e \"b\".",
+      "Incorreta. O Art. 21, § 2º, estabelece a obrigação de o fornecedor residente ou domiciliado no exterior se cadastrar como contribuinte caso realize operações no País."
+    ]
+  },
+  {
+    "id": "LC214-052",
+    "question": "De acordo com a Lei Complementar nº 214/2025, relativamente ao IBS e à CBS:\n\nI. O condomínio edilício e o consórcio de que trata a Lei nº 6.404/1976 não são considerados contribuintes, mas podem optar pelo regime regular.\nII. O produtor rural pessoa física ou jurídica que auferir receita de até R$ 3.600.000,00 no ano-calendário é considerado contribuinte, mas com regime favorecido.\nIII. O nanoempreendedor, assim entendido a pessoa física com receita bruta inferior a 50% do limite do MEI que não tenha aderido a esse regime, não é contribuinte, não lhe sendo facultada a opção pelo regime regular.\nIV. A sociedade em conta de participação não é contribuinte, e caso não exerça a opção pelo regime regular, o sócio ostensivo ficará obrigado ao pagamento do IBS e da CBS.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Sujeição Passiva e Responsabilidade (exceto plataformas digitais)",
+    "options": [
+      "I e IV.",
+      "II e III.",
+      "I, II e III.",
+      "II, III e IV.",
+      "I e II."
+    ],
+    "answer": 0,
+    "justifications": [
+      "Correta. O Art. 26, incisos I e II, estabelece que condomínio edilício e consórcio não são contribuintes. O § 1º, inciso I, do mesmo artigo, permite que ambos optem pelo regime regular.",
+      "Incorreta. O Art. 164 define que o produtor rural com receita inferior a R$ 3.600.000,00 não será considerado contribuinte, e não um contribuinte com regime favorecido.",
+      "Incorreta. Embora o nanoempreendedor não seja contribuinte (Art. 26, IV), o Art. 26, § 1º, II, permite que ele opte pelo regime regular, contrariando a afirmação.",
+      "Correta. O Art. 26, III, define a sociedade em conta de participação como não contribuinte. O § 4º do mesmo artigo estabelece a responsabilidade do sócio ostensivo caso a sociedade não opte pelo regime regular."
+    ]
+  },
+  {
+    "id": "LC214-053",
+    "question": "Carlos, um experiente comerciante, firmou um contrato de sociedade em conta de participação com Lúcia, que aportou capital como sócia participante. Carlos, na qualidade de sócio ostensivo, é o responsável por administrar e operar uma pequena loja de artesanato em seu próprio nome. A sociedade em conta de participação não exerceu a opção de se inscrever como contribuinte no regime regular do IBS e da CBS. Em uma venda realizada pela loja, surgiu a dúvida sobre quem deveria cumprir as obrigações tributárias.\nNessa situação, de acordo com a Lei Complementar nº 214/2025, a responsabilidade pelo pagamento do IBS e da CBS é",
+    "difficulty": "Fácil",
+    "format": "Contexto",
+    "subtopic": "Sujeição Passiva e Responsabilidade (exceto plataformas digitais)",
+    "options": [
+      "de Lúcia, a sócia participante, pois foi quem aportou o capital que viabilizou a operação.",
+      "de Carlos, o sócio ostensivo, que fica obrigado ao pagamento quanto às operações realizadas pela sociedade.",
+      "da própria sociedade em conta de participação, que é considerada contribuinte por presunção legal, mesmo sem a opção.",
+      "dividida solidariamente entre Carlos e Lúcia, na proporção de suas participações nos lucros da sociedade.",
+      "inexistente, pois operações realizadas por sociedades em conta de participação que não optam pelo regime regular são isentas do IBS e da CBS."
+    ],
+    "answer": 1,
+    "justifications": [
+      "Incorreta. A lei atribui a responsabilidade ao sócio ostensivo, não ao sócio participante.",
+      "Correta. Conforme o Art. 26, § 4º, caso a sociedade em conta de participação (que, segundo o inciso III do mesmo artigo, não é contribuinte) não exerça a opção pelo regime regular, o sócio ostensivo (Carlos) ficará obrigado ao pagamento do IBS e da CBS quanto às operações realizadas pela sociedade.",
+      "Incorreta. O Art. 26, inciso III, define expressamente a sociedade em conta de participação como uma entidade que não é contribuinte do IBS e da CBS, a menos que exerça a opção pelo regime regular.",
+      "Incorreta. A responsabilidade atribuída pela lei ao sócio ostensivo é integral e exclusiva, não solidária nem proporcional entre os sócios nesta situação específica.",
+      "Incorreta. A operação não é isenta. A ausência da opção pelo regime regular apenas transfere a obrigação tributária da sociedade para o sócio ostensivo."
+    ]
+  },
+  {
+    "id": "LC214-054",
+    "question": "Em matéria de responsabilidade solidária pelo pagamento do IBS e da CBS, a Lei Complementar nº 214/2025 estabelece que o transportador é solidariamente responsável",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Sujeição Passiva e Responsabilidade (exceto plataformas digitais)",
+    "options": [
+      "apenas em relação a bem transportado desacobertado de documento fiscal idôneo, excluindo-se a responsabilidade por entrega em local diverso do indicado.",
+      "em relação a bem transportado desacobertado de documento fiscal idôneo e quando efetuar a entrega de bem em local distinto daquele indicado no documento fiscal.",
+      "de forma subsidiária, e não solidária, em relação a bem transportado desacobertado de documento fiscal idôneo.",
+      "em relação a qualquer bem que transportar, caso o remetente não efetue o pagamento do tributo devido na operação, independentemente da documentação fiscal.",
+      "em relação a bem transportado desacobertado de documento fiscal idôneo, desde que comprovada sua culpa ou dolo na irregularidade."
+    ],
+    "answer": 1,
+    "justifications": [
+      "Incorreta. O Art. 24, II, prevê duas hipóteses de responsabilidade para o transportador: transportar bem sem documento fiscal idôneo (alínea \"a\") e entregar em local distinto do indicado no documento fiscal (alínea \"b\").",
+      "Correta. A alternativa descreve com exatidão as duas hipóteses de responsabilidade solidária do transportador, previstas no Art. 24, inciso II, alíneas \"a\" e \"b\".",
+      "Incorreta. O caput do Art. 24 estabelece expressamente que a responsabilidade é solidária, e não subsidiária.",
+      "Incorreta. A responsabilidade do transportador é vinculada a irregularidades específicas (falta de documento idôneo ou entrega em local diverso), e não ao mero inadimplemento do remetente.",
+      "Incorreta. A responsabilidade prevista no Art. 24, II, é objetiva, não exigindo a comprovação de culpa ou dolo do transportador para sua configuração."
+    ]
+  },
+  {
+    "id": "LC214-055",
+    "question": "A empresa “Alfa Ltda.”, contribuinte do IBS e da CBS, arrematou, em um leilão judicial, um lote de máquinas industriais que pertenciam à massa falida da empresa “Beta S.A.”. A empresa “Gama Ltda.” adquiriu um veículo apreendido em uma licitação promovida pelo poder público. Considerando a sistemática da sujeição passiva da LC 214/2025:\n\nI. A empresa “Alfa Ltda.” é contribuinte do IBS e da CBS na operação de aquisição das máquinas em leilão judicial.\nII. A empresa “Gama Ltda.” não é contribuinte do IBS e da CBS na operação de aquisição do veículo, pois o bem foi adquirido do poder público.\nIII. Em ambas as situações, a responsabilidade pelo recolhimento do IBS e da CBS é do leiloeiro e do poder público, respectivamente, na qualidade de substitutos tributários.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Sujeição Passiva e Responsabilidade (exceto plataformas digitais)",
+    "options": [
+      "I.",
+      "II.",
+      "III.",
+      "I e II.",
+      "II e III."
+    ],
+    "answer": 0,
+    "justifications": [
+      "Correta. O Art. 21, inciso II, alínea \"b\", estabelece expressamente que o adquirente de bem em leilão judicial é contribuinte do IBS e da CBS.",
+      "Incorreta. O Art. 21, inciso II, alínea \"a\", define como contribuinte o adquirente de bem apreendido ou abandonado em licitação promovida pelo poder público.",
+      "Incorreta. A lei define o adquirente como contribuinte nessas operações (Art. 21, II). Embora o leiloeiro possa ser solidariamente responsável pela operação (Art. 24, III), a condição de contribuinte é do adquirente. Não há previsão de substituição tributária para o poder público nesse caso."
+    ]
+  },
+  {
+    "id": "LC214-056",
+    "question": "De acordo com a Lei Complementar nº 214/2025, as responsabilidades pelo pagamento do IBS e da CBS atribuídas a terceiros",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Sujeição Passiva e Responsabilidade (exceto plataformas digitais)",
+    "options": [
+      "compreendem apenas a obrigação pelo pagamento do valor principal do IBS e da CBS, excluindo-se multas punitivas e de mora.",
+      "limitam-se ao pagamento do IBS e da CBS, acrescidos de correção monetária, sendo as multas de responsabilidade exclusiva do contribuinte original.",
+      "compreendem a obrigação pelo pagamento do IBS e da CBS, acrescidos de correção e atualização monetária, multa de mora, multas punitivas e demais encargos.",
+      "abrangem a obrigação principal e os juros de mora, mas as multas punitivas só podem ser exigidas do responsável se comprovado que este agiu com dolo.",
+      "referem-se exclusivamente ao pagamento do IBS, não se aplicando à CBS, cuja responsabilidade é sempre pessoal do contribuinte."
+    ],
+    "answer": 2,
+    "justifications": [
+      "Incorreta. O Art. 25 é explícito ao incluir na responsabilidade não apenas o tributo, mas também multas de mora e punitivas.",
+      "Incorreta. O Art. 25 inclui expressamente \"multas punitivas e demais encargos\" na responsabilidade.",
+      "Correta. A alternativa é uma paráfrase fiel do conteúdo do Art. 25 da lei, que define a abrangência total da responsabilidade tributária.",
+      "Incorreta. A lei não condiciona a exigência de multas punitivas do responsável à comprovação de dolo; a responsabilidade abrange todos os encargos previstos.",
+      "Incorreta. O Art. 25, assim como os demais artigos da Seção VII (Da Sujeição Passiva), trata de forma conjunta a responsabilidade pelo IBS e pela CBS."
+    ]
+  },
+  {
+    "id": "LC214-057",
+    "question": "O Condomínio Edifício Residencial Flores, não optante pelo regime regular do IBS e da CBS, possui uma receita total anual de R$ 1.000.000,00. Desse montante, R$ 750.000,00 são provenientes das taxas condominiais pagas pelos condôminos, e R$ 250.000,00 são decorrentes do aluguel de seu salão de festas e da cessão de espaço no telhado para a instalação de antenas de telefonia por empresas. Com base no disposto na LC 214/2025,",
+    "difficulty": "Difícil",
+    "format": "Contexto",
+    "subtopic": "Sujeição Passiva e Responsabilidade (exceto plataformas digitais)",
+    "options": [
+      "o condomínio não é contribuinte em nenhuma hipótese, pois a lei o exclui expressamente da sujeição passiva, sendo sua receita totalmente isenta.",
+      "o condomínio passará a ser contribuinte em relação a todas as suas receitas, incluindo as taxas condominiais, pois mais de 20% de sua receita total provém de operações com terceiros.",
+      "o condomínio ficará sujeito à incidência do IBS e da CBS sobre as operações com bens e serviços que realizar com terceiros, podendo apropriar créditos na proporção dessa receita tributada em relação à sua receita total.",
+      "o condomínio deverá optar obrigatoriamente pelo regime regular do IBS e da CBS, passando a tributar integralmente sua receita a partir do ano-calendário seguinte.",
+      "o condomínio é contribuinte apenas sobre a receita de R$ 250.000,00, mas fica vedada a apropriação de quaisquer créditos, por não ser optante do regime regular."
+    ],
+    "answer": 2,
+    "justifications": [
+      "Incorreta. Embora a regra geral do Art. 26, I, seja de que o condomínio edilício não é contribuinte, o § 2º, II, do mesmo artigo estabelece uma exceção.",
+      "Incorreta. A tributação, no caso da exceção, incide apenas sobre as operações com terceiros, e não sobre a totalidade das receitas, conforme Art. 26, § 2º, II, 'a'.",
+      "Correta. No cenário apresentado, as taxas condominiais representam 75% da receita total (750.000 / 1.000.000), ou seja, menos de 80%. Aplica-se, portanto, a regra do Art. 26, § 2º, inciso II, que determina a incidência do IBS/CBS sobre as operações com terceiros e permite a apropriação de créditos de forma proporcional.",
+      "Incorreta. A lei não impõe a obrigatoriedade da opção pelo regime regular, mas sim uma regra de tributação específica para o condomínio não optante que se enquadra na condição descrita. A opção é sempre facultativa, conforme Art. 26, § 1º.",
+      "Incorreta. A primeira parte está correta, mas a segunda está errada, pois o Art. 26, § 2º, II, 'b', autoriza expressamente a apropriação de créditos de forma proporcional."
+    ]
+  },
+  {
+    "id": "LC214-058",
+    "question": "Nos termos da Lei Complementar nº 214/2025, são solidariamente responsáveis pelo pagamento do IBS e da CBS, entre outros,",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Sujeição Passiva e Responsabilidade (exceto plataformas digitais)",
+    "options": [
+      "o leiloeiro, de forma subsidiária, pelo IBS e pela CBS devidos na operação realizada em leilão.",
+      "o transportador, quando efetuar a entrega de bem em local distinto daquele indicado no documento fiscal, desde que seja uma empresa de serviço postal.",
+      "a pessoa ou entidade sem personalidade jurídica que, a qualquer título, adquire ou recebe bem não acobertado por documento fiscal idôneo.",
+      "o entreposto aduaneiro, em relação a bem destinado para o exterior, mesmo que com a documentação fiscal correspondente.",
+      "qualquer pessoa física ou jurídica que concorra para o descumprimento de obrigações tributárias, exceto se por meio de omissões."
+    ],
+    "answer": 2,
+    "justifications": [
+      "Incorreta. O Art. 24, III, estabelece a responsabilidade solidária, e não subsidiária, do leiloeiro.",
+      "Incorreta. A responsabilidade do transportador por entrega em local diverso (Art. 24, II, 'b') aplica-se a qualquer transportador, não se restringindo a empresas de serviço postal.",
+      "Correta. A alternativa descreve com precisão a hipótese de responsabilidade solidária prevista no Art. 24, inciso I, da lei.",
+      "Incorreta. A responsabilidade do entreposto, conforme Art. 24, VI, 'a', ocorre quando o bem é destinado ao exteriorsem documentação fiscal correspondente.",
+      "Incorreta. O Art. 24, V, define a responsabilidade de quem concorre para o descumprimento por seus \"atos e omissões\"."
+    ]
+  },
+  {
+    "id": "LC214-059",
+    "question": "De acordo com a Lei Complementar nº 214/2025, a opção pelo regime regular do IBS e da CBS é facultada, entre outros, para:\n\nI. O condomínio edilício e a sociedade em conta de participação, que normalmente não são contribuintes.\nII. O nanoempreendedor e o produtor rural que não atinge o limite de receita para enquadramento obrigatório como contribuinte.\nIII. Os fundos de investimento em geral e as entidades de previdência complementar fechada.\nIV. O transportador autônomo de carga e o consórcio de que trata o art. 278 da Lei nº 6.404/1976.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Sujeição Passiva e Responsabilidade (exceto plataformas digitais)",
+    "options": [
+      "I, II e IV.",
+      "II e III.",
+      "I, III e IV.",
+      "III e IV.",
+      "I e II."
+    ],
+    "answer": 0,
+    "justifications": [
+      "Correta. O Art. 26, § 1º, inciso I, permite expressamente que as entidades dos incisos I a III do caput (condomínio edilício, consórcio e sociedade em conta de participação) optem pelo regime regular.",
+      "Correta. O Art. 26, § 1º, nos incisos II e IV, faculta a opção ao nanoempreendedor e ao produtor rural não contribuinte, respectivamente.",
+      "Incorreta. O Art. 26, V e IX, estabelece que fundos de investimento e entidades de previdência complementar fechada não são contribuintes, mas o § 1º do mesmo artigo não lista essas entidades entre aquelas que podem optar pelo regime regular.",
+      "Correta. O Art. 26, § 1º, nos incisos V e I, permite a opção ao transportador autônomo de carga e ao consórcio, respectivamente."
+    ]
+  },
+  {
+    "id": "LC214-060",
+    "question": "Em um procedimento de auditoria fiscal, apurou-se que uma transportadora foi contratada para levar uma carga de componentes eletrônicos. A operação foi integralmente realizada com um documento fiscal inidôneo, que declarava um valor notoriamente inferior ao de mercado. Ficou comprovado que a transportadora, a pedido do adquirente, desviou a rota e entregou a carga em um galpão clandestino, endereço diverso do que constava no documento fiscal. O adquirente, uma empresa de montagem de computadores, tinha ciência da irregularidade do documento e solicitou a entrega no local diverso para ocultar a operação. Com base na LC 214/2025:\n\nI. A transportadora é solidariamente responsável pelo pagamento do IBS e da CBS, tanto por transportar o bem com documento inidôneo quanto por entregá-lo em local diverso do indicado.\nII. O adquirente dos componentes é solidariamente responsável pelo pagamento do IBS e da CBS, pois concorreu com seus atos e omissões para a ocultação da ocorrência da operação.\nIII. A responsabilidade da transportadora é subsidiária à do remetente, sendo acionada apenas se este não pagar o tributo devido.\nIV. A responsabilidade do adquirente se restringe ao valor que foi ocultado da operação, não abrangendo o total do tributo incidente.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Difícil",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Sujeição Passiva e Responsabilidade (exceto plataformas digitais)",
+    "options": [
+      "II e III.",
+      "I, II e IV.",
+      "I e III.",
+      "II, III e IV.",
+      "I e IV."
+    ],
+    "answer": 1,
+    "justifications": [
+      "Correta. A conduta da transportadora se enquadra nas hipóteses de responsabilidade solidária previstas no Art. 24, II, 'a' (transportar bem com documento inidôneo) e 'b' (entregar em local distinto).",
+      "Correta. A conduta do adquirente o enquadra na responsabilidade solidária tanto do Art. 24, I (receber bem não acobertado por documento fiscal idôneo) quanto do Art. 24, V, 'a' (concorrer para a ocultação da operação).",
+      "Incorreta. O Art. 24 estabelece a responsabilidade como \"solidariamente responsáveis\", afastando a subsidiariedade.",
+      "Correta. O Art. 24, § 2º, especifica que a responsabilidade baseada na ocultação da operação (Art. 24, V, 'a') \"restringe-se ao valor ocultado da operação\"."
+    ]
+  },
+  {
+    "id": "LC214-061",
+    "question": "De acordo com a Lei Complementar nº 214/2025, a devolução personalizada do IBS e da CBS (cashback) será destinada a pessoas físicas que forem integrantes de famílias de baixa renda, desde que atendam, cumulativamente, a determinados requisitos. Considera-se destinatário da devolução aquele que,",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Devolução (Cashback) e Cesta Básica",
+    "options": [
+        "possuir renda familiar mensal de até um salário-mínimo, sendo dispensada a inscrição no CadÚnico se a renda for comprovada por outros meios.",
+        "for o responsável por unidade familiar cadastrada no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico), possuir renda familiar mensal per capita de até meio salário-mínimo e ter inscrição regular no CPF.",
+        "estiver cadastrado no CadÚnico, independentemente da renda familiar mensal per capita, desde que seja residente no território nacional.",
+        "possuir renda familiar mensal per capita de até meio salário-mínimo ou, alternativamente, estar cadastrado no CadÚnico, mesmo que com renda superior.",
+        "for qualquer membro da família de baixa renda cadastrada no CadÚnico, desde que possua CPF regular, ainda que não seja o responsável pela unidade familiar."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. A lei estabelece o limite de renda familiar mensal per capita de até meio salário-mínimo e exige o cadastro no CadÚnico, não prevendo dispensa.",
+        "Correta. A alternativa descreve precisamente os requisitos cumulativos estabelecidos no Art. 113 da LC 214/2025: ser o responsável pela unidade familiar no CadÚnico, ter renda familiar per capita de até meio salário-mínimo e CPF regular.",
+        "Incorreta. O requisito da renda familiar per capita de até meio salário-mínimo é obrigatório e cumulativo, não podendo ser desconsiderado.",
+        "Incorreta. Os requisitos são cumulativos, e não alternativos.",
+        "Incorreta. O Art. 113 especifica que o destinatário é o responsável pela unidade familiar cadastrada."
+    ]
+},
+{
+    "id": "LC214-062",
+    "question": "No que tange aos percentuais de devolução do IBS e da CBS (cashback) para famílias de baixa renda, conforme a LC 214/2025, considere:\n\nI. Na aquisição de botijão de gás liquefeito de petróleo de até 13 kg, o percentual de devolução será de 100% (cem por cento) para a CBS e de 20% (vinte por cento) para o IBS.\nII. Para operações de fornecimento domiciliar de energia elétrica e abastecimento de água, os percentuais de devolução são de 20% (vinte por cento) tanto para a CBS quanto para o IBS.\nIII. Nas aquisições de produtos de higiene pessoal, que se enquadram nos \"demais casos\", os percentuais de devolução corresponderão a 20% (vinte por cento) para a CBS e para o IBS.\n\nEstá correto o que se afirma em",
+    "difficulty": "Fácil",
+    "format": "Assertiva",
+    "subtopic": "Devolução (Cashback) e Cesta Básica",
+    "options": [
+        "I, apenas.",
+        "II, apenas.",
+        "I e II, apenas.",
+        "I e III, apenas.",
+        "I, II e III."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Correta. A assertiva reflete exatamente o disposto no Art. 118, inciso I, para a aquisição de gás de cozinha.",
+        "Incorreta. As operações de fornecimento de energia elétrica e água seguem a mesma regra do gás de cozinha, ou seja, devolução de 100% para a CBS e 20% para o IBS, conforme o Art. 118, inciso I, e não 20% para ambos.",
+        "Correta. As compras de produtos de higiene pessoal se enquadram na regra geral dos \"demais casos\" prevista no Art. 118, inciso II, com devolução de 20% para ambos os tributos."
+    ]
+},
+{
+    "id": "LC214-063",
+    "question": "A Lei Complementar nº 214/2025 estabelece a estrutura de gestão e o cronograma de implementação da devolução personalizada do IBS e da CBS. A esse respeito, a gestão da devolução e o início do cálculo com base no consumo familiar ocorrerão, respectivamente,",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Devolução (Cashback) e Cesta Básica",
+    "options": [
+        "para a CBS, pela RFB, a partir de janeiro de 2029, e, para o IBS, pelo Comitê Gestor do IBS, a partir de janeiro de 2027.",
+        "para a CBS, pelo Comitê Gestor do IBS, a partir de janeiro de 2027, e, para o IBS, pela RFB, a partir de janeiro de 2029.",
+        "de forma unificada pelo Comitê Gestor do IBS para ambos os tributos, com início a partir de janeiro de 2027.",
+        "para a CBS, pela RFB, a partir de janeiro de 2027, e, para o IBS, pelo Comitê Gestor do IBS, a partir de janeiro de 2029.",
+        "de forma unificada pela RFB para ambos os tributos, com início a partir de janeiro de 2029."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. As datas de início estão invertidas.",
+        "Incorreta. Os órgãos gestores estão invertidos.",
+        "Incorreta. A gestão não é unificada no Comitê Gestor, e a data de início para o IBS está incorreta.",
+        "Correta. O art. 114 determina que a devolução da CBS será gerida pela Receita Federal do Brasil (RFB) e o início do cálculo com base no consumo familiar ocorrerá, para a CBS, a partir de janeiro de 2027. O art. 115 (em consonância com o capítulo) disciplina a devolução do IBS e vincula sua gestão ao Comitê Gestor do IBS, sendo o início do cálculo com base no consumo familiar previsto, para o IBS, a partir de janeiro de 2029. Art. 123, incisos I e II",
+        "Incorreta. A gestão não é unificada na RFB, e a data de início para a CBS está incorreta."
+    ]
+},
+{
+    "id": "LC214-064",
+    "question": "Conforme a Lei Complementar nº 214/2025, os produtos destinados à alimentação humana que compõem a Cesta Básica Nacional de Alimentos, listados em anexo específico, recebem o seguinte tratamento tributário em relação ao IBS e à CBS:",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Devolução (Cashback) e Cesta Básica",
+    "options": [
+        "São contemplados com isenção total, dependendo de ato regulamentar de cada ente federativo.",
+        "Gozam de imunidade tributária por serem considerados essenciais à dignidade da pessoa humana.",
+        "Têm suas alíquotas reduzidas em 60% (sessenta por cento), de forma similar a outros alimentos.",
+        "Ficam sujeitos à redução a zero das alíquotas incidentes sobre as suas vendas.",
+        "Não se sujeitam à incidência dos tributos (não incidência), por estarem fora do campo de competência tributária."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. O instituto aplicado não é a isenção, que é uma dispensa legal de pagamento. A lei define um tratamento específico de alíquota.",
+        "Incorreta. A imunidade é uma vedação constitucional ao poder de tributar, e a lei não estabelece uma imunidade para a cesta básica, mas sim um benefício infraconstitucional.",
+        "Incorreta. A redução de 60% é um regime diferenciado previsto no Art. 128 para uma lista geral de alimentos, diferente do benefício específico da Cesta Básica Nacional.",
+        "Correta. O Art. 125 da LC 214/2025 é explícito ao determinar que \"Ficam reduzidas a zero as alíquotas do IBS e da CBS incidentes sobre as vendas de produtos destinados à alimentação humana relacionados no Anexo I\" . Este é o termo técnico e o benefício correto.",
+        "Incorreta. Os produtos estão no campo de incidência dos tributos, mas a legislação optou por zerar a alíquota aplicável, o que é diferente de uma hipótese de não incidência."
+    ]
+},
+{
+    "id": "LC214-065",
+    "question": "A família de Joana, devidamente cadastrada no CadÚnico e enquadrada nos critérios de baixa renda, realizou duas operações de consumo em um mesmo mês: efetuou o pagamento da sua conta de energia elétrica e comprou um par de sapatos para sua filha em uma loja de calçados. Ambas as operações foram devidamente registradas com a emissão de documento fiscal eletrônico.\nConsiderando a sistemática da devolução personalizada (cashback) prevista na LC 214/2025, o tratamento a ser aplicado sobre o valor dos tributos incidentes em cada operação será:",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Devolução (Cashback) e Cesta Básica",
+    "options": [
+        "a devolução de 20% da CBS e 20% do IBS em ambas as operações, por se tratarem de consumo geral da família.",
+        "a devolução de 100% da CBS e 20% do IBS em ambas as operações, pois todos os consumos de famílias de baixa renda têm o benefício máximo.",
+        "a devolução de 20% de ambos os tributos na conta de energia elétrica e de 100% da CBS e 20% do IBS na compra dos sapatos.",
+        "a devolução de 100% da CBS e 20% do IBS na conta de energia elétrica, e a devolução de 20% da CBS e 20% do IBS na compra dos sapatos.",
+        "a devolução de 100% de ambos os tributos na conta de energia elétrica e de 20% de ambos os tributos na compra dos sapatos, por expressa disposição legal."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. A lei prevê um tratamento diferenciado e mais benéfico para o fornecimento de energia elétrica.",
+        "Incorreta. O benefício máximo de 100% da CBS não se aplica a todas as operações, mas a uma lista específica de bens e serviços.",
+        "Incorreta. A alternativa inverte a aplicação das regras de devolução.",
+        "Correta. A alternativa aplica corretamente as duas faixas de devolução. O fornecimento de energia elétrica está expressamente listado no Art. 118, inciso I, que prevê a devolução de 100% para a CBS e 20% para o IBS. A compra de sapatos, por sua vez, enquadra-se nos \"demais casos\" do Art. 118, inciso II, cuja devolução é de 20% para a CBS e para o IBS.",
+        "Incorreta. A devolução sobre a conta de energia elétrica é de 100% apenas para a CBS, e não para ambos os tributos."
+    ]
+},
+{
+    "id": "LC214-066",
+    "question": "Um consumidor, ao fazer suas compras em um supermercado, adquiriu os seguintes itens: arroz, feijão do tipo preto, pão francês e filé de atum congelado. Todos os produtos são destinados à alimentação humana.\nConsiderando as regras da Cesta Básica Nacional de Alimentos da LC 214/2025, analise as assertivas sobre o tratamento tributário desses produtos:\n\nI. O arroz e o feijão preto, por constarem expressamente no Anexo I, têm suas alíquotas de IBS e CBS reduzidas a zero.\nII. O pão comumente denominado pão francês, por ser um item listado no Anexo I, também se beneficia da redução a zero das alíquotas.\nIII. O filé de atum, embora seja um peixe, está sujeito à tributação pelas alíquotas-padrão do IBS e da CBS, pois o Anexo I exclui expressamente os atuns do benefício da alíquota zero.\n\nEstá correto o que se afirma em",
+    "difficulty": "Média",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Devolução (Cashback) e Cesta Básica",
+    "options": [
+        "I, apenas.",
+        "II, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I, II e III."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Correta. Conforme o Art. 125, produtos do Anexo I têm alíquota zero . O arroz consta no item 1 e os feijões no item 7 do referido anexo.",
+        "Correta. O \"pão comumente denominado pão francês\" está listado no item 16 do Anexo I, fazendo jus ao benefício da alíquota zero.",
+        "Correta. O item 20 do Anexo I, ao listar os peixes beneficiados, estabelece exceções claras, entre elas os \"atuns\". Portanto, o filé de atum não faz parte da Cesta Básica Nacional e é tributado normalmente."
+    ]
+},
+{
+    "id": "LC214-067",
+    "question": "A Lei Complementar nº 214/2025 instituiu a devolução personalizada de tributos, conhecida como cashback, como um mecanismo de justiça fiscal destinado a reduzir o peso da tributação sobre o consumo das famílias de baixa renda. Este benefício é calculado mediante a aplicação de percentuais distintos sobre o valor da CBS incidente, a depender da natureza do bem ou serviço consumido, visando priorizar itens de maior essencialidade.\nNesse contexto, as devoluções da CBS serão aplicadas nos percentuais de 100%, 20% e 100%, respectivamente, em relação às seguintes operações:",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Devolução (Cashback) e Cesta Básica",
+    "options": [
+        "fornecimento domiciliar de energia elétrica, aquisição de vestuário e fornecimento de serviços de telecomunicações.",
+        "aquisição de alimentos da cesta básica, aquisição de botijão de gás de até 13 kg e fornecimento de água.",
+        "aquisição de medicamentos, fornecimento de gás canalizado e aquisição de produtos de higiene pessoal.",
+        "fornecimento de serviços de telecomunicações, fornecimento de energia elétrica e abastecimento de água.",
+        "aquisição de material escolar, aquisição de eletrodomésticos e aquisição de calçados."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. A alternativa apresenta a sequência exata de percentuais solicitada. Conforme o Art. 118, inciso I, o fornecimento de energia elétrica e os serviços de telecomunicações fazem jus à devolução de 100% da CBS. A aquisição de vestuário se enquadra nos \"demais casos\" do Art. 118, inciso II, com devolução de 20% da CBS. A sequência (100%, 20%, 100%) está perfeita.",
+        "Incorreta. Alimentos da Cesta Básica são submetidos à alíquota zero (Art. 125), não gerando tributo a ser devolvido. Além disso, botijão de gás e fornecimento de água teriam ambos 100% de devolução da CBS, quebrando a sequência.",
+        "Incorreta. A sequência de devolução da CBS para estes itens seria de 20% (medicamentos, inciso II), 100% (gás canalizado, inciso I) e 20% (higiene pessoal, inciso II), resultando em 20%, 100%, 20%.",
+        "Incorreta. Todos os três serviços listados (telecomunicações, energia e água) estão no rol do Art. 118, inciso I, portanto, a sequência de devolução da CBS seria de 100%, 100%, 100%.",
+        "Incorreta. Todos os três bens listados (material escolar, eletrodomésticos e calçados) enquadram-se nos \"demais casos\" do Art. 118, inciso II, resultando em uma sequência de devolução da CBS de 20%, 20%, 20%."
+    ]
+},
+{
+    "id": "LC214-068",
+    "question": "A respeito da devolução personalizada do IBS e da CBS (cashback), a Lei Complementar nº 214/2025 distribui competências e estabelece limites para a atuação dos entes federativos. Considere as seguintes assertivas:\n\nI. Compete à União efetuar a devolução da CBS, enquanto compete aos Estados, ao Distrito Federal e aos Municípios efetuar a devolução do IBS.\nII. Os Estados e os Municípios podem, por meio de lei específica, fixar percentuais de devolução de suas parcelas do IBS superiores aos patamares mínimos previstos na lei.\nIII. A União pode, por lei específica, alterar o percentual de devolução da CBS de 100% incidente sobre o fornecimento de gás liquefeito de petróleo, ajustando-o conforme a política energética nacional.\n\nEstá correto o que se afirma em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Devolução (Cashback) e Cesta Básica",
+    "options": [
+        "I, apenas.",
+        "III, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I, II e III."
+    ],
+    "answer": 2,
+    "justifications": [
+        "Correta. A divisão de responsabilidades está claramente definida no Art. 112, que estabelece a devolução da CBS pela União (inciso I) e do IBS pelos Estados, DF e Municípios (inciso II) .",
+        "Correta. O Art. 118, § 1º, autoriza expressamente que os entes federativos fixem, por lei própria, percentuais de devolução superiores aos mínimos para suas respectivas parcelas do tributo .",
+        "Incorreta. O Art. 118, § 3º, estabelece uma vedação explícita a esta possibilidade, ao dispor que a faculdade de aumentar os percentuais \"não se aplica ao percentual de devolução da CBS de que trata o inciso I do caput\" , que é justamente o caso da devolução de 100% sobre o gás, energia, etc."
+    ]
+},
+{
+    "id": "LC214-069",
+    "question": "Uma família, beneficiária do programa de devolução personalizada de tributos (cashback), realizou uma única compra em um supermercado. No documento fiscal emitido, consta que o valor total de IBS e CBS incidentes sobre a operação foi de R$ 45,00. Por uma particularidade no cálculo do sistema, que considerou uma base de cálculo diferenciada para o cashback, o valor apurado a ser devolvido foi de R$ 50,00.\nNessa situação, focando no valor total, o montante que poderá ser efetivamente creditado à família beneficiária será de",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Devolução (Cashback) e Cesta Básica",
+    "options": [
+        "R$ 50,00, pois prevalece o cálculo percentual definido em lei como direito do beneficiário.",
+        "R$ 45,00, pois a devolução não pode superar o ônus do tributo suportado na operação.",
+        "R$ 0,00, pois a discrepância entre o cálculo e o valor do tributo anula o benefício para essa operação.",
+        "R$ 47,50, correspondente à média entre o valor do tributo na nota e o valor calculado pelo sistema.",
+        "R$ 22,50, correspondente a 50% do valor do tributo, como medida de prudência em caso de divergência."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. O cálculo percentual não é absoluto e está sujeito a um teto.",
+        "Correta. O Art. 120 da LC 214/2025 estabelece uma regra-limite fundamental: \"Em nenhuma hipótese a parcela creditada individualmente à família beneficiária (...) poderá superar o ônus do tributo suportado (...) incidentes sobre o consumo das famílias\" . No caso, o ônus suportado foi de R$ 45,00. Portanto, mesmo que o cálculo do sistema aponte um valor maior, a devolução está limitada ao valor do tributo efetivamente pago.",
+        "Incorreta. A lei não prevê a anulação do benefício em caso de discrepância, mas sim a sua limitação ao teto.",
+        "Incorreta. Não há previsão legal para cálculo de média em caso de divergência.",
+        "Incorreta. A lei não prevê aplicação de redutor prudencial; a regra é a aplicação do teto."
+    ]
+},
+{
+    "id": "LC214-070",
+    "question": "A Lei Complementar nº 214/2025, ao instituir a devolução personalizada de tributos (cashback), estabeleceu um cronograma para o início de sua apuração e um prazo para a utilização dos valores devolvidos. De acordo com a lei,",
+    "difficulty": "Difícil",
+    "format": "Direta",
+    "subtopic": "Devolução (Cashback) e Cesta Básica",
+    "options": [
+        "o cálculo da devolução da CBS iniciará em janeiro de 2029, o do IBS em janeiro de 2027, e o prazo para utilização das devoluções não poderá ser superior a 12 meses.",
+        "o cálculo da devolução tanto da CBS quanto do IBS iniciará em janeiro de 2027, e o prazo para utilização das devoluções não poderá ser superior a 24 meses.",
+        "o cálculo da devolução tanto da CBS quanto do IBS iniciará em janeiro de 2029, e o prazo para utilização das devoluções não poderá ser superior a 36 meses.",
+        "o cálculo da devolução da CBS iniciará com base no consumo de janeiro de 2027, o do IBS com base no consumo de janeiro de 2029, e o prazo para utilização das devoluções não poderá ser superior a 24 meses.",
+        "o cálculo da devolução da CBS iniciará em janeiro de 2027, o do IBS em janeiro de 2029, e o prazo para utilização das devoluções será de, no mínimo, 36 meses."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. As datas de início para CBS e IBS estão invertidas e o prazo para utilização está incorreto.",
+        "Incorreta. As datas de início são diferentes para cada tributo.",
+        "Incorreta. As datas de início são diferentes e o prazo para utilização está incorreto.",
+        "Correta. A alternativa consolida corretamente as informações de dois dispositivos. O Art. 123 define as datas de início do cálculo: inciso I para a CBS (janeiro de 2027) e inciso II para o IBS (janeiro de 2029) . Adicionalmente, o Art. 114, § 1º, inciso VIII, ao tratar da normatização da devolução, estipula que o prazo para utilização dos valores \"não poderá ser superior a 24 (vinte e quatro) meses\".",
+        "Incorreta. O prazo para utilização é de no máximo 24 meses, e não no mínimo 36 meses."
+    ]
+}
 ]
