@@ -1506,5 +1506,442 @@
         "Correta. A alternativa consolida corretamente as informações de dois dispositivos. O Art. 123 define as datas de início do cálculo: inciso I para a CBS (janeiro de 2027) e inciso II para o IBS (janeiro de 2029) . Adicionalmente, o Art. 114, § 1º, inciso VIII, ao tratar da normatização da devolução, estipula que o prazo para utilização dos valores \"não poderá ser superior a 24 (vinte e quatro) meses\".",
         "Incorreta. O prazo para utilização é de no máximo 24 meses, e não no mínimo 36 meses."
     ]
+},
+{
+    "id": "LC214-071",
+    "question": "Considerando a composição da base de cálculo do IBS e da CBS, conforme a Lei Complementar nº 214/2025, o valor da operação compreende o valor integral cobrado pelo fornecedor a qualquer título, incluindo",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "os descontos incondicionais, desde que não dependam de evento posterior.",
+        "o montante do Imposto sobre Produtos Industrializados (IPI).",
+        "o montante do IBS e da CBS incidentes sobre a própria operação.",
+        "os descontos concedidos sob condição.",
+        "os reembolsos recebidos por valores pagos relativos a operações por conta e ordem de terceiros."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. Descontos incondicionais não integram a base de cálculo do IBS e da CBS, conforme o art. 12, § 2º, inciso III.",
+        "Incorreta. O montante do IPI não integra a base de cálculo do IBS e da CBS, de acordo com o art. 12, § 2º, inciso II.",
+        "Incorreta. O montante do próprio IBS e da CBS incidentes sobre a operação não integram a sua base de cálculo, caracterizando o chamado \"cálculo por fora\", conforme o art. 12, § 2º, inciso I.",
+        "Correta. O valor da operação compreende os descontos concedidos sob condição, conforme expressamente previsto no art. 12, § 1º, inciso III.",
+        "Incorreta. Os reembolsos por operações por conta e ordem de terceiros não integram a base de cálculo, desde que a documentação fiscal seja emitida em nome do terceiro, segundo o art. 12, § 2º, inciso IV."
+    ]
+},
+{
+    "id": "LC214-072",
+    "question": "Durante um procedimento de fiscalização em uma empresa do setor de serviços, a autoridade tributária constatou que, para uma operação específica, o valor declarado em documento fiscal era notoriamente inferior ao valor de mercado. Diante dessa situação e nos termos da Lei Complementar nº 214/2025, a administração tributária",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "deverá aceitar o valor declarado, por se tratar de confissão de dívida, sem prejuízo da aplicação de penalidades.",
+        "poderá arbitrar o valor da operação.",
+        "deverá, obrigatoriamente, fixar a base de cálculo com base no preço final a consumidor sugerido pelo fabricante.",
+        "poderá desconsiderar a operação para fins tributários, anulando o documento fiscal emitido.",
+        "deverá suspender o crédito tributário até que o contribuinte retifique o documento fiscal voluntariamente."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. A lei prevê o arbitramento justamente em casos como este, não a aceitação de um valor que não merece fé. A previsão está no art. 13, inciso I, alínea \"b\".",
+        "Correta. O valor da operação será arbitrado pela administração tributária quando for declarado em documento fiscal valor notoriamente inferior ao valor de mercado da operação, conforme o art. 13, inciso I, alínea \"b\".",
+        "Incorreta. O preço sugerido pelo fabricante é apenas uma das possibilidades para o arbitramento, e só é aplicável quando não estiver disponível o valor de mercado, não sendo, portanto, uma medida obrigatória e prioritária, conforme o art. 13, parágrafo único, inciso II, alínea \"b\".",
+        "Incorreta. A operação não é desconsiderada; sua base de cálculo é que será ajustada de ofício pela autoridade fiscal por meio do arbitramento.",
+        "Incorreta. A legislação não prevê a suspensão do crédito nesta hipótese, mas sim a ação de ofício da administração tributária para apurar o valor correto através do arbitramento."
+    ]
+},
+{
+    "id": "LC214-073",
+    "question": "A respeito da base de cálculo do IBS e da CBS, conforme a Lei Complementar nº 214/2025, considere:\n\nI. A base de cálculo corresponde ao valor de mercado dos bens ou serviços na hipótese de a operação não ter valor determinado.\nII. O valor da operação compreende o valor do transporte cobrado como parte do valor da operação, quando o transporte é efetuado por conta e ordem do fornecedor.\nIII. Caso o valor da operação esteja expresso em moeda estrangeira, será feita sua conversão em moeda nacional por taxa de câmbio apurada pelo Banco Central do Brasil, de acordo com o disposto no regulamento.\nIV. Não integram a base de cálculo do IBS e da CBS os juros, multas e demais encargos cobrados pelo fornecedor.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "I, II e III.",
+        "I e IV.",
+        "III e IV.",
+        "II e IV.",
+        "I, III e IV."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. Os itens I, II e III estão em total conformidade com a legislação. I - Correto: A base de cálculo corresponderá ao valor de mercado, entre outras hipóteses, quando a operação não tiver valor determinado, nos termos do art. 12, § 4º, inciso II. II - Correto: O valor do transporte cobrado como parte do valor da operação, quando por conta e ordem do fornecedor, integra a base de cálculo, conforme o art. 12, § 1º, inciso IV. III - Correto: A conversão de valores em moeda estrangeira para moeda nacional deve seguir a taxa de câmbio apurada pelo Banco Central, segundo o art. 12, § 5º. IV - Incorreto: Juros, multas, acréscimos e encargos integram a base de cálculo do IBS e da CBS, de acordo com o art. 12, § 1º, inciso II.",
+        "Incorreta. O item IV está incorreto.",
+        "Incorreta. O item IV está incorreto.",
+        "Incorreta. O item IV está incorreto.",
+        "Incorreta. O item IV está incorreto."
+    ]
+},
+{
+    "id": "LC214-074",
+    "question": "A empresa \"Indústria de Máquinas Precisão Ltda.\" realizou uma operação comercial para a venda de um equipamento à \"Comércio Varejista Alfa S.A.\". A negociação entre as partes envolveu os seguintes componentes de valor:\nValor base do equipamento: R$ 200.000,00\nValor do IPI incidente na operação: R$ 15.000,00\nCusto do frete, que ficou a cargo da própria empresa vendedora: R$ 8.000,00\nDesconto promocional incondicional, acertado no ato da compra: R$ 20.000,00\nEncargos de juros pelo parcelamento do preço: R$ 10.000,00\nPrêmio de seguro para o transporte da carga: R$ 2.000,00\nConsiderando a situação hipotética e as disposições da Lei Complementar nº 214/2025, a base de cálculo correta para a incidência do IBS e da CBS na referida operação é de",
+    "difficulty": "Difícil",
+    "format": "Contexto",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "R$ 215.000,00.",
+        "R$ 210.000,00.",
+        "R$ 220.000,00.",
+        "R$ 200.000,00.",
+        "R$ 185.000,00."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. O valor de R$ 215.000,00 resulta da inclusão indevida do IPI no cálculo (200.000 + 15.000). O art. 12, § 2º, II, veda expressamente a inclusão do IPI na base de cálculo.",
+        "Incorreta. O valor de R$ 210.000,00 resulta do erro de não incluir os juros na base de cálculo (200.000 + 8.000 + 2.000). O art. 12, § 1º, II, determina que os juros integram a base de cálculo.",
+        "Incorreta. O valor de R$ 220.000,00 resulta do erro de não excluir o desconto incondicional da base de cálculo (200.000 + 8.000 + 10.000 + 2.000). O art. 12, § 2º, III, determina que os descontos incondicionais não integram a base de cálculo.",
+        "Correta. O valor de R$ 200.000,00 é o resultado da soma dos valores que compõem a base de cálculo (equipamento, frete, juros e seguro), com a correta dedução do desconto incondicional e desconsideração do IPI. Cálculo: (200.000 + 8.000 + 10.000 + 2.000) - 20.000 = R$ 200.000,00",
+        "Incorreta. O valor de R$ 185.000,00 resulta do erro de subtrair o valor do IPI da base de cálculo (200.000 - 15.000), o que não tem previsão legal. O IPI simplesmente não deve ser computado, nem para somar, nem para subtrair."
+    ]
+},
+{
+    "id": "LC214-075",
+    "question": "De acordo com a Lei Complementar nº 214/2025, no que tange à base de cálculo do IBS e da CBS e ao seu arbitramento, é correto afirmar que",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "o valor da operação será arbitrado pela administração tributária sempre que o valor declarado em documento fiscal for inferior ao valor de mercado da operação, independentemente do percentual da diferença.",
+        "integram a base de cálculo o montante do próprio IBS e da CBS, bem como o montante do Imposto sobre Produtos Industrializados (IPI).",
+        "no caso de arbitramento por falta de documentos, a base de cálculo será, prioritariamente, o custo do bem acrescido do lucro bruto apurado na escrita contábil.",
+        "se o valor da operação for expresso em moeda estrangeira, sua conversão em moeda nacional será feita pela taxa de câmbio informada pelo fornecedor no documento fiscal.",
+        "os descontos incondicionais, definidos como a parcela redutora do preço que conste do respectivo documento fiscal e não dependa de evento posterior, não integram a base de cálculo."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. O arbitramento ocorrerá se o valor declarado for notoriamente inferior ao valor de mercado, conforme o art. 13, inciso I, alínea \"b\". A lei não estabelece que qualquer diferença, por menor que seja, autoriza o arbitramento, mas sim uma diferença flagrante e evidente.",
+        "Incorreta. O art. 12, § 2º, em seus incisos I e II, exclui expressamente da base de cálculo o montante do próprio IBS e da CBS incidentes sobre a operação, bem como o montante do IPI.",
+        "Incorreta. A afirmação inverte a ordem de preferência. Conforme o art. 13, parágrafo único, o critério prioritário para o arbitramento é o valor de mercado dos bens ou serviços (inciso I). O cálculo com base no custo e lucro (inciso II) só é utilizado quando o valor de mercado não estiver disponível.",
+        "Incorreta. O art. 12, § 5º, estabelece que a conversão será feita por taxa de câmbio apurada pelo Banco Central do Brasil, e não pela taxa informada pelo fornecedor.",
+        "Correta. A alternativa descreve com precisão a regra de exclusão dos descontos incondicionais da base de cálculo, combinando a definição do art. 12, § 3º, com a norma de exclusão do art. 12, § 2º, inciso III."
+    ]
+},
+{
+    "id": "LC214-076",
+    "question": "Considere as seguintes afirmativas sobre as modalidades de extinção dos débitos do IBS e da CBS, de acordo com a Lei Complementar nº 214/2025:\n\nI. A compensação com créditos de IBS e de CBS apropriados pelo contribuinte é uma das modalidades previstas para a extinção dos débitos.\nII. O recolhimento na liquidação financeira da operação, conhecido como split payment, constitui uma forma de extinção dos débitos.\nIII. A dação em pagamento, mediante a entrega de bens do ativo imobilizado do contribuinte, é uma modalidade admitida para a extinção dos débitos.\nIV. O pagamento efetuado por um terceiro, a quem a lei atribua a condição de responsável, extingue o débito do contribuinte.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I, II, III e IV.",
+        "III e IV, apenas.",
+        "I, II e IV, apenas."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. A afirmativa IV também está correta.",
+        "Incorreta. A afirmativa III está incorreta e as afirmativas I e IV estão corretas.",
+        "Incorreta. A afirmativa III está incorreta.",
+        "Incorreta. A afirmativa III está incorreta e as afirmativas I e II estão corretas.",
+        "Correta. As afirmativas I, II e IV descrevem modalidades de extinção de débitos previstas no art. 27. (I – Correta. Conforme o art. 27, inciso I. II – Correta. Conforme o art. 27, inciso III. III – Incorreta. A dação em pagamento com bens não está listada entre as modalidades de extinção de débitos previstas no art. 27. IV – Correta. Conforme o art. 27, inciso V.)"
+    ]
+},
+{
+    "id": "LC214-077",
+    "question": "No que se refere às regras de apuração do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS), a Lei Complementar nº 214/2025 estabelece que",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "a apuração será realizada de forma individualizada por estabelecimento e o período de apuração será bimestral.",
+        "a apuração consolidará as operações de todos os estabelecimentos e o período de apuração será anual, com recolhimentos mensais antecipados.",
+        "o período de apuração poderá ser definido pelo contribuinte como mensal ou trimestral, e a apuração será consolidada.",
+        "o período de apuração será mensal e a apuração será realizada individualmente por cada estabelecimento localizado em entes federativos distintos.",
+        "a apuração consolidará as operações realizadas por todos os estabelecimentos do contribuinte e o período de apuração será mensal."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. A apuração é consolidada (art. 42) e o período é mensal (art. 43).",
+        "Incorreta. O período de apuração é mensal, e não anual, conforme o art. 43.",
+        "Incorreta. A lei não confere ao contribuinte a opção de escolher o período de apuração; ele é fixado como mensal pelo art. 43.",
+        "Incorreta. A apuração é consolidada para todos os estabelecimentos, independentemente de sua localização, conforme o art. 42.",
+        "Correta. A alternativa resume perfeitamente o disposto no art. 42 (\"A apuração relativa ao IBS e à CBS consolidará as operações realizadas por todos os estabelecimentos do contribuinte.\") e no art. 43 (\"O período de apuração do IBS e da CBS será mensal.\")."
+    ]
+},
+{
+    "id": "LC214-078",
+    "question": "A microempresa \"Soluções Rápidas Ltda.\", optante pelo Simples Nacional, recebe uma proposta para fornecer serviços de manutenção para a grande indústria \"Titã Metais S.A.\", contribuinte do regime regular do IBS e da CBS. Uma condição contratual imposta pela \"Titã Metais\" é a possibilidade de apropriação de créditos de IBS e CBS na aquisição dos serviços. Diante disso, a \"Soluções Rápidas\" avalia as opções disponíveis na legislação.\nNessa situação, de acordo com a Lei Complementar nº 214/2025, considere:\n\nI. A \"Soluções Rápidas Ltda.\", mesmo sendo optante pelo Simples Nacional, poderá exercer a opção de apurar e recolher o IBS e a CBS pelo regime regular.\nII. A apuração do IBS e da CBS, caso a empresa opte pelo regime regular, deverá ser feita separadamente para cada um de seus estabelecimentos.\nIII. Ao optar pelo regime regular, o período de apuração do IBS e da CBS para a \"Soluções Rápidas Ltda.\" será mensal.\nIV. Caso a 'Soluções Rápidas' não opte pelo regime regular, a 'Titã Metais S.A.' poderá se creditar do valor total do IBS e da CBS que incidiriam na operação caso esta fosse tributada pelo regime regular.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "II e IV.",
+        "I e III.",
+        "I, III e IV.",
+        "I e IV.",
+        "II, III e IV."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. Ambas as afirmativas estão incorretas.",
+        "Correta. As afirmativas I e III estão em conformidade com a lei. (I – Correta. O art. 41, § 3º, autoriza expressamente que optantes pelo Simples Nacional exerçam a opção de apurar o IBS e a CBS pelo regime regular. III – Correta. O art. 43 define o período de apuração do regime regular como mensal.)",
+        "Incorreta. A afirmativa IV está incorreta.",
+        "Incorreta. A afirmativa IV está incorreta.",
+        "Incorreta. As afirmativas II e IV estão incorretas."
+    ]
+},
+{
+    "id": "LC214-079",
+    "question": "Um fiscal, ao auditar a empresa \"Comércio Justo Ltda.\", encontra no livro caixa um registro de entrada de R$ 50.000,00. Questionado, o administrador da empresa explica que a quantia se refere à venda de um grande lote de mercadorias, mas alega que, devido a uma falha sistêmica no software emissor de notas, o documento fiscal eletrônico não pôde ser gerado no exato momento da operação.\nNessa situação, de acordo com a Lei Complementar nº 214/2025, a consequência jurídica para a referida operação é que",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "a alegação de falha sistêmica, por configurar motivo de força maior, afasta a possibilidade de arbitramento, devendo o fiscal apenas notificar a empresa para regularização.",
+        "o fiscal deverá suspender o procedimento e aguardar que a empresa regularize a emissão do documento, considerando a justificativa apresentada.",
+        "o valor da operação será, obrigatoriamente, o valor registrado no caixa, não cabendo arbitramento, mas apenas a aplicação de multa por descumprimento de obrigação acessória.",
+        "a administração tributária arbitrará o valor da operação, pois a realização da venda sem a emissão do respectivo documento fiscal é passível de tal procedimento.",
+        "a operação será considerada nula para fins fiscais, devendo o valor de R$ 50.000,00 ser estornado do caixa da empresa e o tributo não será devido."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. A lei não prevê \"falha sistêmica\" ou \"força maior\" como excludentes para o arbitramento. A regra do art. 13, inciso I, alínea \"a\", é objetiva: a realização da operação sem o documento fiscal é o fato que autoriza o procedimento de ofício.",
+        "Incorreta. Não há previsão legal que obrigue o fiscal a suspender o procedimento e aguardar a regularização. A autoridade fiscal tem a prerrogativa de agir diante da irregularidade constatada.",
+        "Incorreta. A lei prevê expressamente o arbitramento para essa hipótese, não se limitando à aceitação do valor de caixa acrescido de multa acessória.",
+        "Correta. O art. 13, inciso I, alínea \"a\", determina que o valor da operação será arbitrado pela administração tributária quando a operação for realizada sem a emissão de documento fiscal. A situação descrita se enquadra perfeitamente nesta hipótese legal, sendo a justificativa apresentada pelo administrador irrelevante para afastar a prerrogativa do fisco.",
+        "Incorreta. A lei não prevê a nulidade da operação ou a inexigibilidade do tributo como consequência, mas sim a apuração de ofício da base de cálculo correta por meio do arbitramento para a devida tributação."
+    ]
+},
+{
+    "id": "LC214-080",
+    "question": "O Grupo Industrial Alfa S.A. é uma holding com diversas áreas de atuação. Em agosto de 2025, duas de suas subsidiárias realizaram operações notáveis. A \"Alfa Máquinas Ltda.\" permutou uma de suas máquinas industriais de alta precisão, cujo valor de mercado é de R$ 5.000.000,00, por uma participação societária em outra companhia, sem recebimento de qualquer valor em dinheiro. No mesmo período, a \"Alfa Viagens Ltda.\" vendeu um pacote de viagem com passagem aérea de ida e volta para um destino internacional pelo valor total de R$ 30.000,00.\nConsiderando exclusivamente as duas operações descritas e as regras da Lei Complementar nº 214/2025, as bases de cálculo do IBS e da CBS para a operação com a máquina industrial e para a operação de transporte de passageiros são, respectivamente,",
+    "difficulty": "Difícil",
+    "format": "Contexto",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "o valor de mercado da máquina e R$ 15.000,00.",
+        "zero, por se tratar de permuta sem torna, e R$ 30.000,00.",
+        "o valor contábil da máquina e R$ 30.000,00.",
+        "o valor de mercado da máquina e R$ 30.000,00.",
+        "zero, por se tratar de permuta sem torna, e R$ 15.000,00."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. Para a operação com a máquina industrial (bem móvel), como o valor não foi representado em dinheiro (permuta), a base de cálculo será o valor de mercado do bem, conforme o Art. 12, § 4º, inciso III. Para o transporte internacional de passageiros com ida e volta vendidos em conjunto, a base de cálculo será a metade do valor cobrado (R$ 30.000,00 / 2 = R$ 15.000,00), conforme o Art. 12, § 8º.",
+        "Incorreta. A permuta de bens móveis é uma operação tributável, e sua base de cálculo é o valor de mercado ; ademais, a base de cálculo do transporte aéreo internacional de ida e volta é a metade do valor total.",
+        "Incorreta. A base de cálculo para a permuta do bem móvel é o valor de mercado, não o valor contábil. A base de cálculo do transporte aéreo internacional de ida e volta é a metade do valor total.",
+        "Incorreta. A base de cálculo para a operação com a máquina está correta, mas a base de cálculo para o transporte aéreo internacional, por ser ida e volta, deve ser reduzida à metade.",
+        "Incorreta. A permuta do bem móvel é uma operação tributável cuja base de cálculo é o valor de mercado, não sendo zero. A exceção de não incidência do Art. 252, § 2º, I, aplica-se exclusivamente a bens imóveis."
+    ]
+},
+{
+    "id": "LC214-081",
+    "question": "Conforme a Lei Complementar nº 214/2025, o Imposto sobre Bens e Serviços (IBS) e a Contribuição Social sobre Bens e Serviços (CBS) incidirão uma única vez sobre as operações com determinados combustíveis, qualquer que seja a sua finalidade. Dentre os produtos listados, essa sistemática de tributação se aplica ao",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Regimes Específicos",
+    "options": [
+        "óleo lubrificante, ainda que derivado de petróleo.",
+        "gás natural não processado.",
+        "gás de cozinha derivado de biomassa.",
+        "querosene de iluminação.",
+        "biodiesel (B100)."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. Óleo lubrificante não está listado no rol do Art. 172 da LC 214/2025 como sujeito à incidência monofásica.",
+        "Incorreta. A lei prevê a incidência monofásica sobre o gás natural processado, e não sobre o gás natural não processado.",
+        "Incorreta. A lei menciona o gás liquefeito de petróleo (GLP), sem fazer menção específica a derivados de biomassa para essa categoria.",
+        "Incorreta. O combustível listado na lei é o querosene de aviação, não o querosene de iluminação.",
+        "Correta. O biodiesel (B100) está expressamente previsto no inciso IV do Art. 172 como um dos combustíveis sujeitos à incidência única do IBS e da CBS."
+    ]
+},
+{
+    "id": "LC214-082",
+    "question": "No que tange aos contribuintes do regime específico do IBS e da CBS aplicável a combustíveis, conforme a Lei Complementar nº 214/2025, considere as seguintes afirmações:\n\nI. O distribuidor de combustíveis é considerado contribuinte em todas as suas operações, por ser o elo final antes do consumidor.\nII. O importador de combustíveis figura no rol de contribuintes desse regime específico.\nIII. Equipara-se ao produtor nacional de biocombustíveis a cooperativa de produtores de etanol autorizada por órgão competente.\nIV. A central de matéria-prima petroquímica (CPQ) é contribuinte desse regime.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Regimes Específicos",
+    "options": [
+        "I, II e III.",
+        "II e IV.",
+        "I e IV.",
+        "II, III e IV.",
+        "I e III."
+    ],
+    "answer": 3,
+    "justifications": [
+        "I) Incorreta. O distribuidor de combustíveis não é listado como contribuinte primário no rol do Art. 176. O § 1º do mesmo artigo especifica que o distribuidor se enquadra como contribuinte apenas em suas operações como importador, não em todas as suas operações.",
+        "II) Correta. O inciso VI do Art. 176 estabelece de forma clara que o importador é contribuinte do regime específico de combustíveis.",
+        "III) Correta. O § 2º do Art. 176 dispõe que a cooperativa de produtores de etanol, devidamente autorizada, equipara-se ao produtor nacional de biocombustíveis para fins de sujeição passiva.",
+        "IV) Correta. O inciso III do Art. 176 inclui expressamente a central de matéria-prima petroquímica (CPQ) na lista de contribuintes."
+    ]
+},
+{
+    "id": "LC214-083",
+    "question": "A Lei Complementar nº 214/2025 estabelece um regime específico de incidência do IBS e da CBS para os serviços financeiros. No entanto, a mesma lei determina que certas operações, ainda que prestadas por instituições financeiras, ficam sujeitas às normas gerais de incidência e não ao regime específico. Um exemplo de serviço sujeito às normas gerais do IBS e da CBS é",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Regimes Específicos",
+    "options": [
+        "a operação de arrendamento mercantil (leasing), seja ele operacional ou financeiro.",
+        "a operação de câmbio.",
+        "a administração e gestão de recursos de fundos de investimento.",
+        "a operação de resseguro.",
+        "o serviço de manutenção de conta de depósito à vista, remunerado por tarifa."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. As operações de arrendamento mercantil (leasing) estão expressamente listadas no Art. 182, VI, como serviço financeiro sujeito ao regime específico.",
+        "Incorreta. As operações de câmbio estão expressamente listadas no Art. 182, II, como serviço financeiro sujeito ao regime específico.",
+        "Incorreta. A gestão e administração de recursos, inclusive de fundos de investimento, estão expressamente listadas no Art. 182, VIII, como serviço financeiro sujeito ao regime específico.",
+        "Incorreta. As operações de resseguro estão expressamente listadas no Art. 182, XII, como serviço financeiro sujeito ao regime específico.",
+        "Correta. O Art. 184, caput, determina que os serviços que somente possam ser prestados por instituições financeiras bancárias e sejam remunerados por tarifas, incluindo a manutenção de conta de depósito à vista, ficam sujeitos às normas gerais de incidência do IBS e da CBS, e não ao regime específico."
+    ]
+},
+{
+    "id": "LC214-084",
+    "question": "A Cooperativa Agropecuária Vale Dourado, optante pelo regime específico do IBS e da CBS para sociedades cooperativas, atua no recebimento, beneficiamento e comercialização da produção de seus cooperados. Um de seus membros, Sr. Joaquim, é produtor rural pessoa jurídica, sujeito ao regime regular do IBS e da CBS, e se dedica à produção de milho. Para sua atividade, adquire diversos insumos, como sementes, fertilizantes e defensivos, operações estas que geram créditos de IBS e CBS, os quais são devidamente apropriados por sua empresa. Em determinado período de apuração, o Sr. Joaquim fornece toda a sua produção de milho para a Cooperativa Vale Dourado, operação que, devido ao regime específico, possui alíquota zero.\nDiante dessa situação e considerando as normas da Lei Complementar nº 214/2025, os créditos do IBS e da CBS apropriados pelo Sr. Joaquim e relativos aos insumos utilizados na produção do milho entregue à cooperativa",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Regimes Específicos",
+    "options": [
+        "deverão ser estornados, pois a operação subsequente com a cooperativa é beneficiada por alíquota zero.",
+        "poderão ser transferidos para a Cooperativa Agropecuária Vale Dourado, de que ele participa.",
+        "devem ser mantidos em sua escrituração para compensar com débitos de outras operações, sendo vedada a transferência a terceiros.",
+        "só poderão ser objeto de pedido de ressarcimento pelo Sr. Joaquim, após o final do ano-calendário.",
+        "serão anulados, aplicando-se a mesma regra da isenção, uma vez que a alíquota zero e a isenção se equivalem para fins de crédito."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. A lei prevê uma solução específica para essa situação que não é o estorno, mas sim a transferência dos créditos.",
+        "Correta. Conforme o Art. 272 da LC 214/2025, o associado sujeito ao regime regular que realiza operações com a cooperativa com a alíquota zero de que trata o art. 271, poderá transferir os créditos das operações antecedentes à cooperativa de que participa, sendo esta uma exceção à regra geral de vedação à transferência de créditos (Art. 55) .",
+        "Incorreta. Embora a regra geral (Art. 55) vede a transferência de créditos, o Art. 272 estabelece uma exceção específica e expressa para o caso de associados que fornecem bens e serviços à sua cooperativa .",
+        "Incorreta. Embora o ressarcimento seja uma possibilidade geral para saldos credores, a norma específica do Art. 272 faculta a transferência direta dos créditos para a cooperativa .",
+        "Incorreta. A alíquota zero e a isenção têm efeitos distintos sobre os créditos anteriores. Conforme o Art. 52, as operações com alíquota zero mantêm os créditos, enquanto o Art. 51 determina que a isenção acarreta a anulação dos créditos. A situação em tela tem tratamento ainda mais específico."
+    ]
+},
+{
+    "id": "LC214-085",
+    "question": "Laura, pessoa física, é proprietária de cinco imóveis residenciais. Durante todo o ano-calendário de 2028, ela manteve quatro desses imóveis alugados a terceiros, obtendo uma receita bruta total de R$ 250.000,00 com essas locações. Em janeiro de 2029, ela aliena um dos imóveis que estava alugado. De acordo com a Lei Complementar nº 214/2025, no que se refere ao regime específico de bens imóveis, a situação de Laura em 2029 é de",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Regimes Específicos",
+    "options": [
+        "contribuinte do regime regular, pois no ano-calendário anterior a receita total com locações excedeu o limite legal e teve por objeto mais de 3 bens imóveis distintos.",
+        "não contribuinte, pois as operações com bens imóveis realizadas por pessoas físicas são isentas de IBS e CBS.",
+        "contribuinte do regime regular em relação à receita de R$ 10.000,00 que excedeu o limite legal no ano anterior.",
+        "não contribuinte, pois o limite de receita para enquadramento na locação é de R$ 360.000,00 anuais.",
+        "contribuinte do regime regular, mas apenas em relação à alienação do imóvel em 2029, sendo as receitas de aluguel isentas."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. O Art. 251, § 1º, I, estabelece que pessoas físicas que realizarem locação de bem imóvel serão consideradas contribuintes do regime regular se, no ano-calendário anterior, cumulativamente, a receita total com essas operações exceder R$ 240.000,00 e tiverem por objeto mais de 3 bens imóveis distintos. Laura cumpriu ambos os requisitos em 2028 .",
+        "Incorreta. A lei prevê expressamente hipóteses em que a pessoa física se torna contribuinte do IBS e CBS nas operações com imóveis, não havendo uma isenção geral.",
+        "Incorreta. O enquadramento como contribuinte sujeita todas as operações ao regime, não apenas a parcela excedente do limite. O limite é uma condição para o enquadramento, não uma faixa de isenção .",
+        "Incorreta. O limite de receita para o enquadramento em operações de locação por pessoa física é de R$ 240.000,00, conforme o Art. 251, § 1º, I, \"a\" .",
+        "Incorreta. O fato gerador que a enquadrou como contribuinte foram as locações do ano anterior. Uma vez enquadrada, suas operações com imóveis (incluindo as locações e a alienação de 2029) ficam sujeitas ao regime."
+    ]
+},
+{
+    "id": "LC214-086",
+    "question": "Acerca do regime específico de tributação do IBS e da CBS para bens imóveis, previsto na Lei Complementar nº 214/2025, considere as assertivas abaixo.\n\nI. Na locação de um bem imóvel, o fato gerador do IBS e da CBS ocorre no momento da assinatura do contrato, ainda que o pagamento do primeiro aluguel seja posterior.\nII. O valor da operação de alienação de um bem imóvel, que compõe a base de cálculo dos tributos, inclui os juros e as variações monetárias eventualmente contratados.\nIII. Na cessão onerosa de um bem imóvel, as despesas de condomínio e o valor do IPTU, mesmo que pagos pelo locatário ao locador para posterior repasse, não são computados na base de cálculo do IBS e da CBS.\nIV. Para a alienação de um imóvel, o valor do redutor de ajuste não inclui o ITBI.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Regimes Específicos",
+    "options": [
+        "I e IV.",
+        "I e III.",
+        "I, II e III.",
+        "II e III.",
+        "III e IV."
+    ],
+    "answer": 3,
+    "justifications": [
+        "I) Incorreta. De acordo com o Art. 254, III, na locação de bem imóvel, o fato gerador do IBS e da CBS ocorre no momento do pagamento, e não na assinatura do contrato.",
+        "II) Correta. O Art. 255, § 1º, I, dispõe expressamente que o valor da operação inclui o valor dos juros e das variações monetárias aplicáveis por disposição legal ou contratual .",
+        "III) Correta. O Art. 255, § 2º, estabelece que não serão computados no valor da locação, cessão onerosa ou arrendamento o valor dos tributos incidentes sobre o bem imóvel e as despesas de condomínio .",
+        "IV) Incorreta. O Art. 258, § 6º, I, determina que o valor do Imposto sobre a Transmissão de Bens Imóveis (ITBI) incidente na aquisição do imóvel integra o redutor de ajuste ."
+    ]
+},
+{
+    "id": "LC214-087",
+    "question": "A Lei Complementar nº 214/2025, ao tratar do regime específico para bens imóveis, instituiu um redutor social. Na alienação de bem imóvel residencial novo por contribuinte sujeito ao regime regular, a lei permite a dedução da base de cálculo do IBS e da CBS em um valor de",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Regimes Específicos",
+    "options": [
+        "R$ 30.000,00 por bem imóvel, aplicável apenas se o adquirente for pessoa física de baixa renda.",
+        "R$ 100.000,00 por lote residencial, desde que seja a primeira alienação realizada pelo contribuinte no ano-calendário.",
+        "R$ 100.000,00 por bem imóvel, aplicável independentemente do valor da base de cálculo.",
+        "R$ 600,00 por mês, atualizado pelo IPCA, até que se complete o valor total de R$ 30.000,00.",
+        "R$ 100.000,00 por bem imóvel, até o limite do valor da base de cálculo, após a dedução do redutor de ajuste."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. O valor de R$ 30.000,00 refere-se ao redutor para lote residencial, não para bem imóvel residencial novo, e a lei não condiciona o benefício à renda do adquirente.",
+        "Incorreta. O valor de R$ 100.000,00 aplica-se a bem imóvel residencial novo, e não a lote residencial, conforme o Art. 259.",
+        "Incorreta. O Art. 259 especifica que a dedução do redutor social se dá \"até o limite do valor da base de cálculo\", não sendo, portanto, irrestrita.",
+        "Incorreta. O valor de R$ 600,00 refere-se ao redutor social para operações de locação, cessão onerosa ou arrendamento de bem imóvel residencial, conforme o Art. 260 , e não de alienação.",
+        "O Redutor Social é um benefício fiscal previsto no regime específico de bens imóveis, criado para diminuir a base de cálculo do IBS e da CBS em operações com imóveis residenciais. A lei estabelece duas modalidades para este benefício: uma com valor fixo para a alienação de imóvel residencial novo (R$ 100.000,00) ou lote residencial (R$ 30.000,00), conforme o Art. 259; e outra com valor fixo mensal para operações de locação, cessão onerosa ou arrendamento de imóvel residencial (R$ 600,00), conforme o Art. 260 . A questão trata especificamente da hipótese de alienação.\n\nCorreta. A alternativa descreve precisamente o disposto no Art. 259, que estabelece o redutor social de R$ 100.000,00 na alienação de bem imóvel residencial novo, utilizável após a dedução do redutor de ajuste e limitado ao valor da base de cálculo."
+    ]
+},
+{
+    "id": "LC214-088",
+    "question": "No que tange à apropriação de créditos de IBS e CBS no regime específico de tributação monofásica de combustíveis, a Lei Complementar nº 214/2025 estabelece que",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Regimes Específicos",
+    "options": [
+        "o contribuinte no regime regular poderá apropriar créditos em relação à aquisição de combustíveis, exceto quando destinadas à distribuição, à comercialização ou à revenda.",
+        "é vedada a apropriação de créditos em qualquer hipótese, por se tratar de um regime de tributação concentrada na origem.",
+        "é permitida a apropriação de créditos apenas para empresas de transporte, sendo vedada para as indústrias e prestadores de serviço em geral.",
+        "a apropriação de créditos é permitida a todos os adquirentes que sejam contribuintes do regime regular, inclusive distribuidores e postos de revenda.",
+        "o exportador de combustíveis é o único que tem direito à apropriação e utilização dos créditos relativos às suas aquisições."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. A alternativa sintetiza perfeitamente a regra geral e a exceção previstas no Art. 180. O caput do artigo veda o crédito para quem irá distribuir, comercializar ou revender. Já o § 1º do mesmo artigo excepciona essa vedação, permitindo o crédito para os demais contribuintes do regime regular que utilizam o combustível como insumo.",
+        "Incorreta. Trata-se de uma generalização equivocada. Embora a tributação seja monofásica, a lei expressamente permite o crédito para o consumidor final contribuinte que utiliza o combustível em suas atividades, conforme o Art. 180, § 1º.",
+        "Incorreta. A lei não restringe o direito ao crédito apenas a empresas de transporte. Qualquer contribuinte do regime regular (uma indústria, um produtor rural, etc.) que utilize o combustível como insumo pode se creditar, conforme o Art. 180, § 1º.",
+        "Incorreta. Esta alternativa contraria diretamente o caput do Art. 180, que veda a apropriação de créditos para distribuidores e revendedores.",
+        "Incorreta. O § 2º do Art. 180 de fato assegura o direito ao crédito para o exportador, mas o § 1º estende esse direito a outros contribuintes do regime regular, não sendo, portanto, um direito exclusivo do exportador."
+    ]
+},
+{
+    "id": "LC214-089",
+    "question": "No regime específico do IBS e da CBS para sociedades cooperativas, a Lei Complementar nº 214/2025 prevê a redução das alíquotas a zero em determinadas operações. Tal benefício se aplica na operação em que",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Regimes Específicos",
+    "options": [
+        "a cooperativa fornece um bem a um associado não sujeito ao regime regular, sem qualquer condição adicional.",
+        "o associado, pessoa física não contribuinte do regime regular, fornece um serviço à cooperativa de que participa.",
+        "a cooperativa fornece um bem ou serviço a um não associado, desde que este seja contribuinte do regime regular.",
+        "a cooperativa fornece um bem ou serviço a um associado que seja, ele próprio, sujeito ao regime regular do IBS e da CBS.",
+        "um associado fornece um bem para beneficiamento na cooperativa, e o bem retorna posteriormente ao mesmo associado."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. O Art. 271, § 1º, II, permite a alíquota zero nesse caso, mas impõe a condição de que sejam anulados os créditos que a cooperativa tenha apropriado referentes ao bem fornecido.",
+        "Incorreta. O Art. 271, I, prevê a alíquota zero para a operação em que o associado fornece bem ou serviço à cooperativa, mas a alternativa é um distrator que pode gerar dúvida ao especificar a condição de \"não contribuinte\", sendo que o dispositivo legal é mais amplo. A alternativa \"d\" é mais precisa e completa.",
+        "Incorreta. O benefício da alíquota zero, conforme o Art. 271, é restrito às operações entre a cooperativa e seus associados, ou entre cooperativas, não se estendendo a não associados.",
+        "Correta. O Art. 271, II, estabelece textualmente que as alíquotas do IBS e da CBS ficam reduzidas a zero na operação em que a cooperativa fornece bem ou serviço a associado sujeito ao regime regular do IBS e da CBS.",
+        "Incorreta. O Art. 168, § 9º, ao tratar de créditos presumidos, excetua da aplicação do regime a hipótese em que o bem é enviado para beneficiamento e retorna ao associado, indicando um tratamento tributário distinto para essa operação."
+    ]
+},
+{
+    "id": "LC214-090",
+    "question": "Um hotel, situado em Nova Friburgo, optante pelo regime regular, oferece, além dos serviços de hospedagem, um restaurante interno que também atende ao público externo. O restaurante serve tanto refeições preparadas na hora quanto bebidas alcoólicas e não alcoólicas industrializadas. Com base na Lei Complementar nº 214/2025, considere as seguintes afirmações sobre a tributação do estabelecimento:\n\nI. O fornecimento de bebidas alcoólicas preparadas no estabelecimento, como coquetéis, está sujeito ao mesmo regime específico dos bares e restaurantes, com alíquota reduzida em 40%.\nII. As alíquotas do IBS e da CBS relativas aos serviços de hotelaria (hospedagem) são reduzidas em 40%.\nIII. O fornecimento de alimentação preparada no restaurante para os hóspedes e para o público externo está sujeito ao regime específico com alíquotas reduzidas em 40%.\nIV. Um cliente, pessoa jurídica, que se hospeda no hotel a trabalho, pode apropriar os créditos de IBS e CBS relativos ao valor da hospedagem.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Difícil",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Regimes Específicos",
+    "options": [
+        "II e III.",
+        "I e IV.",
+        "I, II e III.",
+        "III e IV.",
+        "I e II."
+    ],
+    "answer": 0,
+    "justifications": [
+        "I) Incorreta. O Art. 273, § 2º, III, exclui expressamente o fornecimento de bebidas alcoólicas do regime específico de bares e restaurantes. Portanto, tais operações seguem as regras gerais de tributação, sem a redução de alíquota.",
+        "II) Correta. O Art. 281 estabelece que as alíquotas do IBS e da CBS para os serviços de hotelaria ficam reduzidas em 40%.",
+        "III) Correta. O Art. 273 define que o fornecimento de alimentação por restaurantes está sujeito ao regime específico, e o Art. 275 estabelece a redução de 40% nas alíquotas, aplicando-se tanto para hóspedes quanto para o público externo.",
+        "IV) Incorreta. O Art. 283 veda expressamente a apropriação de créditos de IBS e de CBS pelo adquirente dos serviços de hotelaria, independentemente de ser pessoa física ou jurídica ou do motivo da hospedagem."
+    ]
 }
 ]
