@@ -2272,7 +2272,7 @@
 },
 {
     "id": "LC214-106",
-    "question": "Considerando as disposições da Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS) e a Contribuição Social sobre Bens e Serviços (CBS), a fixação da alíquota da CBS compete",
+    "question": "Considerando as disposições da Lei Complementar nº 214/2025, a competência para instituir a alíquota-padrão da Contribuição Social sobre Bens e Serviços (CBS), a ser efetivamente aplicada sobre as operações, cabe",
     "difficulty": "Fácil",
     "format": "Direta",
     "subtopic": "Alíquotas e Regras de Arrecadação",
@@ -2280,16 +2280,16 @@
         "ao Comitê Gestor do IBS, que estabelecerá uma alíquota nacional unificada.",
         "à União, por meio de lei específica.",
         "a cada Estado e ao Distrito Federal, de maneira individualizada para seus territórios.",
-        "ao Senado Federal, por meio de resolução que definirá as alíquotas de referência.",
+        "ao Senado Federal, por meio de resolução.",
         "a cada Município, de forma autônoma para as operações destinadas ao seu território."
     ],
     "answer": 1,
     "justifications": [
-        "Incorreta. A competência para fixar a alíquota da CBS não é do Comitê Gestor do IBS, mas sim da União. O Comitê Gestor tem atribuições relacionadas à administração e regulamentação do IBS, mas não à fixação da alíquota da CBS.",
-        "Correta. A alternativa reflete precisamente a competência estabelecida na lei. Conforme o Art. 14, a fixação das alíquotas será feita por lei específica de cada ente, sendo a da CBS de competência da União. Dispositivo Legal (Art. 14, I): \"Art. 14. As alíquotas da CBS e do IBS serão fixadas por lei específica do respectivo ente federativo, nos seguintes termos: I - a União fixará a alíquota da CBS;\".",
-        "Incorreta. A competência para fixar alíquotas de forma individualizada por Estado e pelo Distrito Federal refere-se ao IBS, e não à CBS. Dispositivo Legal (Art. 14, II e IV): \"Art. 14. [...] II - cada Estado fixará sua alíquota do IBS; [...] IV - o Distrito Federal exercerá as competências estadual e municipal na fixação de suas alíquotas.\".",
-        "Incorreta. A competência do Senado Federal, por meio de resolução, é para fixar as alíquotas de referência, que servem como parâmetro, e não a alíquota-padrão da CBS propriamente dita, que é fixada por lei da União. Dispositivo Legal (Art. 18): \"Art. 18. As alíquotas de referência serão fixadas por resolução do Senado Federal [...].\".",
-        "Incorreta. A competência para fixar alíquotas de forma autônoma por Município refere-se ao IBS, e não à CBS. Dispositivo Legal (Art. 14, III): \"Art. 14. [...] III - cada Município fixará sua alíquota do IBS;\"."
+        "Incorreta. A competência para fixar a alíquota da CBS não é do Comitê Gestor do IBS, mas sim da União. O Comitê Gestor tem atribuições relacionadas à administração e regulamentação do IBS.",
+        "Correta. A alternativa reflete precisamente a competência estabelecida na lei para a fixação da alíquota-padrão, que é a norma geral de incidência. Conforme o Art. 14, a fixação das alíquotas será feita por lei específica de cada ente, sendo a da CBS de competência da União. Dispositivo Legal (Art. 14, I): \"Art. 14. As alíquotas da CBS e do IBS serão fixadas por lei específica do respectivo ente federativo, nos seguintes termos: I - a União fixará a alíquota da CBS;\".",
+        "Incorreta. A competência para fixar alíquotas de forma individualizada por Estado e pelo Distrito Federal refere-se ao IBS, e não à CBS.",
+        "Incorreta. A competência do Senado Federal, por meio de resolução, é para fixar as alíquotas de referência, que servem como parâmetro, e não a alíquota-padrão da CBS, que é o objeto do enunciado. Dispositivo Legal (Art. 18): \"Art. 18. As alíquotas de referência serão fixadas por resolução do Senado Federal [...].\".",
+        "Incorreta. A competência para fixar alíquotas de forma autônoma por Município refere-se ao IBS, e não à CBS."
     ]
 },
 {
