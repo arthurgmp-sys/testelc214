@@ -542,7 +542,7 @@
     "id": "LC214-026",
     "question": "A Lei Complementar nº 214/2025 define a responsabilidade das plataformas digitais pelo recolhimento do IBS e da CBS, estabelecendo critérios para sua caracterização. De acordo com a referida lei, para ser considerada plataforma digital, a entidade deve atuar como intermediária entre fornecedores e adquirentes e controlar um ou mais elementos essenciais à operação.\nConsiderando essas disposições, NÃO é considerado um elemento essencial cujo controle caracteriza a entidade como plataforma digital",
     "difficulty": "Fácil",
-    "format": "Contexto",
+    "format": "Direta",
     "subtopic": "Plataformas Digitais",
     "options": [
       "a definição dos termos e condições da operação.",
@@ -1942,6 +1942,658 @@
         "II) Correta. O Art. 281 estabelece que as alíquotas do IBS e da CBS para os serviços de hotelaria ficam reduzidas em 40%.",
         "III) Correta. O Art. 273 define que o fornecimento de alimentação por restaurantes está sujeito ao regime específico, e o Art. 275 estabelece a redução de 40% nas alíquotas, aplicando-se tanto para hóspedes quanto para o público externo.",
         "IV) Incorreta. O Art. 283 veda expressamente a apropriação de créditos de IBS e de CBS pelo adquirente dos serviços de hotelaria, independentemente de ser pessoa física ou jurídica ou do motivo da hospedagem."
+    ]
+},
+{
+    "id": "LC214-091",
+    "question": "Considerando a disciplina da Lei Complementar nº 214/2025 sobre a tributação do comércio exterior, o fato gerador do IBS e da CBS na importação de bens materiais é",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Tributação sobre Comércio Exterior",
+    "options": [
+        "a liberação dos bens submetidos a despacho para consumo pela autoridade aduaneira.",
+        "o registro da declaração de importação no sistema correspondente.",
+        "a chegada do bem material em porto ou aeroporto alfandegado no território nacional.",
+        "a entrada de bens de procedência estrangeira no território nacional.",
+        "o pagamento dos tributos devidos na operação de importação."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. A liberação dos bens submetidos a despacho para consumo é o momento considerado para efeito de cálculo dos tributos, mas não o fato gerador em si, conforme o Art. 67, I: \"Para efeitos de cálculo do IBS e da CBS, considera-se ocorrido o fato gerador do IBS e da CBS na importação de bens materiais: I - na liberação dos bens submetidos a despacho para consumo;\".",
+        "Incorreta. O registro da declaração de importação é uma etapa do processo de despacho aduaneiro, mas não se confunde com o fato gerador. A lei não o define como tal.",
+        "Incorreta. O fato gerador é a entrada no \"território nacional\", um conceito mais amplo do que a simples chegada a um recinto alfandegado específico.",
+        "Correta. A alternativa reproduz a definição legal do fato gerador. De acordo com o Art. 65, caput: \"Para fins do disposto no art. 63 desta Lei Complementar, o fato gerador da importação de bens materiais é a entrada de bens de procedência estrangeira no território nacional.\".",
+        "Incorreta. O pagamento é uma forma de extinção da obrigação tributária, que nasce com a ocorrência do fato gerador, sendo, portanto, um momento posterior e distinto."
+    ]
+},
+{
+    "id": "LC214-092",
+    "question": "Considere as seguintes situações sobre a não ocorrência do fato gerador do IBS e da CBS na importação de bens materiais, nos termos da Lei Complementar nº 214/2025:\n\nI. Bens que retornem ao País por terem sido devolvidos por motivo de defeito técnico, para reparo ou para substituição.\nII. Bens que tenham sido devolvidos para o exterior antes do registro da declaração de importação.\nIII. Bens enviados ao exterior em consignação e que foram vendidos no prazo autorizado.\nIV. Bens aos quais tenha sido aplicado o regime de importação temporária.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Tributação sobre Comércio Exterior",
+    "options": [
+        "I e II.",
+        "III e IV.",
+        "I, II e III.",
+        "II e III.",
+        "I e IV."
+    ],
+    "answer": 0,
+    "justifications": [
+        "I. Correta. A hipótese está expressamente prevista como uma situação que não constitui fato gerador do IBS e da CBS na importação. Conforme o Art. 66, I, b): \"Não constituem fatos geradores do IBS e da CBS sobre a importação os bens materiais: I - que retornem ao País nas seguintes hipóteses: (...) b) devolvidos por motivo de defeito técnico, para reparo ou para substituição;\".",
+        "II. Correta. A devolução do bem ao exterior antes do registro da declaração de importação também é uma hipótese de não ocorrência do fato gerador. De acordo com o Art. 66, V: \"Não constituem fatos geradores do IBS e da CBS sobre a importação os bens materiais: (...) V - que tenham sido devolvidos para o exterior antes do registro da declaração de importação;\".",
+        "III. Incorreta. A lei prevê a não incidência para bens enviados em consignação e não vendidos. Se os bens foram vendidos, a operação se concretizou no exterior, e seu eventual retorno configuraria uma nova importação. O dispositivo aplicável é o Art. 66, I, a): \"Não constituem fatos geradores do IBS e da CBS sobre a importação os bens materiais: I - que retornem ao País nas seguintes hipóteses: a) enviados em consignação e não vendidos no prazo autorizado;\".",
+        "IV. Incorreta. A lei se refere ao retorno de bens que saíram sob o regime de exportação temporária, e não importação temporária. Conforme o Art. 66, VII: \"Não constituem fatos geradores do IBS e da CBS sobre a importação os bens materiais: (...) VII - aos quais tenha sido aplicado o regime de exportação temporária;\"."
+    ]
+},
+{
+    "id": "LC214-093",
+    "question": "Uma empresa de software sediada em Recife - PE contrata uma empresa de consultoria de TI domiciliada na Irlanda para desenvolver um novo módulo para seu sistema. O serviço é inteiramente realizado na Irlanda, por meio de acesso remoto aos servidores da empresa brasileira, e o resultado é entregue digitalmente. O consumo e o aproveitamento do serviço ocorrem integralmente no Brasil, onde o novo módulo será utilizado.\nCom base na situação hipotética e na Lei Complementar nº 214/2025, em relação à incidência do IBS e da CBS,",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Tributação sobre Comércio Exterior",
+    "options": [
+        "não haverá incidência, uma vez que o serviço foi executado integralmente em território estrangeiro.",
+        "não haverá incidência, por se tratar de um bem imaterial (módulo de sistema) e não de um serviço propriamente dito.",
+        "haverá a incidência do IBS e da CBS, pois se considera importação de serviço o fornecimento realizado por residente no exterior cujo consumo ocorra no País, ainda que o fornecimento seja realizado no exterior.",
+        "haverá a incidência do IBS e da CBS apenas se a empresa irlandesa possuir um estabelecimento físico ou representante legal no Brasil.",
+        "a incidência do IBS e da CBS é facultativa, dependendo de a empresa domiciliada no exterior optar por se cadastrar como contribuinte no Brasil."
+    ],
+    "answer": 2,
+    "justifications": [
+        "Incorreta. O local da execução do serviço é irrelevante quando o consumo ocorre no Brasil. A lei é clara ao focar no local do consumo para caracterizar a importação de serviço.",
+        "Incorreta. A lei abrange tanto serviços quanto bens imateriais, não havendo distinção para fins de incidência nesse caso. O Art. 64 abrange \"importação de serviço ou de bem imaterial, inclusive direitos\".",
+        "Correta. A alternativa descreve perfeitamente a regra de incidência para importação de serviços e bens imateriais. O critério determinante é o local do consumo. Conforme o Art. 64, caput: \"Para fins do disposto no art. 63 desta Lei Complementar, considera-se importação de serviço ou de bem imaterial, inclusive direitos, o fornecimento realizado por residente ou domiciliado no exterior cujo consumo ocorra no País, ainda que o fornecimento seja realizado no exterior.\".",
+        "Incorreta. A existência de estabelecimento no Brasil não é condição para a incidência do tributo na importação de serviços. A obrigação tributária decorre da ocorrência do fato gerador (consumo no Brasil), independentemente da estrutura física do fornecedor estrangeiro.",
+        "Incorreta. A incidência do IBS e da CBS é uma obrigação legal decorrente do fato gerador, não uma opção do fornecedor estrangeiro. O cadastro é uma obrigação acessória para viabilizar o cumprimento da obrigação principal."
+    ]
+},
+{
+    "id": "LC214-094",
+    "question": "A empresa \"Importadora Alfa Ltda.\", com sede em São Paulo - SP, importa máquinas da Alemanha. O desembarque e o desembaraço aduaneiro ocorrem no Porto de Santos - SP. Contudo, as máquinas foram adquiridas para um cliente específico, a \"Indústria Beta S.A.\", localizada em Betim - MG, sendo este o endereço de entrega final constante na documentação da operação.\nNessa situação, para fins de apuração e recolhimento do IBS, o local da importação é considerado",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Tributação sobre Comércio Exterior",
+    "options": [
+        "Betim - MG, pois corresponde ao local da entrega dos bens ao destinatário final.",
+        "Santos - SP, por ser o local do recinto alfandegado onde ocorreu o desembaraço aduaneiro.",
+        "São Paulo - SP, pois é o domicílio da empresa importadora, contribuinte do IBS.",
+        "o território do Estado de São Paulo, devendo a receita do IBS ser repartida entre os municípios paulistas onde a importadora possui estabelecimentos.",
+        "o exterior, uma vez que a operação se iniciou na Alemanha, não gerando IBS para nenhum município ou estado brasileiro específico."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. A legislação estabelece que o local da importação de bens materiais, para fins de IBS, é o local da entrega ao destinatário final. Conforme o Art. 68, I: \"Para efeitos do IBS e da CBS incidentes sobre as importações de bens materiais, o local da importação de bens materiais corresponde ao: I - local da entrega dos bens ao destinatário final, nos termos do art. 11 desta Lei Complementar, inclusive na remessa internacional;\". No caso, o destinatário final é a Indústria Beta S.A., em Betim - MG.",
+        "Incorreta. O local do desembaraço aduaneiro não é o critério legal para definir o destino da arrecadação do IBS na importação, mas sim o local de destino final do bem.",
+        "Incorreta. O domicílio do importador não define o local da operação para fins de IBS, que segue a lógica do destino. A regra visa a alocar a receita tributária ao local onde o bem será efetivamente consumido ou utilizado.",
+        "Incorreta. A receita do IBS pertence ao estado e ao município de destino do bem, que no caso apresentado são Minas Gerais e Betim, respectivamente, e não o estado de São Paulo.",
+        "Incorreta. A operação é de importação e, por definição, o fato gerador ocorre com a entrada do bem no território nacional, gerando tributação para a localidade de destino no Brasil."
+    ]
+},
+{
+    "id": "LC214-095",
+    "question": "A Lei Complementar nº 214/2025 estabelece a composição da base de cálculo do IBS e da CBS na importação de bens materiais. A esse respeito, considere os seguintes tributos:\n\nI. Imposto sobre Produtos Industrializados (IPI).\nII. Imposto sobre operações relativas à Circulação de Mercadorias (ICMS).\nIII. Imposto sobre a Importação.\nIV. Imposto Seletivo (IS).\nV. Imposto sobre Serviços de Qualquer Natureza (ISS).\n\nNão compõem a referida base de cálculo os tributos indicados APENAS em",
+    "difficulty": "Fácil",
+    "format": "Assertiva",
+    "subtopic": "Tributação sobre Comércio Exterior",
+    "options": [
+        "I, III e V.",
+        "II, III e IV.",
+        "I, II e V.",
+        "III e IV.",
+        "Apenas I e II."
+    ],
+    "answer": 2,
+    "justifications": [
+        "Incorreta. O item III (Imposto sobre a Importação) compõe a base de cálculo, conforme o Art. 69, I.",
+        "Incorreta. Os itens III (Imposto sobre a Importação) e IV (Imposto Seletivo) compõem a base de cálculo, conforme o Art. 69, I e II.",
+        "Correta. Os itens I (IPI), II (ICMS) e V (ISS) correspondem exatamente aos tributos que não integram a base de cálculo do IBS e da CBS na importação. A previsão está no Art. 69, § 2º: \"Não compõem a base de cálculo do IBS e da CBS: I - O Imposto sobre Produtos Industrializados (IPI), previsto no inciso IV do caput do art. 153 da Constituição Federal; II - o Imposto sobre operações relativas à Circulação de Mercadorias e sobre prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), previsto no inciso II do caput do art. 155 da Constituição Federal; e III - o Imposto sobre Serviços de Qualquer Natureza (ISS), previsto no inciso III do caput do art. 156 da Constituição Federal.\".",
+        "Incorreta. Ambos os tributos indicados, Imposto sobre a Importação e Imposto Seletivo, compõem a base de cálculo.",
+        "Incorreta. A lista está incompleta, pois o ISS (item V) também não compõe a base de cálculo."
+    ]
+},
+{
+    "id": "LC214-096",
+    "question": "De acordo com a Lei Complementar nº 214/2025, a base de cálculo do IBS e da CBS na importação de bens materiais é o valor aduaneiro, acrescido, entre outros, de",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Tributação sobre Comércio Exterior",
+    "options": [
+        "Imposto sobre a Importação e Imposto sobre Produtos Industrializados (IPI).",
+        "Imposto Seletivo (IS) e Imposto sobre operações relativas à Circulação de Mercadorias (ICMS).",
+        "Cide-Combustíveis e taxa de utilização do Siscomex, desde que o importador não seja beneficiário de regime aduaneiro especial.",
+        "Imposto sobre a Importação, mas não do Imposto Seletivo (IS), que possui sistemática de apuração incompatível com a base de cálculo do IBS e CBS.",
+        "direitos antidumping, direitos compensatórios e medidas de salvaguarda."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. Embora o Imposto sobre a Importação componha a base de cálculo, o Imposto sobre Produtos Industrializados (IPI) é expressamente excluído, conforme o Art. 69, § 2º, I: \"Não compõem a base de cálculo do IBS e da CBS: I - O Imposto sobre Produtos Industrializados (IPI)\".",
+        "Incorreta. O Imposto Seletivo (IS) de fato integra a base de cálculo, mas o Imposto sobre operações relativas à Circulação de Mercadorias (ICMS) é expressamente excluído, nos termos do Art. 69, § 2º, II: \"Não compõem a base de cálculo do IBS e da CBS: (...) II - o Imposto sobre operações relativas à Circulação de Mercadorias e sobre prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS)\".",
+        "Incorreta. A Cide-Combustíveis e a taxa Siscomex efetivamente integram a base de cálculo (Art. 69, V e III). Contudo, a condição restritiva (\"desde que o importador não seja beneficiário de regime aduaneiro especial\") não existe na lei para a inclusão desses valores, o que torna a alternativa incorreta.",
+        "Incorreta. Ambos os tributos, tanto o Imposto sobre a Importação quanto o Imposto Seletivo (IS), integram a base de cálculo, conforme disposto no Art. 69, I e II. A justificativa apresentada na alternativa não tem amparo legal.",
+        "Correta. A alternativa lista corretamente itens que devem ser acrescidos ao valor aduaneiro para compor a base de cálculo do IBS e da CBS na importação, de acordo com o Art. 69, VI, VII e VIII: \"A base de cálculo do IBS e da CBS na importação de bens materiais é o valor aduaneiro acrescido de: (...) VI - direitos antidumping; VII - direitos compensatórios; VIII - medidas de salvaguarda;\"."
+    ]
+},
+{
+    "id": "LC214-097",
+    "question": "No contexto da sujeição passiva do IBS e da CBS na importação de bens materiais, conforme a Lei Complementar nº 214/2025, considera-se contribuinte o importador, enquanto o transportador é, em regra,",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Tributação sobre Comércio Exterior",
+    "options": [
+        "isento do tributo, por não participar da transação comercial.",
+        "responsável, em substituição ao contribuinte, caso seja constatado o extravio de bens procedentes do exterior até a conclusão da descarga.",
+        "contribuinte solidário, em todas as hipóteses, com o adquirente dos bens.",
+        "sujeito passivo apenas se realizar o transporte em nome próprio, e não por conta e ordem de terceiro.",
+        "imune, por se tratar de prestador de serviço acessório à operação principal de importação."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. O transportador não é isento; a lei lhe atribui responsabilidade tributária em situações específicas, como o extravio da carga.",
+        "Correta. A alternativa descreve precisamente uma das hipóteses de responsabilidade por substituição. De acordo com o Art. 73, I: \"É responsável pelo IBS e pela CBS na importação de bens materiais, em substituição ao contribuinte: I - o transportador, em relação aos bens procedentes do exterior, ou sob controle aduaneiro, que transportar, quando constatado o extravio até a conclusão da descarga dos bens no local ou recinto alfandegado;\".",
+        "Incorreta. A responsabilidade do transportador não é solidária em todas as hipóteses, mas sim por substituição em casos específicos, como o extravio. A lei define os casos de responsabilidade solidária no Art. 74, que não se aplica genericamente ao transportador.",
+        "Incorreta. A forma da contratação do transporte (em nome próprio ou por conta e ordem) não é o critério que define a responsabilidade tributária do transportador, que está vinculada a eventos como o extravio da mercadoria.",
+        "Incorreta. Não há previsão de imunidade para o serviço de transporte na importação; pelo contrário, a lei estabelece claramente suas obrigações como responsável em certas circunstâncias."
+    ]
+},
+{
+    "id": "LC214-098",
+    "question": "Considerando as normas gerais sobre a tributação do comércio exterior na Lei Complementar nº 214/2025, é correto afirmar que",
+    "difficulty": "Difícil",
+    "format": "Direta",
+    "subtopic": "Tributação sobre Comércio Exterior",
+    "options": [
+        "o fato gerador do IBS e da CBS na importação de bens materiais ocorre no momento da liberação dos bens submetidos a despacho para consumo, sendo este o marco para o cálculo e para a incidência do tributo.",
+        "as exportações de bens e serviços para o exterior são imunes ao IBS e à CBS, sendo vedado ao exportador, contudo, o aproveitamento de créditos relativos às suas aquisições, para preservar o equilíbrio fiscal.",
+        "a suspensão do pagamento do IBS e da CBS no fornecimento de bens a uma empresa comercial exportadora converte-se em alíquota zero após a efetiva exportação, desde que esta ocorra no prazo de até 360 dias da emissão da nota fiscal.",
+        "a base de cálculo do IBS e da CBS na importação de bens materiais é o valor aduaneiro, acrescido, entre outros, do Imposto sobre a Importação e do Imposto Seletivo (IS).",
+        "o consumo de um serviço por uma empresa no Brasil, prestado por um fornecedor estrangeiro, não caracteriza importação de serviço se toda a execução ocorrer em território estrangeiro."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. A liberação dos bens é o momento para cálculo do tributo (Art. 67), mas o fato gerador é a entrada dos bens no território nacional (Art. 65). A FCC frequentemente explora essa diferença sutil entre o momento da ocorrência do fato gerador e o momento de sua apuração para cálculo.",
+        "Incorreta. Embora a imunidade esteja correta, a principal característica do benefício é justamente a manutenção e o direito à utilização dos créditos, conforme o Art. 79: \"São imunes ao IBS e à CBS as exportações de bens e de serviços para o exterior, (...), asseguradas ao exportador a apropriação e a utilização dos créditos relativos às operações nas quais seja adquirente de bem ou de serviço\".",
+        "Incorreta. O prazo legal para que a exportação seja efetivada pela empresa comercial exportadora, a fim de que a suspensão se converta em alíquota zero, é de 180 dias, e não 360. A regra está no Art. 82, §§ 4º e 5º, I: \"(...) § 4º A suspensão do pagamento do IBS e da CBS prevista no caput converte-se em alíquota zero após a efetiva exportação dos bens, desde que observado o prazo previsto no inciso I do § 5º deste artigo. § 5º A empresa comercial exportadora fica responsável pelo pagamento do IBS e da CBS (...): I - transcorridos 180 (cento e oitenta) dias da data da emissão da nota fiscal pelo fornecedor, não houver sido efetivada a exportação;\".",
+        "Correta. A alternativa descreve corretamente a regra de composição da base de cálculo na importação, conforme o Art. 69, caput, e seus incisos I e II: \"A base de cálculo do IBS e da CBS na importação de bens materiais é o valor aduaneiro acrescido de: I - Imposto sobre a Importação; II - Imposto Seletivo (IS);\".",
+        "Incorreta. O critério definidor da importação de serviço é o local do consumo. Mesmo que a execução seja totalmente no exterior, se o consumo ocorrer no Brasil, haverá a incidência dos tributos, de acordo com o Art. 64."
+    ]
+},
+{
+    "id": "LC214-099",
+    "question": "Nos termos da Lei Complementar nº 214/2025, o IBS e a CBS devidos na importação de bens materiais deverão ser pagos",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Tributação sobre Comércio Exterior",
+    "options": [
+        "no momento do registro da declaração de importação, como condição para o início do despacho aduaneiro.",
+        "em até 30 dias após a liberação dos bens pela autoridade aduaneira, seguindo o prazo geral de apuração mensal dos tributos.",
+        "até a entrega dos bens submetidos a despacho para consumo, ainda que esta ocorra antes da liberação pela autoridade aduaneira.",
+        "exclusivamente após a liberação dos bens pela autoridade aduaneira, pois somente neste momento se confirma o valor final do crédito tributário.",
+        "no último dia útil do mês subsequente ao da ocorrência do fato gerador, unificando-se o prazo com as operações internas."
+    ],
+    "answer": 2,
+    "justifications": [
+        "Incorreta. O pagamento no momento do registro da declaração de importação é uma opção do sujeito passivo, não a regra geral obrigatória, conforme o Art. 76, § 1º: \"O sujeito passivo poderá optar por antecipar o pagamento do IBS e da CBS para o momento do registro da declaração de importação.\".",
+        "Incorreta. A regra para o pagamento na importação é específica e desvinculada do prazo de apuração mensal aplicável às operações internas. O pagamento é uma condição para a entrega dos bens.",
+        "Correta. A alternativa espelha a regra geral estabelecida na lei para o momento do pagamento. Conforme o Art. 76, caput: \"O IBS e a CBS devidos na importação de bens materiais deverão ser pagos até a entrega dos bens submetidos a despacho para consumo, ainda que esta ocorra antes da liberação dos bens pela autoridade aduaneira.\".",
+        "Incorreta. A lei permite que o pagamento ocorra antes mesmo da liberação aduaneira, vinculando-o à entrega física dos bens, e não ao ato final da fiscalização.",
+        "Incorreta. O prazo de pagamento na importação é específico e não segue a regra de vencimento das operações realizadas no mercado interno."
+    ]
+},
+{
+    "id": "LC214-100",
+    "question": "Considerando a imunidade tributária sobre as exportações prevista na Lei Complementar nº 214/2025, é correto afirmar que as operações de exportação de bens e serviços para o exterior",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Tributação sobre Comércio Exterior",
+    "options": [
+        "são isentas do IBS e da CBS, o que obriga o exportador a anular os créditos relativos às operações anteriores.",
+        "são imunes ao IBS e à CBS, contudo, o exportador fica obrigado a estornar os créditos relativos às aquisições de bens e serviços utilizados na operação.",
+        "são imunes ao IBS e à CBS, desde que haja a efetiva liquidação do câmbio referente à operação, comprovada por instituição financeira autorizada.",
+        "gozam de imunidade apenas em relação aos bens materiais, não se aplicando aos bens imateriais e serviços, que são tributados regularmente.",
+        "são imunes ao IBS e à CBS, sendo asseguradas ao exportador a apropriação e a utilização dos créditos relativos às operações nas quais seja adquirente de bem ou serviço."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. O tratamento constitucional é de imunidade, não de isenção. Além disso, a imunidade sobre exportação expressamente não acarreta a anulação dos créditos, conforme o Art. 51, § 2º, I.",
+        "Incorreta. A principal característica da imunidade na exportação é justamente a manutenção integral dos créditos. O estorno é o oposto do que a lei garante.",
+        "Incorreta. A lei não condiciona a imunidade à liquidação do contrato de câmbio. A imunidade decorre da própria operação de exportação, independentemente do seu resultado financeiro.",
+        "Incorreta. A imunidade abrange tanto as exportações de bens (materiais e imateriais) quanto as de serviços, conforme o caput do Art. 79.",
+        "Correta. A alternativa descreve com precisão a regra da imunidade e sua consequência mais importante, a manutenção dos créditos. De acordo com o Art. 79: \"São imunes ao IBS e à CBS as exportações de bens e de serviços para o exterior, nos termos do art. 8º desta Lei Complementar, asseguradas ao exportador a apropriação e a utilização dos créditos relativos às operações nas quais seja adquirente de bem ou de serviço (...)\"."
+    ]
+},
+{
+    "id": "LC214-101",
+    "question": "Nos termos da Lei Complementar nº 214/2025, para fins de aplicação da imunidade do IBS e da CBS, considera-se exportação de serviço, entre outras hipóteses,\n\nI. o fornecimento para residente ou domiciliado no exterior, desde que o consumo do serviço ocorra no exterior.\nII. a prestação de serviço de transporte rodoviário de cargas, desde que vinculada direta e exclusivamente à exportação de bens materiais.\nIII. a prestação de serviço para residente ou domiciliado no exterior, ainda que o consumo ocorra integralmente no território nacional por terceiro.\nIV. a prestação de serviço relacionada a bem móvel que ingresse no País para a sua execução e retorne ao exterior após a sua conclusão, independentemente do prazo de retorno.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Tributação sobre Comércio Exterior",
+    "options": [
+        "II e IV.",
+        "I e II.",
+        "III e IV.",
+        "I e III.",
+        "II e III."
+    ],
+    "answer": 1,
+    "justifications": [
+        "I. Correta. Esta é a regra geral para caracterizar a exportação de serviço, conforme o Art. 80, caput: \"Para fins do disposto no art. 79 desta Lei Complementar, considera-se exportação de serviço ou de bem imaterial, inclusive direitos, o fornecimento para residente ou domiciliado no exterior e consumo no exterior.\".",
+        "II. Correta. A lei elenca uma série de serviços que, quando diretamente ligados à exportação de mercadorias, também são considerados exportação. O transporte de cargas é um deles, conforme o Art. 80, § 1º, II, e): \"Considera-se ainda exportação: (...) II - a prestação dos seguintes serviços, desde que vinculados direta e exclusivamente à exportação de bens materiais (...): e) transporte rodoviário, ferroviário, aéreo, aquaviário ou multimodal de cargas;\".",
+        "III. Incorreta. Se o consumo ocorre no Brasil, a operação é considerada interna ou, a depender do caso, uma importação de serviço (Art. 64), mas nunca uma exportação. O local do consumo é o critério determinante.",
+        "IV. Incorreta. A hipótese é válida, mas a lei estabelece uma condição temporal. A exportação do serviço só se caracteriza se o retorno do bem ao exterior ocorrer dentro do prazo estabelecido em regulamento. De acordo com o Art. 80, § 1º, I, b): \"Considera-se ainda exportação: I - a prestação de serviço para residente ou domiciliado no exterior relacionada a: (...) b) bem móvel que ingresse no País para a prestação do serviço e retorne ao exterior após a sua conclusão, observado o prazo estabelecido no regulamento;\"."
+    ]
+},
+{
+    "id": "LC214-102",
+    "question": "Uma indústria de perfumes e cosméticos estabelecida em Niterói - RJ realiza a venda de um lote de seus produtos a uma empresa nacional, devidamente autorizada a operar o regime de loja franca (duty-free shop) no Aeroporto Internacional do Galeão - RJ. A entrega dos bens é efetuada diretamente no depósito da loja franca, localizado na área restrita do aeroporto.\nNessa hipótese, de acordo com as disposições da Lei Complementar nº 214/2025, a operação de venda realizada pela indústria de cosméticos",
+    "difficulty": "Difícil",
+    "format": "Contexto",
+    "subtopic": "Tributação sobre Comércio Exterior",
+    "options": [
+        "é tributada normalmente pelo IBS e pela CBS, pois a entrega do bem ocorreu em território nacional para uma pessoa jurídica brasileira.",
+        "está sujeita ao regime de suspensão do pagamento do IBS e da CBS, que se converte em alíquota zero somente após a venda efetiva do produto a um passageiro em voo internacional.",
+        "é beneficiada com isenção do IBS e da CBS, por se tratar de venda equiparada a exportação, o que implica a anulação dos créditos da operação.",
+        "é considerada uma exportação imune ao IBS e à CBS, ainda que não haja a saída física imediata do bem do território nacional.",
+        "é tributada com alíquota zero, o que permite a manutenção dos créditos, mas não se confunde com a imunidade constitucional aplicável às exportações diretas."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. Embora a entrega tenha ocorrido no Brasil, a lei equipara essa operação específica a uma exportação para fins de imunidade, tratando-se de uma exceção à regra geral.",
+        "Incorreta. O regime de suspensão é aplicável às vendas para empresas comerciais exportadoras (trading companies), conforme o Art. 82, o que é uma situação distinta da venda para loja franca. A venda para loja franca goza de imunidade direta.",
+        "Incorreta. O benefício aplicável é a imunidade, e não a isenção. Além disso, a imunidade sobre exportações assegura a manutenção integral dos créditos, e não a sua anulação.",
+        "Correta. A alternativa descreve a hipótese de \"exportação sem saída do território nacional\" prevista em lei. Conforme o Art. 81, IV: \"A imunidade do IBS e da CBS sobre a exportação de bens materiais a que se refere o art. 79 desta Lei Complementar aplica-se às exportações sem saída do território nacional, na forma disciplinada no regulamento, quando os bens exportados forem: (...) IV - entregues a empresa nacional autorizada a operar o regime de loja franca;\".",
+        "Incorreta. A lei é explícita ao estender a imunidade (e não um benefício de alíquota zero) a essa operação, aplicando-se o mesmo regime constitucional das exportações diretas."
+    ]
+},
+{
+    "id": "LC214-103",
+    "question": "No que tange à tributação do IBS e da CBS sobre as operações de comércio exterior, conforme a Lei Complementar nº 214/2025, considere as afirmativas a seguir, identificando a única incorreta.",
+    "difficulty": "Difícil",
+    "format": "Direta (Incorreta)",
+    "subtopic": "Tributação sobre Comércio Exterior",
+    "options": [
+        "Não constitui fato gerador do IBS e da CBS a importação de bens materiais que, corretamente descritos nos documentos de transporte, cheguem ao País por erro inequívoco de expedição e sejam redestinados ou devolvidos para o exterior.",
+        "O pagamento do IBS e da CBS na importação é condição para a entrega dos bens, devendo ser efetuado até o momento da referida entrega, ainda que esta ocorra antes da liberação pela autoridade aduaneira, sendo facultado o pagamento antecipado no registro da declaração.",
+        "A imunidade do IBS e da CBS aplica-se às exportações de bens materiais sem saída do território nacional quando os bens forem entregues a empresa nacional autorizada a operar o regime de loja franca.",
+        "Considera-se exportação de serviço, para fins de imunidade, a prestação de serviço de seguro de cargas, desde que vinculado direta e exclusivamente à exportação de bens materiais.",
+        "Considera-se exportação de serviço o fornecimento para residente no exterior, sendo irrelevante o local do consumo, bastando que o pagamento pela operação seja realizado a partir do exterior."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Correta. A afirmativa descreve uma das hipóteses de não ocorrência do fato gerador. Fundamento Legal (Art. 66, II): \"Não constituem fatos geradores do IBS e da CBS sobre a importação os bens materiais: (...) II - que, corretamente descritos nos documentos de transporte, cheguem ao País por erro inequívoco ou comprovado de expedição e que sejam redestinados ou devolvidos para o exterior;\".",
+        "Correta. A assertiva detalha com precisão a regra geral e a faculdade do contribuinte quanto ao momento do pagamento na importação. Fundamento Legal (Art. 76, caput e § 1º): \"Art. 76. O IBS e a CBS devidos na importação de bens materiais deverão ser pagos até a entrega dos bens submetidos a despacho para consumo, ainda que esta ocorra antes da liberação dos bens pela autoridade aduaneira. § 1º O sujeito passivo poderá optar por antecipar o pagamento do IBS e da CBS para o momento do registro da declaração de importação.\".",
+        "Correta. Trata-se de uma das hipóteses de \"exportação ficta\" que goza de imunidade. Fundamento Legal (Art. 81, IV): \"A imunidade do IBS e da CBS sobre a exportação de bens materiais a que se refere o art. 79 desta Lei Complementar aplica-se às exportações sem saída do território nacional, na forma disciplinada no regulamento, quando os bens exportados forem: (...) IV - entregues a empresa nacional autorizada a operar o regime de loja franca;\".",
+        "Correta. A prestação de seguro de cargas é um dos serviços que, quando diretamente ligados à exportação de bens, é considerado como exportação para fins de imunidade. Fundamento Legal (Art. 80, § 1º, II, b): \"Considera-se ainda exportação: (...) II - a prestação dos seguintes serviços, desde que vinculados direta e exclusivamente à exportação de bens materiais ou associados à entrega no exterior de bens materiais: (...) b) seguro de cargas;\".",
+        "Incorreta. A afirmativa está errada porque o critério fundamental para a caracterização da exportação de serviço é o consumo no exterior. O local do pagamento é irrelevante para essa definição. Fundamento Legal (Art. 80, caput): \"Para fins do disposto no art. 79 desta Lei Complementar, considera-se exportação de serviço ou de bem imaterial, inclusive direitos, o fornecimento para residente ou domiciliado no exterior e consumo no exterior.\"."
+    ]
+},
+{
+    "id": "LC214-104",
+    "question": "A empresa \"Comercial Exportadora Sucesso S.A.\", habilitada para operar com o regime de suspensão do IBS e da CBS, adquire produtos de um fornecedor nacional com o fim específico de exportação, emitindo a nota fiscal em 10 de março. Devido a problemas logísticos com o transporte internacional, a empresa não consegue efetivar a exportação dos bens no prazo legal, e acaba por redestiná-los para venda no mercado interno em 30 de setembro do mesmo ano.\nDiante dessa situação,",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Tributação sobre Comércio Exterior",
+    "options": [
+        "o fornecedor original dos produtos torna-se solidariamente responsável pelo pagamento do IBS e da CBS que haviam sido suspensos.",
+        "a empresa comercial exportadora deverá recolher o IBS e a CBS, sem quaisquer acréscimos, pois o prazo para exportação é de 360 dias.",
+        "a responsabilidade pelo recolhimento do tributo é transferida para o adquirente final do produto no mercado interno.",
+        "o IBS e a CBS tornam-se exigíveis na data do redestinamento para o mercado interno, ou seja, em 30 de setembro.",
+        "a empresa comercial exportadora torna-se responsável pelo pagamento do IBS e da CBS, acrescidos de multa e juros de mora, calculados desde a data da ocorrência do fato gerador original."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. A responsabilidade pelo pagamento dos tributos suspensos, em caso de não efetivação da exportação, recai exclusivamente sobre a empresa comercial exportadora, e não sobre o fornecedor.",
+        "Incorreta. O prazo legal para efetivar a exportação é de 180 dias, e não 360. Como o prazo foi descumprido, o recolhimento deve ser feito com os acréscimos legais.",
+        "Incorreta. O adquirente no mercado interno não tem responsabilidade sobre os tributos da operação anterior. A responsabilidade é da empresa comercial exportadora que descumpriu a condição do benefício fiscal.",
+        "Incorreta. Embora o redestinamento seja uma das hipóteses de quebra da suspensão, os tributos são considerados devidos desde o momento da operação original (fato gerador), e não da data do evento que descumpriu a condição. Conforme o Art. 82, § 6º: \"Para efeitos do disposto no § 5º deste artigo, consideram-se devidos o IBS e a CBS no momento de ocorrência do fato gerador, conforme definido no art. 10 desta Lei Complementar.\".",
+        "Correta. A alternativa descreve a consequência jurídica exata do descumprimento do regime. A empresa comercial exportadora é a responsável, e o pagamento deve incluir os acréscimos moratórios contados desde a data da operação original (saída do bem do fornecedor). A previsão está no Art. 82, § 5º, II, e § 7º: \"§ 5º A empresa comercial exportadora fica responsável pelo pagamento do IBS e da CBS que tiverem sido suspensos (...): II - forem os bens redestinados para o mercado interno; (...) § 7º Nas hipóteses do § 5º deste artigo, os valores que forem pagos espontaneamente ficarão sujeitos à incidência de multa e juros de mora, na forma do § 2º do art. 29 desta Lei Complementar.\"."
+    ]
+},
+{
+    "id": "LC214-105",
+    "question": "A empresa \"Global Trade Ltda.\", contribuinte do IBS e da CBS no regime regular, realiza duas operações distintas em um mesmo mês: (i) importa máquinas para seu ativo imobilizado, pagando efetivamente o IBS e a CBS devidos na operação; e (ii) exporta seus produtos acabados para um cliente na Argentina. Com base nessas operações e nas regras de não cumulatividade da Lei Complementar nº 214/2025, analise as assertivas abaixo.\n\nI. Os créditos apropriados na importação somente poderão ser utilizados para compensar débitos de futuras operações de importação.\nII. A operação de exportação é imune ao IBS e à CBS, sendo assegurado à empresa o direito de manter e utilizar os créditos acumulados em suas aquisições internas.\nIII. Na importação das máquinas, a empresa poderá apropriar créditos correspondentes aos valores do IBS e da CBS efetivamente pagos.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Tributação sobre Comércio Exterior",
+    "options": [
+        "I.",
+        "I e II.",
+        "III.",
+        "I e III.",
+        "II e III."
+    ],
+    "answer": 4,
+    "justifications": [
+        "I. Incorreta. Não há na lei restrição ao uso do crédito da importação. Uma vez apropriado, o crédito integra o saldo credor geral do contribuinte e pode ser utilizado para compensar débitos de quaisquer operações (internas ou de importação) ou ser objeto de ressarcimento, conforme as regras gerais dos artigos 47 a 56.",
+        "II. Correta. A imunidade na exportação vem acompanhada da garantia de manutenção dos créditos das operações anteriores, sendo esta uma das principais características do princípio da não cumulatividade plena na exportação. A regra está no Art. 79.",
+        "III. Correta. A lei assegura o direito ao crédito do IBS e da CBS pagos na importação de bens materiais pelo contribuinte do regime regular. Conforme o Art. 78: \"Quando estiverem sujeitos ao regime regular do IBS e da CBS, os contribuintes de que trata o art. 72 (...) poderão apropriar e utilizar créditos correspondentes aos valores do IBS e da CBS efetivamente pagos na importação de bens materiais (...)\"."
+    ]
+},
+{
+    "id": "LC214-106",
+    "question": "Considerando as disposições da Lei Complementar nº 214/2025, que institui o Imposto sobre Bens e Serviços (IBS) e a Contribuição Social sobre Bens e Serviços (CBS), a fixação da alíquota da CBS compete",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "ao Comitê Gestor do IBS, que estabelecerá uma alíquota nacional unificada.",
+        "à União, por meio de lei específica.",
+        "a cada Estado e ao Distrito Federal, de maneira individualizada para seus territórios.",
+        "ao Senado Federal, por meio de resolução que definirá as alíquotas de referência.",
+        "a cada Município, de forma autônoma para as operações destinadas ao seu território."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. A competência para fixar a alíquota da CBS não é do Comitê Gestor do IBS, mas sim da União. O Comitê Gestor tem atribuições relacionadas à administração e regulamentação do IBS, mas não à fixação da alíquota da CBS.",
+        "Correta. A alternativa reflete precisamente a competência estabelecida na lei. Conforme o Art. 14, a fixação das alíquotas será feita por lei específica de cada ente, sendo a da CBS de competência da União. Dispositivo Legal (Art. 14, I): \"Art. 14. As alíquotas da CBS e do IBS serão fixadas por lei específica do respectivo ente federativo, nos seguintes termos: I - a União fixará a alíquota da CBS;\".",
+        "Incorreta. A competência para fixar alíquotas de forma individualizada por Estado e pelo Distrito Federal refere-se ao IBS, e não à CBS. Dispositivo Legal (Art. 14, II e IV): \"Art. 14. [...] II - cada Estado fixará sua alíquota do IBS; [...] IV - o Distrito Federal exercerá as competências estadual e municipal na fixação de suas alíquotas.\".",
+        "Incorreta. A competência do Senado Federal, por meio de resolução, é para fixar as alíquotas de referência, que servem como parâmetro, e não a alíquota-padrão da CBS propriamente dita, que é fixada por lei da União. Dispositivo Legal (Art. 18): \"Art. 18. As alíquotas de referência serão fixadas por resolução do Senado Federal [...].\".",
+        "Incorreta. A competência para fixar alíquotas de forma autônoma por Município refere-se ao IBS, e não à CBS. Dispositivo Legal (Art. 14, III): \"Art. 14. [...] III - cada Município fixará sua alíquota do IBS;\"."
+    ]
+},
+{
+    "id": "LC214-107",
+    "question": "De acordo com a Lei Complementar nº 214/2025, a alíquota do IBS incidente sobre cada operação com bens ou com serviços corresponderá",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "à soma da alíquota do Estado de destino da operação e da alíquota do Município de destino da operação.",
+        "à soma do diferencial de alíquota Estadual e do diferencial de alíquota Municipal entre a origem e o destino.",
+        "à média ponderada entre a alíquota do Estado de destino e a alíquota de referência municipal, fixada pelo Senado Federal.",
+        "à alíquota fixada pelo Comitê Gestor do IBS (CGIBS), que considerará o destino da operação para fins de distribuição.",
+        "à soma da alíquota do Estado de origem da operação e da alíquota do Município de origem da operação."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. A alternativa descreve com exatidão a regra de composição da alíquota do IBS, que é formada pela soma das alíquotas do Estado e do Município para onde a operação é destinada, consagrando o princípio do destino. Dispositivo Legal (Art. 15, I): \"Art. 15. A alíquota do IBS incidente sobre cada operação corresponderá: I - à soma: a) da alíquota do Estado de destino da operação; e b) da alíquota do Município de destino da operação;\".",
+        "Incorreta. O conceito de \"diferencial de alíquota\" (DIFAL) é característico da sistemática do ICMS, que a reforma tributária extingue. O IBS adota um modelo de tributação plena no destino, sem a figura do diferencial entre alíquotas de origem e destino.",
+        "Incorreta. Não há previsão de cálculo por média ponderada para a alíquota da operação. A regra é a soma simples das alíquotas de destino. A alíquota de referência municipal, embora fixada pelo Senado, é utilizada apenas supletivamente, na ausência de lei própria do Município.",
+        "Incorreta. A competência para fixar a alíquota do IBS não é do Comitê Gestor do IBS (CGIBS). O CGIBS é uma entidade de administração e arrecadação do tributo. A competência para fixar as alíquotas é de cada Estado e de cada Município, por meio de lei própria.",
+        "Incorreta. Esta alternativa descreve a aplicação do princípio da origem, que é o modelo abandonado com a reforma. A Lei Complementar nº 214/2025 estabelece de forma clara que a tributação do IBS é baseada no princípio do destino."
+    ]
+},
+{
+    "id": "LC214-108",
+    "question": "Determinado Município, após a vigência da Lei Complementar nº 214/2025, não edita lei específica para estabelecer sua própria alíquota do Imposto sobre Bens e Serviços (IBS). Neste cenário, ao se realizar uma operação de prestação de serviços cujo destino seja esse Município, deve-se considerar para a composição da alíquota total do IBS",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "que a parcela municipal será zero, aplicando-se somente a alíquota fixada pelo Estado de destino.",
+        "a alíquota do município vizinho com menor população, dentro do mesmo Estado.",
+        "a alíquota fixada para o Distrito Federal, a título supletivo, para garantir a isonomia.",
+        "que o contribuinte poderá optar por recolher a parcela municipal com base na alíquota de referência federal da CBS.",
+        "que será aplicada a alíquota de referência da respectiva esfera federativa, no caso, a municipal."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. A ausência de lei específica não resulta em alíquota zero. A Lei Complementar estabelece um mecanismo para suprir essa omissão, que é a aplicação da alíquota de referência.",
+        "Incorreta. Não há qualquer previsão legal para utilização da alíquota de um município vizinho ou qualquer outro critério comparativo entre municípios. A solução é a aplicação da alíquota de referência para o próprio ente omisso.",
+        "Incorreta. A alíquota do Distrito Federal aplica-se somente quando ele é o destino da operação. Ela não possui caráter supletivo para outras unidades da federação.",
+        "Incorreta. A CBS é um tributo de competência da União, com alíquota e regras próprias. Sua alíquota de referência não se confunde nem substitui a alíquota de referência municipal do IBS.",
+        "Correta. Esta é a regra expressa na lei para casos de omissão legislativa do ente federativo. Na ausência de lei específica municipal, aplica-se a alíquota de referência da esfera municipal para compor o IBS devido naquela operação. Dispositivo Legal (Art. 14, § 3º): \"Art. 14. [...] § 3º Na ausência de lei específica que estabeleça a alíquota do ente federativo, será aplicada a alíquota de referência da respectiva esfera federativa.\"."
+    ]
+},
+{
+    "id": "LC214-109",
+    "question": "No que tange à fixação das alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS), nos termos da Lei Complementar nº 214/2025, considere as seguintes assertivas:\n\nI. A alíquota fixada por cada ente federativo será, em regra, a mesma para todas as operações com bens ou com serviços, ressalvadas as hipóteses previstas na própria Lei Complementar.\nII. Os Municípios possuem competência para estabelecer, por meio de lei ordinária, alíquotas distintas de IBS para o setor de serviços e para o setor de comércio, a fim de fomentar a economia local.\nIII. A aplicação de reduções de alíquotas, como aquelas previstas para os regimes diferenciados, deve ser calculada sobre a alíquota de referência fixada pelo Senado Federal, e não sobre a alíquota-padrão do ente.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "II.",
+        "III.",
+        "I e II.",
+        "II e III.",
+        "I."
+    ],
+    "answer": 4,
+    "justifications": [
+        "I - Correta. A assertiva descreve a regra da uniformidade da alíquota estabelecida no Art. 16, que prevê que a alíquota fixada pelo ente federativo (União, Estado ou Município) é única para todas as operações, com as únicas exceções sendo aquelas expressamente estabelecidas na própria Lei Complementar, como os regimes específicos e diferenciados. Dispositivo Legal (Art. 16): \"Art. 16. A alíquota fixada por cada ente federativo na forma do art. 14 desta Lei Complementar será a mesma para todas as operações com bens ou com serviços, ressalvadas as hipóteses previstas nesta Lei Complementar.\"",
+        "II - Incorreta. A premissa da uniformidade da alíquota (Art. 16) veda que um Município crie alíquotas diferentes por setor econômico. As únicas variações permitidas são as que a própria Lei Complementar autoriza para todo o território nacional.",
+        "III - Incorreta. As reduções de alíquotas dos regimes diferenciados são aplicadas sobre a alíquota-padrão fixada por cada ente federativo, e não sobre a alíquota de referência. Dispositivo Legal (Art. 16, Parágrafo único): \"Art. 16. [...] Parágrafo único. As reduções de alíquotas estabelecidas nos regimes diferenciados de que trata o Título IV deste Livro serão aplicadas sobre a alíquota de cada ente federativo.\""
+    ]
+},
+{
+    "id": "LC214-110",
+    "question": "Com base na Lei Complementar nº 214/2025, a competência para fixar as alíquotas de referência do IBS e da CBS, que servem como parâmetro para a arrecadação dos entes federativos, é atribuída",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "ao Comitê Gestor do IBS, por meio de deliberação de seu Conselho Superior.",
+        "ao Senado Federal, por meio de resolução.",
+        "ao Poder Executivo da União, por meio de decreto, após consulta ao Comitê Gestor do IBS.",
+        "a cada ente federativo, que fixa sua própria alíquota de referência em lei específica.",
+        "ao Congresso Nacional, por meio de Lei Complementar específica para este fim."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. O Comitê Gestor do IBS é uma entidade de caráter técnico e operacional, responsável pela administração do imposto, mas não possui competência para fixar as alíquotas de referência.",
+        "Correta. A Lei Complementar é explícita ao delegar ao Senado Federal, via resolução, a competência para fixar as alíquotas de referência tanto do IBS quanto da CBS, especialmente durante o período de transição. Dispositivo Legal (Art. 18): \"Art. 18. As alíquotas de referência serão fixadas por resolução do Senado Federal: [...]\".",
+        "Incorreta. O Poder Executivo da União não possui essa competência. A fixação das alíquotas de referência é uma atribuição do Poder Legislativo, especificamente do Senado.",
+        "Incorreta. Cada ente federativo fixa sua alíquota-padrão. A alíquota de referência é um parâmetro nacional (ou por esfera federativa) estabelecido pelo Senado, que inclusive é aplicada na ausência de lei específica do ente.",
+        "Incorreta. Embora a matéria tributária seja regida por Lei Complementar, o ato específico de fixação das alíquotas de referência é uma resolução do Senado Federal, um instrumento normativo distinto e mais célere para esse fim."
+    ]
+},
+{
+    "id": "LC214-111",
+    "question": "Considere que o Congresso Nacional aprove uma nova lei alterando um dos regimes diferenciados previstos na Lei Complementar nº 214/2025, de modo a ampliar um benefício fiscal e, consequentemente, reduzir a arrecadação total esperada do IBS. De acordo com as regras de ajuste previstas na referida Lei Complementar, a consequência direta dessa alteração legislativa é que",
+    "difficulty": "Difícil",
+    "format": "Contexto",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "a nova lei que reduz a arrecadação somente entrará em vigor com o início da produção de efeitos do ajuste das alíquotas de referência, que deverão ser elevadas pelo Senado Federal para preservar a arrecadação das esferas federativas.",
+        "os Estados e Municípios deverão, individualmente, elevar suas alíquotas-padrão para compensar a perda de receita, mantendo-se inalteradas as alíquotas de referência.",
+        "a União arcará com a perda de arrecadação do IBS, transferindo recursos compensatórios ao Fundo de Compensação de Benefícios Fiscais ou de Desonerações Tributárias.",
+        "o Comitê Gestor do IBS deverá, de ofício, aplicar um fator de ajuste sobre os repasses aos entes federativos, até que o Senado Federal delibere sobre a matéria.",
+        "a nova lei que reduz a arrecadação é suspensa automaticamente até a próxima avaliação quinquenal dos regimes diferenciados, quando seu impacto poderá ser definitivamente incorporado ao sistema."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. A alternativa descreve precisamente o mecanismo de trava e compensação previsto na lei. Qualquer alteração legal que impacte a arrecadação do IBS ou da CBS deve ser neutralizada por um ajuste nas alíquotas de referência, realizado pelo Senado Federal, e a lei que causa o desequilíbrio só passa a valer quando o ajuste também entra em vigor. Dispositivo Legal (Art. 19, I e II): \"Art. 19. Qualquer alteração na legislação federal que reduza ou eleve a arrecadação do IBS ou da CBS: I - deverá ser compensada pela elevação ou redução, pelo Senado Federal, da alíquota de referência da CBS e das alíquotas de referência estadual e municipal do IBS, de modo a preservar a arrecadação das esferas federativas; II - somente entrará em vigor com o início da produção de efeitos do ajuste das alíquotas de referência de que trata o inciso I deste caput.\".",
+        "Incorreta. A compensação é feita de forma centralizada, por meio do ajuste das alíquotas de referência pelo Senado, e não por meio de ações individuais e descoordenadas dos entes federativos.",
+        "Incorreta. A lei não prevê que a União arque com perdas de arrecadação do IBS, que é um tributo subnacional. O mecanismo é o reequilíbrio das próprias alíquotas de referência do imposto afetado.",
+        "Incorreta. O Comitê Gestor do IBS não tem competência para alterar os repasses ou aplicar fatores de ajuste de ofício para compensar perdas de arrecadação. Sua função é operacionalizar as regras existentes. A competência para o ajuste é do Senado.",
+        "Incorreta. Não há previsão de suspensão automática da lei. O que existe é uma condição de eficácia: a lei que altera a arrecadação só produz efeitos a partir do momento em que a resolução do Senado que ajusta as alíquotas de referência também passa a produzir efeitos."
+    ]
+},
+{
+    "id": "LC214-112",
+    "question": "De acordo com a Lei Complementar nº 214/2025, que institui regimes diferenciados para o IBS e a CBS, as alíquotas dos tributos incidentes sobre operações com serviços de educação",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "são reduzidas a zero.",
+        "são reduzidas em 30% (trinta por cento).",
+        "não sofrem qualquer redução, aplicando-se a alíquota-padrão.",
+        "são isentas, o que implica a anulação dos créditos das operações anteriores.",
+        "são reduzidas em 60% (sessenta por cento)."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. A redução a zero das alíquotas é prevista para outras categorias de bens e serviços, como alguns medicamentos e produtos hortícolas, conforme o Art. 143, mas não para os serviços de educação em geral.",
+        "Incorreta. A redução de 30% é aplicável à prestação de serviços de profissões intelectuais específicas, como advogados e contabilistas, listadas no Art. 127.",
+        "Incorreta. Os serviços de educação são expressamente contemplados por um regime diferenciado que prevê a redução de suas alíquotas, não se sujeitando à alíquota-padrão integral.",
+        "Incorreta. A lei prevê uma redução de alíquota, e não isenção. São institutos distintos, com consequências diferentes, especialmente em relação à manutenção de créditos.",
+        "Correta. A alternativa corresponde exatamente ao tratamento tributário que a Lei Complementar nº 214/2025 confere aos serviços de educação, que estão listados entre as operações beneficiadas com a redução de 60% das alíquotas do IBS e da CBS. Dispositivo Legal (Art. 128, I): \"Art. 128. Desde que observadas as definições e demais disposições deste Capítulo, ficam reduzidas em 60% (sessenta por cento) as alíquotas do IBS e da CBS incidentes sobre operações com: I - serviços de educação;\"."
+    ]
+},
+{
+    "id": "LC214-113",
+    "question": "Nos termos da Lei Complementar nº 214/2025, ficam reduzidas em 30% (trinta por cento) as alíquotas do IBS e da CBS incidentes sobre a prestação de serviços por determinados profissionais que exerçam atividades intelectuais de natureza científica, literária ou artística, submetidas à fiscalização por conselho profissional. Considere as seguintes profissões:\n\nI. Advogados.\nII. Médicos.\nIII. Contabilistas.\nIV. Arquitetos e Urbanistas.\nV. Economistas.\n\nA referida redução de alíquota aplica-se ao que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "I, III, IV e V.",
+        "II, III e IV.",
+        "I, II e V.",
+        "I, III e IV.",
+        "II e V."
+    ],
+    "answer": 0,
+    "justifications": [
+        "I - Correta. A advocacia é uma das profissões expressamente listadas no Art. 127, que trata da redução de 30% das alíquotas. Dispositivo Legal (Art. 127, II): \"Art. 127. Ficam reduzidas em 30% (trinta por cento) as alíquotas do IBS e da CBS incidentes sobre a prestação de serviços pelos seguintes profissionais [...]: II - advogados;\".",
+        "II - Incorreta. Os serviços prestados por médicos não estão na lista de redução de 30%. Eles se enquadram na categoria mais ampla de \"serviços de saúde\", que recebem uma redução maior, de 60%, conforme previsto no artigo 128. Dispositivo Legal (Art. 128, II): \"Art. 128. [...] ficam reduzidas em 60% (sessenta por cento) as alíquotas do IBS e da CBS incidentes sobre operações com: [...] II - serviços de saúde;\".",
+        "III - Correta. A profissão de contabilista está explicitamente incluída no rol de beneficiários da redução de 30%. Dispositivo Legal (Art. 127, VII): \"Art. 127. Ficam reduzidas em 30% (trinta por cento) as alíquotas do IBS e da CBS incidentes sobre a prestação de serviços pelos seguintes profissionais [...]: VII - contabilistas;\".",
+        "IV - Correta. Arquitetos e urbanistas também estão na lista de profissionais com direito à redução de 30%. Dispositivo Legal (Art. 127, III): \"Art. 127. Ficam reduzidas em 30% (trinta por cento) as alíquotas do IBS e da CBS incidentes sobre a prestação de serviços pelos seguintes profissionais [...]: III - arquitetos e urbanistas;\".",
+        "V - Correta. A profissão de economista é outra contemplada pelo benefício da redução de 30% das alíquotas. Dispositivo Legal (Art. 127, VIII): \"Art. 127. Ficam reduzidas em 30% (trinta por cento) as alíquotas do IBS e da CBS incidentes sobre a prestação de serviços pelos seguintes profissionais [...]: VIII - economistas;\"."
+    ]
+},
+{
+    "id": "LC214-114",
+    "question": "A sociedade empresária “Projetos Inovadores Arquitetura Ltda.” tem como objeto social exclusivo a prestação de serviços de arquitetura. Seus sócios são dois arquitetos, pessoas físicas devidamente registradas no conselho profissional, e uma holding de investimentos, pessoa jurídica, que detém 10% do capital social.\nDe acordo com a Lei Complementar nº 214/2025, para fins de aplicação do regime diferenciado de redução de alíquotas do IBS e da CBS, a sociedade empresária",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "terá direito à redução de 30% sobre 90% de sua receita, correspondente à participação dos sócios pessoas físicas.",
+        "terá direito à redução integral de 30%, pois sua atividade-fim é exercida por profissionais habilitados e listados na lei.",
+        "não terá direito à redução de alíquotas, pois a presença de um sócio pessoa jurídica descumpre um dos requisitos cumulativos exigidos pela lei.",
+        "terá direito à redução de 60%, pois a atividade de arquitetura é equiparada a serviços de engenharia, contemplados com benefício maior.",
+        "não terá direito à redução de alíquotas, pois a sociedade deveria ser do tipo simples, e não limitada."
+    ],
+    "answer": 2,
+    "justifications": [
+        "Incorreta. A lei não prevê a aplicação proporcional do benefício. Ou a pessoa jurídica cumpre todos os requisitos e tem direito ao benefício integral, ou não cumpre e não tem direito algum.",
+        "Incorreta. Embora a atividade-fim seja uma das listadas e seja prestada por profissionais habilitados, a lei estabelece um conjunto de requisitos cumulativos para que a pessoa jurídica se beneficie da redução, e todos devem ser atendidos.",
+        "Correta. A alternativa aponta o impedimento legal exato. Para que uma pessoa jurídica tenha direito à redução de 30% destinada a profissionais liberais, a lei exige, entre outros pontos, que a sociedade não tenha como sócio outra pessoa jurídica. A presença da holding de investimentos no quadro societário impede o enquadramento no benefício. Dispositivo Legal (Art. 127, § 1º, II, b): \"Art. 127. [...] § 1º A redução de alíquotas prevista no caput deste artigo aplica-se à prestação de serviços realizada por: [...] II - pessoa jurídica que cumpra, cumulativamente, os seguintes requisitos: [...] b) não tenha como sócio pessoa jurídica;\".",
+        "Incorreta. A atividade de arquitetura está, junto com a engenharia, na lista da redução de 30% (Art. 127, III e XI), e não na de 60%.",
+        "Incorreta. A lei não impede o benefício com base na natureza jurídica da sociedade (limitada, simples, etc.), desde que os demais requisitos sejam cumpridos. O § 2º do mesmo artigo expressamente afasta essa limitação. Dispositivo Legal (Art. 127, § 2º, I): \"Art. 127. [...] § 2º Para fins do disposto no inciso II do § 1º deste artigo, não impedem a redução de alíquotas de que trata este artigo: I - a natureza jurídica da sociedade;\"."
+    ]
+},
+{
+    "id": "LC214-115",
+    "question": "Segundo o que dispõe a Lei Complementar nº 214/2025 acerca dos regimes diferenciados de tributação em relação ao IBS e à CBS, as operações com",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "medicamentos e produtos de cuidados básicos à saúde menstrual são beneficiadas com a redução das alíquotas em 60% (sessenta por cento).",
+        "serviços de educação e serviços de saúde são beneficiadas com a redução das alíquotas em 60% (sessenta por cento).",
+        "produções nacionais artísticas e culturais e serviços prestados por advogados são beneficiadas com a mesma redução de 30% (trinta por cento) nas alíquotas.",
+        "automóveis de passageiros adquiridos por pessoas com deficiência e produtos de higiene pessoal majoritariamente consumidos por famílias de baixa renda são beneficiados com a redução a zero das alíquotas.",
+        "produtos agropecuários in natura e serviços de arquitetura e urbanismo são beneficiados com a mesma redução de 60% (sessenta por cento) nas alíquotas."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. Embora ambos os itens tenham benefícios, os percentuais estão errados. Operações com medicamentos e com produtos de cuidados básicos à saúde menstrual têm as alíquotas reduzidas a zero, conforme o Art. 143, III e IV, e não reduzidas em 60%.",
+        "Correta. A alternativa agrupa corretamente dois serviços que recebem o mesmo tratamento tributário. Tanto os serviços de educação quanto os de saúde estão na lista de operações com redução de 60% nas alíquotas do IBS e da CBS. Dispositivo Legal (Art. 128, I e II): \"Art. 128. Desde que observadas as definições e demais disposições deste Capítulo, ficam reduzidas em 60% (sessenta por cento) as alíquotas do IBS e da CBS incidentes sobre operações com: I - serviços de educação; II - serviços de saúde;\".",
+        "Incorreta. Os itens mencionados recebem reduções diferentes. Enquanto os serviços de advogados têm redução de 30% (Art. 127, II), as produções nacionais artísticas e culturais têm uma redução maior, de 60% (Art. 128, X).",
+        "Incorreta. A alternativa mistura tratamentos distintos. A aquisição de automóveis por pessoas com deficiência de fato tem alíquota zero (Art. 143, VI), mas os produtos de higiene para baixa renda têm redução de 60% (Art. 128, VII), e não alíquota zero.",
+        "Incorreta. Os itens citados têm percentuais de redução diferentes. Produtos agropecuários in natura têm redução de 60% (Art. 128, VIII), mas os serviços de arquitetura e urbanismo se enquadram na redução de 30% (Art. 127, III)."
+    ]
+},
+{
+    "id": "LC214-116",
+    "question": "No que se refere aos regimes diferenciados da Lei Complementar nº 214/2025, considere as seguintes afirmativas:\n\nI. A aquisição de automóveis de passageiros por motoristas profissionais que destinem o veículo à utilização na categoria de aluguel (táxi) é uma operação com alíquotas do IBS e da CBS reduzidas a zero.\nII. As operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura têm suas alíquotas reduzidas em 30% (trinta por cento).\nIII. Os serviços prestados por Instituição Científica, Tecnológica e de Inovação (ICT) sem fins lucrativos são tributados pela alíquota-padrão, não sendo contemplados por regimes de redução.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "II e III.",
+        "II.",
+        "III.",
+        "I e II.",
+        "I."
+    ],
+    "answer": 4,
+    "justifications": [
+        "I - Correta. A assertiva descreve corretamente um dos casos de redução a zero das alíquotas, beneficiando diretamente os motoristas profissionais da categoria táxi. Dispositivo Legal (Art. 143, VII): \"Art. 143. Desde que observadas as definições e demais disposições deste Capítulo, ficam reduzidas a zero as alíquotas do IBS e da CBS incidentes sobre operações com os seguintes bens e serviços: [...] VII - automóveis de passageiros adquiridos por motoristas profissionais que destinem o automóvel à utilização na categoria de aluguel (táxi);\".",
+        "II - Incorreta. A redução para produtos agropecuários e extrativistas in natura é de 60% (sessenta por cento), e não de 30%. O percentual de 30% é destinado a outra categoria de serviços (profissionais liberais). Dispositivo Legal (Art. 128, VIII): \"Art. 128. [...] ficam reduzidas em 60% (sessenta por cento) as alíquotas do IBS e da CBS incidentes sobre operações com: [...] VIII - produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura;\".",
+        "III - Incorreta. Ao contrário do que afirma a assertiva, os serviços de ICTs sem fins lucrativos são beneficiados com o maior nível de desoneração previsto, a redução das alíquotas a zero. Dispositivo Legal (Art. 143, VIII): \"Art. 143. [...] ficam reduzidas a zero as alíquotas do IBS e da CBS incidentes sobre operações com os seguintes bens e serviços: [...] VIII - serviços prestados por Instituição Científica, Tecnológica e de Inovação (ICT) sem fins lucrativos.\"."
+    ]
+},
+{
+    "id": "LC214-117",
+    "question": "A Lei Complementar nº 214/2025 estabelece a redução em 60% (sessenta por cento) das alíquotas do IBS e da CBS para um conjunto específico de bens e serviços. No caso de produtos de higiene pessoal e limpeza, a lei determina que o benefício se aplica às operações com",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "todos os produtos de higiene pessoal e limpeza, sem distinção de público consumidor.",
+        "apenas produtos de higiene pessoal, excluindo-se os produtos de limpeza.",
+        "apenas produtos de limpeza, excluindo-se os de higiene pessoal.",
+        "produtos de higiene pessoal e limpeza, desde que fabricados por cooperativas de baixa renda.",
+        "produtos de higiene pessoal e limpeza majoritariamente consumidos por famílias de baixa renda."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. A lei não concede o benefício de forma irrestrita. Há um critério social claro que limita o alcance da redução, tornando esta alternativa, que generaliza o benefício, incorreta.",
+        "Incorreta. O dispositivo legal menciona expressamente ambas as categorias de produtos: \"higiene pessoal e limpeza\".",
+        "Incorreta. Pela mesma razão da alternativa B, o texto da lei abrange as duas categorias.",
+        "Incorreta. Não há na lei qualquer condicionante relacionada à natureza jurídica ou social do fabricante dos produtos para a concessão deste benefício específico.",
+        "Correta. A alternativa reproduz a literalidade e a condição essencial imposta pela lei para que os produtos de higiene e limpeza tenham a redução de alíquota. O benefício é direcionado, visando desonerar produtos que pesam mais no orçamento das famílias de menor poder aquisitivo. Dispositivo Legal (Art. 128, VII): \"Art. 128. Desde que observadas as definições e demais disposições deste Capítulo, ficam reduzidas em 60% (sessenta por cento) as alíquotas do IBS e da CBS incidentes sobre operações com: [...] VII - produtos de higiene pessoal e limpeza majoritariamente consumidos por famílias de baixa renda;\"."
+    ]
+},
+{
+    "id": "LC214-118",
+    "question": "Nos termos da Lei Complementar nº 214/2025, as operações com produções nacionais artísticas, culturais, de eventos, jornalísticas e audiovisuais são beneficiadas com um regime diferenciado de tributação do IBS e da CBS, que consiste na",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "redução a zero das alíquotas.",
+        "redução de 60% (sessenta por cento) nas alíquotas.",
+        "isenção, desde que a produção não tenha fins lucrativos.",
+        "redução de 30% (trinta por cento) nas alíquotas.",
+        "imunidade, aplicável apenas a produções jornalísticas e audiovisuais."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. A redução a zero é um benefício previsto no Art. 143 para outras categorias, como medicamentos e automóveis para PCD, mas não para as produções listadas no enunciado.",
+        "Correta. A alternativa indica o percentual exato de redução previsto para essa ampla gama de produções nacionais. A lei agrupa todas essas atividades sob o mesmo benefício de redução de 60%. Dispositivo Legal (Art. 128, X): \"Art. 128. Desde que observadas as definições e demais disposições deste Capítulo, ficam reduzidas em 60% (sessenta por cento) as alíquotas do IBS e da CBS incidentes sobre operações com: [...] X - produções nacionais artísticas, culturais, de eventos, jornalísticas e audiovisuais;\".",
+        "Incorreta. O benefício é uma redução de alíquota, e não uma isenção. Além disso, a lei não impõe a condição de ausência de fins lucrativos para a aplicação deste regime diferenciado.",
+        "Incorreta. A redução de 30% é o benefício destinado aos serviços de profissionais liberais listados no Art. 127, categoria na qual as produções culturais e jornalísticas não se enquadram.",
+        "Incorreta. O benefício é uma redução de alíquota, não imunidade, e abrange todas as categorias listadas (artísticas, culturais, de eventos, jornalísticas e audiovisuais), não se restringindo apenas a duas delas."
+    ]
+},
+{
+    "id": "LC214-119",
+    "question": "A Lei Complementar nº 214/2025 prevê a redução a zero das alíquotas do IBS e da CBS na aquisição de automóveis de passageiros, como medida de inclusão social. Conforme o texto legal, este benefício se destina especificamente a",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "qualquer pessoa física, na aquisição de seu primeiro veículo automotor.",
+        "pessoas com deficiência, que terão direito a uma redução de 60% nas alíquotas.",
+        "motoristas profissionais, para aquisição de qualquer tipo de veículo, incluindo os de carga.",
+        "pessoas com transtorno do espectro autista, que poderão adquirir o veículo com isenção total dos tributos.",
+        "pessoas com deficiência ou com transtorno do espectro autista."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. O benefício não é universal para a aquisição do primeiro veículo, mas sim direcionado a grupos específicos.",
+        "Incorreta. O benefício para pessoas com deficiência é a redução a zero das alíquotas, e não a redução de 60%.",
+        "Incorreta. A lei prevê benefício para motoristas profissionais, mas especificamente para a categoria de aluguel (táxi) e para \"automóveis de passageiros\", não para qualquer tipo de veículo.",
+        "Incorreta. O instituto jurídico aplicado é a \"redução a zero das alíquotas\", e não a \"isenção\". Embora o resultado prático seja o não pagamento do tributo na operação, a terminologia e suas consequências jurídicas (como a manutenção de créditos) são distintas.",
+        "Correta. A alternativa cita precisamente os dois grupos beneficiados pela redução a zero das alíquotas na aquisição de automóveis de passageiros, conforme a literalidade da lei. Dispositivo Legal (Art. 143, VI): \"Art. 143. Desde que observadas as definições e demais disposições deste Capítulo, ficam reduzidas a zero as alíquotas do IBS e da CBS incidentes sobre operações com os seguintes bens e serviços: [...] VI - automóveis de passageiros adquiridos por pessoas com deficiência ou com transtorno do espectro autista;\"."
+    ]
+},
+{
+    "id": "LC214-120",
+    "question": "Uma clínica de fisioterapia, enquadrada como prestadora de serviços de saúde, realiza uma operação sujeita ao IBS e à CBS. A alíquota-padrão da CBS é de 8,5%. A clínica está sediada em um Município que fixou sua alíquota de IBS em 7,5% e em um Estado que fixou sua alíquota de IBS em 17,5%. Considerando o regime diferenciado aplicável aos serviços de saúde, a alíquota efetiva total (IBS e CBS) incidente sobre a operação será de",
+    "difficulty": "Difícil",
+    "format": "Contexto",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "13,4%.",
+        "20,1%.",
+        "33,5%.",
+        "10,0%.",
+        "60,0%."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. Para chegar à alíquota efetiva, primeiro calcula-se a alíquota-padrão total, somando as alíquotas de todas as esferas: 17,5% (Estado) + 7,5% (Município) + 8,5% (União) = 33,5%. Os serviços de saúde têm uma redução de 60% sobre essa alíquota-padrão. Portanto, a alíquota efetiva corresponde a 40% (100% - 60%) da alíquota-padrão. O cálculo é: 33,5% * 0,40 = 13,4%. Dispositivo Legal (Art. 128, II): \"Art. 128. [...] ficam reduzidas em 60% (sessenta por cento) as alíquotas do IBS e da CBS incidentes sobre operações com: [...] II - serviços de saúde;\". Dispositivo Legal (Art. 126, § 4º): \"Art. 126. [...] § 4º As reduções de alíquotas de que trata este Título serão aplicadas sobre as alíquotas-padrão do IBS e da CBS de cada ente federativo, fixadas na forma do art. 14 desta Lei Complementar.\".",
+        "Incorreta. O valor de 20,1% corresponde ao cálculo incorreto do valor da redução (33,5% * 0,60), e não da alíquota remanescente.",
+        "Incorreta. O valor de 33,5% é a alíquota-padrão total, sem a aplicação da redução de 60% a que os serviços de saúde têm direito.",
+        "Incorreta. O valor de 10,0% seria o resultado da aplicação da redução de 60% apenas sobre a alíquota do IBS (25% * 0,40), ignorando a CBS.",
+        "Incorreta. O valor de 60,0% corresponde ao percentual de redução, e não à alíquota final a ser aplicada sobre o valor da operação."
     ]
 }
 ]
