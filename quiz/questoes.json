@@ -2595,5 +2595,665 @@
         "Incorreta. O valor de 10,0% seria o resultado da aplicação da redução de 60% apenas sobre a alíquota do IBS (25% * 0,40), ignorando a CBS.",
         "Incorreta. O valor de 60,0% corresponde ao percentual de redução, e não à alíquota final a ser aplicada sobre o valor da operação."
     ]
+},
+  {
+    "id": "LC214-121",
+    "question": "A empresa \"Logística Eficiente Ltda.\" foi constituída em janeiro de 2028 e, ao obter seu CNPJ, teve seu Domicílio Tributário Eletrônico (DTE) criado compulsoriamente. Em março do mesmo ano, a administração tributária municipal enviou uma intimação para apresentação de livros fiscais exclusivamente por meio do DTE. O administrador da empresa, habituado a receber comunicações por via postal, não acessou o sistema e perdeu o prazo, alegando posteriormente que não foi notificado de forma pessoal.\nConsiderando o cenário e a Lei Complementar nº 214/2025, analise as proposições a seguir.\n\nI. A intimação enviada pelo DTE só é considerada válida se o contribuinte realizar uma adesão formal e expressa ao sistema de comunicação eletrônica.\nII. A intimação efetuada por meio do Domicílio Tributário Eletrônico (DTE) é considerada pessoal para todos os efeitos legais.\nIII. O Domicílio Tributário Eletrônico (DTE) é unificado e obrigatório para todas as entidades e pessoas jurídicas sujeitas à inscrição no CNPJ.\n\nEstá correto o que se afirma em",
+    "difficulty": "Média",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Administração e Fiscalização",
+    "options": [
+        "I e III, apenas.",
+        "I e II, apenas.",
+        "III, apenas.",
+        "II e III, apenas.",
+        "II, apenas."
+    ],
+    "answer": 3,
+    "justifications": [
+        "I – Incorreta. A afirmativa está incorreta, pois o DTE é obrigatório para todas as pessoas jurídicas com CNPJ, não dependendo de adesão. A vinculação é compulsória. Texto Legal (Art. 59, § 5º): \"O Domicílio Tributário Eletrônico (DTE) [...] será unificado e obrigatório para todas as entidades e demais pessoas jurídicas sujeitas à inscrição no CNPJ.\"",
+        "II – Correta. A legislação confere à intimação eletrônica via DTE o mesmo status de uma intimação pessoal, tornando-a plenamente válida e eficaz a partir de sua ciência no sistema. Texto Legal (Art. 332, § 1º): \"A intimação efetuada por meio de DTE considera-se pessoal, para todos os efeitos legais.\"",
+        "III – Correta. A afirmativa descreve com precisão a regra de obrigatoriedade do DTE para pessoas jurídicas, que é um dos pilares da modernização da administração tributária. Texto Legal (Art. 59, § 5º): \"O Domicílio Tributário Eletrônico (DTE) [...] será unificado e obrigatório para todas as entidades e demais pessoas jurídicas sujeitas à inscrição no CNPJ.\""
+    ]
+},
+{
+    "id": "LC214-122",
+    "question": "De acordo com a Lei Complementar nº 214/2025, no que se refere ao documento fiscal eletrônico, considere as seguintes afirmativas:\n\nI. A emissão de documento fiscal eletrônico é facultativa para operações imunes ou isentas, uma vez que não geram débito de IBS ou CBS.\nII. As informações prestadas pelo sujeito passivo no documento fiscal eletrônico possuem caráter declaratório e constituem confissão do valor devido de IBS e de CBS nele consignados.\nIII. A obrigação de emissão de documento fiscal eletrônico aplica-se inclusive à transferência de bens entre estabelecimentos pertencentes ao mesmo contribuinte.\n\nEstá correto o que se afirma em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Administração e Fiscalização",
+    "options": [
+        "I e III, apenas.",
+        "III, apenas.",
+        "II e III, apenas.",
+        "I, II e III.",
+        "II, apenas."
+    ],
+    "answer": 2,
+    "justifications": [
+        "I – Incorreta. A afirmativa contraria a lei expressamente. A obrigação de emissão do documento fiscal eletrônico se estende a todas as operações, incluindo aquelas beneficiadas por imunidade ou isenção. Texto Legal (Art. 60, § 2º, I): \"A obrigação de emissão de documentos fiscais eletrônicos aplica-se inclusive: I - a operações imunes, isentas ou contempladas with alíquota zero ou suspensão;\".",
+        "II – Correta. A legislação atribui ao documento fiscal a natureza de confissão de dívida, o que significa que os valores de IBS e CBS informados pelo contribuinte são considerados devidos por ele, constituindo o crédito tributário. Texto Legal (Art. 60, § 1º): \"As informações prestadas pelo sujeito passivo nos termos deste artigo possuem caráter declaratório e constituem confissão do valor devido de IBS e de CBS consignados no documento fiscal.\"",
+        "III – Correta. Mesmo não havendo incidência de IBS e CBS na mera transferência de bens entre estabelecimentos da mesma empresa, a emissão do documento fiscal é obrigatória para controle e rastreabilidade fiscal. Texto Legal (Art. 60, § 2º, II): \"A obrigação de emissão de documentos fiscais eletrônicos aplica-se inclusive: [...] II - à transferência de bens entre estabelecimentos pertencentes ao mesmo contribuinte;\"."
+    ]
+},
+{
+    "id": "LC214-123",
+    "question": "Durante um procedimento de fiscalização para apurar a regularidade do IBS na empresa \"Metalúrgica Nacional Ltda.\", a autoridade fiscal de um Estado, além de constatar irregularidades relativas ao próprio IBS, identifica documentos que comprovam uma significativa omissão de receitas, cuja natureza caracteriza fato gerador da Contribuição sobre Bens e Serviços (CBS), tributo de competência federal.\nDiante dessa situação e conforme as normas de fiscalização da Lei Complementar nº 214/2025, a autoridade fiscal estadual",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Administração e Fiscalização",
+    "options": [
+        "deverá lavrar um único auto de infração para a cobrança do IBS e da CBS, em nome da eficiência administrativa, e comunicar a Receita Federal do Brasil.",
+        "poderá lavrar o auto de infração referente ao IBS e utilizar as fundamentações e provas colhidas para constituir também o crédito tributário da CBS.",
+        "deverá suspender a fiscalização do IBS e remeter todo o processo à autoridade fiscal da União, por se tratar de infração que envolve tributo federal.",
+        "poderá lavrar o auto de infração relativo ao IBS, sendo que as provas apuradas poderão ser compartilhadas e utilizadas pela administração tributária da União em seu próprio lançamento de ofício da CBS.",
+        "poderá lavrar o auto de infração relativo ao IBS, mas as provas colhidas não poderão ser utilizadas pela União, devendo a fiscalização da CBS ser iniciada do zero para garantir a autonomia dos entes."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. A eficiência administrativa não se sobrepõe à regra de competência. O Estado não pode lançar um tributo federal. Texto Legal (Art. 324): \"A fiscalização do cumprimento das obrigações tributárias principais e acessórias, bem como a constituição do crédito tributário relativo: I - à CBS compete à autoridade fiscal integrante da administração tributária da União; II - ao IBS compete às autoridades fiscais integrantes das administrações tributárias dos Estados, do Distrito Federal e dos Municípios.\"",
+        "Incorreta. A autoridade fiscal estadual não possui competência para constituir o crédito tributário da CBS, que é de atribuição exclusiva da União, conforme o Art. 324, I.",
+        "Incorreta. Não há previsão legal para a suspensão ou remessa total do processo. A fiscalização do IBS, de competência estadual, deve prosseguir normalmente.",
+        "Correta. A alternativa descreve o procedimento correto: a autoridade estadual exerce sua competência (Art. 324, II) e as provas podem ser compartilhadas e utilizadas pela União para o lançamento da CBS. Texto Legal (Art. 325, I): \"A RFB e as administrações tributárias dos Estados, do Distrito Federal e dos Municípios: I - poderão utilizar em seus respectivos lançamentos as fundamentações e provas decorrentes do processo administrativo de lançamento de ofício efetuado por outro ente federativo;\"",
+        "Incorreta. A lei expressamente prevê o compartilhamento e a utilização de provas entre os entes federativos, conforme o Art. 325, I, afastando a necessidade de uma nova apuração probatória do zero."
+    ]
+},
+{
+    "id": "LC214-124",
+    "question": "Nos termos da Lei Complementar nº 214/2025, para a constituição do crédito tributário por lançamento de ofício, a autoridade fiscal deverá lavrar auto de infração. Assinale a alternativa que apresenta um elemento que NÃO é obrigatório no auto de infração.",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Administração e Fiscalização",
+    "options": [
+        "A descrição do fato.",
+        "A assinatura do autuante, a indicação do cargo e o número de matrícula.",
+        "A indicação do prazo e das condições para o parcelamento do débito.",
+        "A qualificação do autuado.",
+        "A disposição legal infringida e a penalidade aplicável."
+    ],
+    "answer": 2,
+    "justifications": [
+        "Incorreta. A descrição do fato que constitui a infração é um requisito obrigatório. Texto Legal (Art. 330, Parágrafo único, III): \"O auto de infração conterá obrigatoriamente: [...] III - a descrição do fato;\"",
+        "Incorreta. A identificação funcional do autuante é um elemento obrigatório. Texto Legal (Art. 330, Parágrafo único, VI): \"O auto de infração conterá obrigatoriamente: [...] VI - a assinatura do autuante, a indicação do cargo e o número de matrícula;\"",
+        "Correta. A lei exige a intimação para cumprir ou impugnar a exigência, mas não obriga que o próprio auto de infração detalhe as condições de parcelamento, que são matéria de regulamentação específica. Texto Legal (Art. 330, Parágrafo único, V): \"O auto de infração conterá obrigatoriamente: [...] V - a determinação da exigência e a intimação para cumpri-la ou impugná-la no prazo legal;\"",
+        "Incorreta. A qualificação da pessoa ou empresa autuada é um requisito obrigatório. Texto Legal (Art. 330, Parágrafo único, I): \"O auto de infração conterá obrigatoriamente: I - a qualificação do autuado;\"",
+        "Incorreta. A fundamentação legal da infração e a indicação da respectiva penalidade são requisitos obrigatórios. Texto Legal (Art. 330, Parágrafo único, IV): \"O auto de infração conterá obrigatoriamente: [...] IV - a disposição legal infringida e a penalidade aplicável;\""
+    ]
+},
+{
+    "id": "LC214-125",
+    "question": "Um agente da administração tributária municipal tenta realizar a intimação pessoal de um auto de infração no domicílio fiscal da \"Indústria Têxtil Padrão S.A.\". O diretor da empresa, contudo, recusa-se a assinar o comprovante de recebimento do documento. Diante da recusa, o agente fiscal lavra uma certidão por escrito, no local, descrevendo a ocorrência e a identidade da pessoa que se recusou a assinar.\nConsiderando o procedimento descrito e as regras da Lei Complementar nº 214/2025, a intimação é considerada",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Administração e Fiscalização",
+    "options": [
+        "pendente, pois a recusa obriga a administração a realizar a intimação exclusivamente por meio do Domicílio Tributário Eletrônico (DTE).",
+        "nula, uma vez que a ausência da assinatura do intimado impede a comprovação da ciência do ato.",
+        "válida, mas seus efeitos somente se iniciam após publicação da certidão de recusa em Diário Oficial.",
+        "inválida, pois a intimação pessoal só pode ser executada por uma autoridade fiscal hierarquicamente superior ao autor do procedimento.",
+        "realizada e provada, em virtude da certidão escrita lavrada pela autoridade que efetuou a intimação."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. Embora o DTE seja o meio principal, a intimação pessoal é uma modalidade válida. A recusa não obriga o retorno ao meio eletrônico, mas sim a adoção do procedimento previsto para essa situação.",
+        "Incorreta. A lei prevê um mecanismo para suprir a falta da assinatura em caso de recusa, que é justamente a certidão lavrada pelo agente.",
+        "Incorreta. Não há exigência de publicação em Diário Oficial para que a certidão de recusa produza seus efeitos.",
+        "Incorreta. Não há na lei tal restrição de hierarquia para a execução da intimação pessoal.",
+        "Correta. A alternativa descreve exatamente o procedimento previsto na legislação para a hipótese de recusa na intimação pessoal. Texto Legal (Art. 332, § 3º): \"As administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios poderão realizar a intimação pessoalmente, pelo autor do procedimento ou por agente do órgão preparador do processo, na repartição ou fora dela, provada com a assinatura do sujeito passivo, seu mandatário, preposto ou representante legal, ou, no caso de recusa, com certidão escrita por quem o intimar, identificando a pessoa que recusou.\""
+    ]
+},
+{
+    "id": "LC214-126",
+    "question": "No que tange à operacionalização do IBS e da CBS, a Lei Complementar nº 214/2025 estabelece um conjunto de obrigações relativas ao cadastro de contribuintes e à emissão de documentos fiscais. Considerando tais disposições,",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Administração e Fiscalização",
+    "options": [
+        "as informações prestadas pelo sujeito passivo no documento fiscal eletrônico possuem caráter declaratório, constituindo confissão do valor devido, e o Domicílio Tributário Eletrônico (DTE) será unificado, porém de adesão facultativa para as pessoas jurídicas.",
+        "o sujeito passivo do IBS e da CBS deverá emitir documento fiscal eletrônico ao realizar operações, obrigação que se aplica inclusive àquelas imunes ou isentas e à transferência de bens entre estabelecimentos do mesmo contribuinte, sendo que o Domicílio Tributário Eletrônico (DTE) será unificado e obrigatório para todas as entidades sujeitas à inscrição no CNPJ.",
+        "a obrigação de emissão de documento fiscal eletrônico é dispensada nas operações de transferência de bens entre estabelecimentos do mesmo contribuinte, e o ambiente nacional de compartilhamento de informações cadastrais terá gestão exclusiva da Receita Federal do Brasil para garantir a uniformidade dos dados.",
+        "o compartilhamento de documentos fiscais eletrônicos com os entes federativos é obrigatório, mas as informações neles prestadas têm natureza meramente informativa, não configurando confissão de dívida, ao passo que as informações cadastrais terão integração obrigatória entre as administrações tributárias.",
+        "as pessoas físicas e jurídicas são obrigadas a se registrar em cadastro com identificação única, cujas informações terão compartilhamento obrigatório, mas a obrigação de emitir documento fiscal eletrônico não se aplica às operações contempladas com alíquota zero ou suspensão."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. Embora a primeira parte da alternativa esteja correta ao afirmar o caráter declaratório e de confissão de dívida do documento fiscal (Art. 60, § 1º), a segunda parte erra ao afirmar que o DTE é de adesão facultativa. O Art. 59, § 5º, estabelece que o DTE é obrigatório para todas as entidades e demais pessoas jurídicas sujeitas à inscrição no CNPJ.",
+        "Correta. A alternativa combina corretamente dois dispositivos. A primeira parte descreve com precisão a abrangência da obrigatoriedade de emissão do documento fiscal eletrônico, que se aplica, inclusive, a operações imunes, isentas e à transferência de bens entre estabelecimentos do mesmo contribuinte, conforme o Art. 60, § 2º, incisos I e II. A segunda parte afirma corretamente que o DTE é unificado e obrigatório para pessoas jurídicas, de acordo com o Art. 59, § 5º.",
+        "Incorreta. A alternativa contém dois erros. Primeiro, a emissão de documento fiscal não é dispensada na transferência de bens entre estabelecimentos do mesmo contribuinte, conforme o Art. 60, § 2º, II. Segundo, a gestão do ambiente nacional de compartilhamento de informações cadastrais não é exclusiva da RFB, mas sim compartilhada por meio do CGSIM, conforme o Art. 59, § 3º.",
+        "Incorreta. O erro está na afirmação de que as informações no documento fiscal eletrônico não configuram confissão de dívida. O Art. 60, § 1º, estabelece expressamente o contrário, afirmando que elas \"possuem caráter declaratório e constituem confissão do valor devido de IBS e de CBS\".",
+        "Incorreta. A primeira parte da alternativa está correta (Art. 59, caput e § 2º). Contudo, a segunda parte erra ao afirmar que a obrigação de emitir documento fiscal não se aplica a operações com alíquota zero ou suspensão. O Art. 60, § 2º, inciso I, determina que a obrigação de emissão se aplica inclusive a essas operações."
+    ]
+},
+{
+    "id": "LC214-127",
+    "question": "Considerando as normas de competência para fiscalização e constituição do crédito tributário previstas na Lei Complementar nº 214/2025, no que se refere ao Imposto sobre Bens e Serviços (IBS) e à Contribuição Social sobre Bens e Serviços (CBS):\n\nI. A fiscalização do cumprimento das obrigações tributárias e a constituição do crédito tributário relativos à CBS competem à autoridade fiscal integrante da administração tributária da União.\nII. A fiscalização e a constituição do crédito tributário referentes ao IBS competem, de forma compartilhada, às autoridades fiscais integrantes das administrações tributárias dos Estados, do Distrito Federal e dos Municípios.\nIII. A competência para fiscalizar o IBS é exclusiva das administrações tributárias dos Estados, cabendo aos Municípios e ao Distrito Federal apenas a confirmação dos lançamentos efetuados e o recebimento da arrecadação correspondente.\nIV. A fiscalização do IBS e da CBS poderá ser exercida de forma unificada e concorrente por qualquer ente federativo, desde que haja delegação expressa do Comitê Gestor do IBS.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Fácil",
+    "format": "Assertiva",
+    "subtopic": "Administração e Fiscalização",
+    "options": [
+        "II e III.",
+        "I e IV.",
+        "III e IV.",
+        "I e II.",
+        "I e III."
+    ],
+    "answer": 3,
+    "justifications": [
+        "I. Correta. A assertiva reproduz fielmente a regra de competência para a Contribuição Social sobre Bens e Serviços (CBS), que é atribuída exclusivamente à esfera federal.",
+        "II. Correta. A assertiva descreve com precisão a competência para o Imposto sobre Bens e Serviços (IBS), que é compartilhada entre os entes subnacionais.",
+        "III. Incorreta. A assertiva contraria a lei ao afirmar que a competência para fiscalizar o IBS é exclusiva dos Estados. O Art. 324, inciso II, estabelece que essa competência é das \"administrações tributárias dos Estados, do Distrito Federal e dos Municípios\".",
+        "IV. Incorreta. A assertiva está errada, pois a lei estabelece uma divisão clara e estanque de competências no Art. 324. Não há previsão para uma fiscalização concorrente mediante delegação do Comitê Gestor do IBS; a competência da União para a CBS e dos demais entes para o IBS são distintas."
+    ]
+},
+{
+    "id": "LC214-128",
+    "question": "A sociedade empresária “Logística Rápida Ltda.” tomou conhecimento, em 10 de março de 2028, de que a administração tributária estadual realizava um procedimento interno de cruzamento de dados, confrontando as informações de seus documentos fiscais com as declarações de seus principais clientes. Em 05 de abril de 2028, um Auditor Fiscal compareceu ao estabelecimento da empresa e deu ciência ao seu administrador, mediante recibo, do “Termo de Início de Ação Fiscal”, intimando-a a apresentar, no prazo de 15 dias, os livros fiscais e contábeis para apuração do IBS relativo ao ano-calendário de 2027. Ao organizar a documentação solicitada, em 15 de abril de 2028, o contador da empresa identificou um erro na apuração de um dos meses de 2027, que resultou em recolhimento a menor do imposto. A diretoria, então, decidiu retificar a declaração e recolher a diferença, com os acréscimos legais, antes de apresentar os documentos à fiscalização.\nNessa situação, à luz do que dispõe a Lei Complementar nº 214/2025,",
+    "difficulty": "Difícil",
+    "format": "Contexto",
+    "subtopic": "Administração e Fiscalização",
+    "options": [
+        "a empresa não poderia mais se beneficiar da espontaneidade em 15 de abril de 2028, uma vez que o início do procedimento fiscal, que exclui tal benefício, ocorreu em 05 de abril com a ciência do primeiro ato de ofício, ainda que a ação de cruzamento de dados anterior não tenha produzido esse efeito.",
+        "a espontaneidade da empresa foi excluída em 10 de março de 2028, pois o cruzamento de dados, por ser um procedimento de verificação do cumprimento de obrigações, já configura o início do procedimento fiscal, tornando a retificação em qualquer data posterior sujeita à aplicação de multa de ofício.",
+        "a empresa poderia realizar a retificação e o pagamento de forma espontânea em 15 de abril, pois o procedimento fiscal só se considera efetivamente iniciado, para fins de exclusão da espontaneidade, com a lavratura do respectivo auto de infração.",
+        "a espontaneidade da empresa somente seria excluída 90 dias após 05 de abril de 2028, prazo de validade prorrogável do primeiro ato de ofício, de modo que a retificação realizada em 15 de abril ainda seria considerada tempestiva e espontânea.",
+        "embora o cruzamento de dados isoladamente não inicie o procedimento fiscal, a superveniência do ato de ofício em 05 de abril faz com que seus efeitos retroajam à data do primeiro ato de verificação, considerando-se a espontaneidade excluída desde 10 de março."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. A alternativa descreve com precisão a cronologia e os efeitos jurídicos dos atos. O \"cruzamento de dados\", realizado em 10 de março, é uma ação que expressamente não exclui a espontaneidade, conforme o Art. 329, inciso I. Contudo, a \"ciência do sujeito passivo do primeiro ato de ofício\", que ocorreu em 05 de abril, marca o início do procedimento fiscal, conforme o Art. 328, inciso I. De acordo com o § 1º do mesmo artigo, o início do procedimento fiscal exclui a espontaneidade do sujeito passivo. Portanto, em 15 de abril, a empresa já não podia mais se valer do benefício da denúncia espontânea.",
+        "Incorreta. A alternativa erra ao considerar o \"cruzamento de dados\" como o marco inicial do procedimento fiscal. O Art. 329, inciso I, é claro ao listar o cruzamento de dados como uma ação que não exclui a espontaneidade do sujeito passivo.",
+        "Incorreta. O início do procedimento fiscal não depende da lavratura de um auto de infração. O Art. 328, inciso I, estabelece que ele se inicia com \"a ciência do sujeito passivo [...] do primeiro ato de ofício\", o que ocorreu em 05 de abril. A lavratura do auto é um ato posterior, de constituição do crédito tributário, caso se verifique uma infração.",
+        "Incorreta. A alternativa confunde o efeito de exclusão da espontaneidade com o prazo de validade do ato fiscal. O Art. 328, § 1º, estabelece que o início do procedimento fiscal exclui a espontaneidade, e esse início se deu em 05 de abril. O prazo de 90 dias mencionado no § 2º do mesmo artigo refere-se ao período pelo qual o ato inicial se mantém válido para o prosseguimento dos trabalhos, não sendo um período de carência para a perda da espontaneidade.",
+        "Incorreta. A lei não prevê a retroatividade dos efeitos do ato de ofício. A exclusão da espontaneidade ocorre a partir do marco legal que a define, ou seja, a partir do início do procedimento fiscal (05 de abril), não retroagindo para alcançar a data de ações preliminares que, por si sós, não tinham esse poder."
+    ]
+},
+{
+    "id": "LC214-129",
+    "question": "De acordo com a Lei Complementar nº 214/2025, o procedimento fiscal, que tem como um de seus efeitos a exclusão da espontaneidade do sujeito passivo, tem início com",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Administração e Fiscalização",
+    "options": [
+        "a apreensão de bens, documentos ou livros do sujeito passivo.",
+        "o cruzamento de dados entre as informações declaradas pelo contribuinte e aquelas fornecidas por terceiros.",
+        "o envio de um comunicado geral de orientação sobre o cumprimento de obrigações tributárias.",
+        "o monitoramento do comportamento fiscal-tributário de determinado setor econômico.",
+        "a identificação de uma inconsistência na apuração assistida, antes de qualquer intimação formal ao contribuinte."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. A alternativa está em plena conformidade com a lei, que elenca a apreensão de bens e documentos como atos que dão início ao procedimento fiscal. O § 1º do mesmo artigo confirma a consequência de tal ato. Fundamento: \"Art. 328. O procedimento fiscal tem início com: (...) II - a apreensão de bens; III - apreensão de documentos ou livros, inclusive em meio digital; (...) § 1º O início do procedimento fiscal exclui a espontaneidade do sujeito passivo em relação aos atos anteriores e, independentemente de intimação, a dos demais envolvidos nas infrações verificadas.\"",
+        "Incorreta. A alternativa descreve uma ação que a lei expressamente define como uma que não inicia o procedimento fiscal e, portanto, não exclui a espontaneidade. Fundamento: \"Art. 329. As ações a seguir não excluem a espontaneidade do sujeito passivo: I - cruzamento de dados, assim considerado o confronto entre as informações existentes na base de dados das administrações tributárias ou do Comitê Gestor do IBS, ou entre elas e outras fornecidas pelo sujeito passivo ou terceiros;\"",
+        "Incorreta. A lei define um rol taxativo de atos que dão início ao procedimento fiscal em seu Art. 328. O envio de um comunicado geral e impessoal de orientação não se enquadra em nenhuma das hipóteses previstas, que são atos específicos e formais direcionados ao contribuinte. Fundamento: A ação descrita não consta na lista do Art. 328, que prevê: \"I - a ciência do sujeito passivo, seu representante ou preposto, do primeiro ato de ofício...; II - a apreensão de bens; III - apreensão de documentos ou livros...; IV - o começo do despacho aduaneiro...\"",
+        "Incorreta. A alternativa descreve outra ação que a lei explicitamente ressalva como uma que não exclui a espontaneidade do contribuinte. Fundamento: \"Art. 329. As ações a seguir não excluem a espontaneidade do sujeito passivo: (...) II - monitoramento, assim considerada a avaliação do comportamento fiscal-tributário de sujeito passivo, individualmente ou por setor econômico...\"",
+        "Incorreta. A simples identificação de inconsistências em sistemas internos da administração tributária é um ato preparatório, que se assemelha às ações de \"cruzamento de dados\" ou \"monitoramento\" do Art. 329. O início do procedimento fiscal, conforme o Art. 328, exige um ato de ofício formalmente comunicado ao contribuinte, e não uma mera verificação sistêmica interna. Fundamento: A ação descrita não se enquadra no \"primeiro ato de ofício, praticado por autoridade fiscal\" com \"ciência do sujeito passivo\", conforme exigido pelo Art. 328, inciso I."
+    ]
+},
+{
+    "id": "LC214-130",
+    "question": "A Lei Complementar nº 214/2025 institui o Domicílio Tributário Eletrônico (DTE) como principal meio de comunicação entre o fisco e o sujeito passivo. Considerando o disposto na referida lei sobre as intimações,",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Administração e Fiscalização",
+    "options": [
+        "o uso do DTE é facultativo, cabendo ao sujeito passivo optar por receber suas intimações por correio com aviso de recebimento.",
+        "a intimação por DTE é uma forma de comunicação secundária, devendo a administração tributária sempre tentar a intimação pessoal por agente fiscal primeiramente.",
+        "a intimação efetuada por meio de DTE, inclusive a de procurador, considera-se pessoal para todos os efeitos legais.",
+        "as intimações dos atos do processo realizadas por meio de DTE só se consideram válidas após a confirmação de leitura pelo destinatário.",
+        "a intimação do procurador legalmente constituído não pode ser realizada via DTE, devendo ocorrer por meio de publicação em diário oficial."
+    ],
+    "answer": 2,
+    "justifications": [
+        "Incorreta. A alternativa contraria a natureza obrigatória do DTE para pessoas jurídicas, conforme estabelecido em dispositivo que trata do cadastro único. Fundamento: \"Art. 59. (...) § 5º O Domicílio Tributário Eletrônico (DTE) previsto no art. 332 desta Lei Complementar será unificado e obrigatório para todas as entidades e demais pessoas jurídicas sujeitas à inscrição no CNPJ.\"",
+        "Incorreta. A lei posiciona o DTE como o meio principal e padrão para a realização de intimações, não como uma via secundária. Fundamento: \"Art. 332. As intimações dos atos do processo serão realizadas por meio de DTE, inclusive em se tratando de intimação de procurador.\"",
+        "Correta. A alternativa resume com exatidão o tratamento jurídico conferido pela lei às intimações realizadas por meio eletrônico, abrangendo os procuradores e equiparando-as à intimação pessoal. Fundamento: \"Art. 332. As intimações dos atos do processo serão realizadas por meio de DTE, inclusive em se tratando de intimação de procurador. § 1º A intimação efetuada por meio de DTE considera-se pessoal, para todos os efeitos legais.\"",
+        "Incorreta. A lei não impõe a condição de \"confirmação de leitura\" para que a intimação via DTE seja considerada válida e produza seus efeitos legais. Seu efeito como intimação pessoal é direto. Fundamento: \"Art. 332. (...) § 1º A intimação efetuada por meio de DTE considera-se pessoal, para todos os efeitos legais.\" O texto legal não estabelece nenhuma condição adicional para essa presunção.",
+        "Incorreta. A alternativa afirma o oposto do que a lei determina, pois há previsão expressa para a intimação de procuradores via DTE. Fundamento: \"Art. 332. As intimações dos atos do processo serão realizadas por meio de DTE, inclusive em se tratando de intimação de procurador.\""
+    ]
+},
+  {
+    "id": "LC214-131",
+    "question": "Considerando as disposições da Lei Complementar nº 214/2025 a respeito do Imposto Seletivo, é correto afirmar que este tributo",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Imposto Seletivo",
+    "options": [
+        "permite a apropriação de créditos relativos a operações anteriores, desde que devidamente comprovadas por documento fiscal idôneo.",
+        "incide em todas as etapas de comercialização do bem, assegurando-se a não cumulatividade plena em cada fase da cadeia produtiva.",
+        "incidirá uma única vez sobre o bem ou serviço, sendo vedado qualquer tipo de aproveitamento de crédito do imposto com operações anteriores ou geração de créditos para operações posteriores.",
+        "admite a geração de créditos para operações posteriores, que poderão ser utilizados para abater débitos do Imposto sobre Bens e Serviços (IBS).",
+        "tem seu fato gerador ocorrido exclusivamente na importação de bens e serviços, não alcançando as operações realizadas no mercado interno."
+    ],
+    "answer": 2,
+    "justifications": [
+        "Incorreta. A norma veda expressamente o aproveitamento de créditos, o que é uma característica central do imposto. A justificativa se baseia no Art. 410.",
+        "Incorreta. O imposto é monofásico, incidindo uma única vez, e não plurifásico (incidente em todas as etapas). A justificativa se baseia no Art. 410.",
+        "Correta. A alternativa é uma paráfrase precisa do texto legal, que estabelece a incidência única (monofásica) e a vedação ao creditamento. A justificativa se baseia no Art. 410. Dispositivo Legal (Integral): Art. 410. O Imposto Seletivo incidirá uma única vez sobre o bem ou serviço, sendo vedado qualquer tipo de aproveitamento de crédito do imposto com operações anteriores ou geração de créditos para operações posteriores.",
+        "Incorreta. A lei proíbe a geração de créditos para operações posteriores, tornando a alternativa inválida. A justificativa se baseia no Art. 410.",
+        "Incorreta. O fato gerador do Imposto Seletivo ocorre em diversas hipóteses, incluindo o primeiro fornecimento do bem no mercado interno, e não apenas na importação. A justificativa se baseia no Art. 412."
+    ]
+},
+{
+    "id": "LC214-132",
+    "question": "Considere as seguintes situações no âmbito do Imposto Seletivo:\n\nI. A extração de um bem mineral sujeito ao imposto.\nII. A incorporação de um bem produzido pelo próprio fabricante ao seu ativo imobilizado.\nIII. A segunda comercialização de uma bebida alcoólica, já tributada na saída do fabricante, por um supermercado ao consumidor final.\n\nDe acordo com a Lei Complementar nº 214/2025, considera-se ocorrido o fato gerador do Imposto Seletivo APENAS no que se afirma em",
+    "difficulty": "Fácil",
+    "format": "Assertiva",
+    "subtopic": "Imposto Seletivo",
+    "options": [
+        "I e II.",
+        "II e III.",
+        "I e III.",
+        "I.",
+        "III."
+    ],
+    "answer": 0,
+    "justifications": [
+        "I. Correta. A extração de bem mineral é uma das hipóteses expressamente listadas como momento de ocorrência do fato gerador. A justificativa se baseia no Art. 412, V.",
+        "II. Correta. A incorporação do bem ao ativo imobilizado pelo próprio fabricante também constitui um dos momentos de ocorrência do fato gerador. A justificativa se baseia no Art. 412, IV.",
+        "III. Incorreta. O Imposto Seletivo incide uma única vez, no primeiro fornecimento do bem. Operações subsequentes, como a venda no varejo, não constituem um novo fato gerador. A justificativa se baseia no Art. 410 e no Art. 412, I. Dispositivos Legais (Integral): Art. 410. O Imposto Seletivo incidirá uma única vez sobre o bem ou serviço, sendo vedado qualquer tipo de aproveitamento de crédito do imposto com operações anteriores ou geração de créditos para operações posteriores. Art. 412. Considera-se ocorrido o fato gerador do Imposto Seletivo no momento: I - do primeiro fornecimento a qualquer título do bem, inclusive decorrente dos negócios jurídicos mencionados nos incisos I a VIII do § 2º do art. 4º desta Lei Complementar; II - da arrematação em leilão público; III - da transferência não onerosa de bem produzido; IV - da incorporação do bem ao ativo imobilizado pelo fabricante; V - da extração de bem mineral; VI - do consumo do bem pelo fabricante; VII - do fornecimento ou do pagamento do serviço, o que ocorrer primeiro; ou VIII - da importação de bens e serviços."
+    ]
+},
+{
+    "id": "LC214-133",
+    "question": "Uma empresa de telecomunicações, ao realizar a apuração de seus tributos, foi notificada pela autoridade fiscal a recolher o Imposto Seletivo incidente sobre a prestação de seus serviços de telefonia móvel e internet. Com base na situação hipotética e nas disposições da Lei Complementar nº 214/2025, a exigência fiscal é",
+    "difficulty": "Fácil",
+    "format": "Contexto",
+    "subtopic": "Imposto Seletivo",
+    "options": [
+        "procedente, pois os serviços de telecomunicações são considerados prejudiciais ao meio ambiente e, portanto, sujeitos ao Imposto Seletivo.",
+        "improcedente, pois a competência para fiscalizar o Imposto Seletivo sobre telecomunicações é exclusiva do Comitê Gestor do IBS.",
+        "procedente, pois o Imposto Seletivo incide sobre todos os serviços, sem exceção, que configurem atividade econômica.",
+        "procedente, mas a responsabilidade pelo recolhimento seria do tomador do serviço, e não da empresa prestadora.",
+        "improcedente, pois a lei estabelece expressamente que o Imposto Seletivo não incide sobre as operações com telecomunicações."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. A premissa de que os serviços de telecomunicações são prejudiciais ao meio ambiente não encontra respaldo na lei para fins de incidência do Imposto Seletivo, que, ademais, prevê uma regra de não incidência específica. A justificativa se baseia no Art. 413, II.",
+        "Incorreta. Embora a cobrança seja indevida, a competência para administrar e fiscalizar o Imposto Seletivo é da Receita Federal do Brasil (RFB), e não do Comitê Gestor do IBS. A justificativa se baseia no Art. 411.",
+        "Incorreta. A lei prevê um rol específico de bens e serviços sobre os quais o imposto incide, além de listar hipóteses expressas de não incidência. A justificativa se baseia nos Arts. 409 e 413.",
+        "Incorreta. A cobrança é indevida. Mesmo que fosse devida, a regra geral de sujeição passiva aponta para o fornecedor do serviço como contribuinte, e não o tomador. A justificativa se baseia nos Arts. 413 e 424.",
+        "Correta. A alternativa reflete com exatidão a vedação legal, que de forma clara e objetiva exclui as operações com telecomunicações do campo de incidência do Imposto Seletivo. A justificativa se baseia no Art. 413, II. Dispositivo Legal (Integral): Art. 413. O Imposto Seletivo não incide sobre: I - (VETADO); II - as operações com energia elétrica e com telecomunicações; e III - os bens e serviços cujas alíquotas sejam reduzidas nos termos do § 1º do art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023."
+    ]
+},
+{
+    "id": "LC214-134",
+    "question": "Em relação à apuração do Imposto Seletivo incidente sobre a comercialização de um bem sujeito à alíquota ad valorem, a Lei Complementar nº 214/2025 estabelece que a base de cálculo é o valor integral cobrado na operação, abrangendo diversas parcelas. Contudo, a mesma lei prevê expressamente que certos montantes não devem compor a referida base de cálculo.\nConsiderando essa sistemática, NÃO integra a base de cálculo do Imposto Seletivo",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Imposto Seletivo",
+    "options": [
+        "o valor do transporte cobrado como parte do valor da operação, quando este for efetuado por conta e ordem do fornecedor.",
+        "os descontos concedidos mediante o cumprimento de uma condição futura pelo adquirente.",
+        "as demais importâncias cobradas ou recebidas como parte do valor da operação, a exemplo de seguros e taxas.",
+        "o montante do próprio Imposto Seletivo, do IBS e da CBS incidentes na operação.",
+        "os juros, multas e demais encargos decorrentes do financiamento da operação."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. A alternativa descreve uma parcela que, segundo a lei, integra a base de cálculo do imposto. A justificativa se baseia no Art. 415, IV.",
+        "Incorreta. Os descontos condicionais são expressamente incluídos na base de cálculo do imposto. A justificativa se baseia no Art. 415, III.",
+        "Incorreta. Seguros, taxas e outras importâncias cobradas como parte da operação são legalmente adicionadas à base de cálculo. A justificativa se baseia no Art. 415, VI.",
+        "Correta. A lei determina explicitamente a exclusão dos valores do IBS, da CBS e do próprio Imposto Seletivo da sua base de cálculo, no que é conhecido como cálculo \"por fora\". A justificativa se baseia no Art. 417, I. Dispositivos Legais (Integral): Art. 415. Na comercialização de bem sujeito à alíquota ad valorem, a base de cálculo é o valor integral cobrado na operação a qualquer título, incluindo o valor correspondente a: I - acréscimos decorrentes de ajuste do valor da operação; II - juros, multas, acréscimos e encargos; III - descontos concedidos sob condição; IV - valor do transporte cobrado como parte do valor da operação, seja o transporte efetuado pelo próprio fornecedor ou por sua conta e ordem; V - tributos e preços públicos, inclusive tarifas, incidentes sobre a operação ou suportados pelo fornecedor, exceto aqueles previstos no § 2º do art. 12 desta Lei Complementar; e VI - demais importâncias cobradas ou recebidas como parte do valor da operação, inclusive seguros e taxas. Art. 417. Não integram a base de cálculo do Imposto Seletivo: I - o montante da CBS, do IBS e do próprio Imposto Seletivo incidentes na operação; e II - os descontos incondicionais.",
+        "Incorreta. Juros, multas e encargos são considerados parte do valor integral da operação e, portanto, compõem a base de cálculo. A justificativa se baseia no Art. 415, II."
+    ]
+},
+{
+    "id": "LC214-135",
+    "question": "Uma fabricante de produtos fumígenos, sujeita ao Imposto Seletivo, decidiu transferir parte de sua produção, de forma não onerosa, a título de doação, para uma empresa parceira para uso em um evento corporativo. Considerando que a referida operação configura fato gerador do imposto, a base de cálculo do Imposto Seletivo deverá corresponder ao",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Imposto Seletivo",
+    "options": [
+        "valor contábil de incorporação do bem ao ativo imobilizado.",
+        "valor de referência.",
+        "valor de venda na comercialização para o varejo.",
+        "valor de arremate em leilão público.",
+        "custo de produção apurado na contabilidade do fabricante."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. O valor contábil de incorporação ao ativo imobilizado é uma base de cálculo específica para essa hipótese de fato gerador, não se aplicando à transação não onerosa. A justificativa se baseia no Art. 414, IV.",
+        "Correta. Para transações não onerosas (como a doação descrita), a lei determina que a base de cálculo do Imposto Seletivo seja o valor de referência, cuja metodologia será definida pelo Poder Executivo. A justificativa se baseia no Art. 414, III, 'a'. Dispositivo Legal (Integral): Art. 414. A base de cálculo do Imposto Seletivo é: I - o valor de venda na comercialização; II - o valor de arremate na arrematação; III - o valor de referência na: a) transação não onerosa ou no consumo do bem; b) extração de bem mineral; ou c) comercialização de produtos fumígenos; IV - o valor contábil de incorporação do bem produzido ao ativo imobilizado; V - a receita própria da entidade que promove a atividade, na hipótese de que trata o inciso VII do § 1º do art. 409 desta Lei Complementar, calculada nos termos do art. 245.",
+        "Incorreta. O valor de venda na comercialização é a base de cálculo para a operação de venda, e não para a transferência não onerosa. A justificativa se baseia no Art. 414, I.",
+        "Incorreta. O valor de arremate é a base de cálculo específica para a arrematação em leilão, não se confundindo com a situação apresentada. A justificativa se baseia no Art. 414, II.",
+        "Incorreta. O custo de produção não é uma das bases de cálculo previstas em lei para o Imposto Seletivo. A justificativa se baseia na ausência de previsão no Art. 414."
+    ]
+},
+{
+    "id": "LC214-136",
+    "question": "Uma indústria de bebidas alcoólicas, contribuinte do Imposto Seletivo, efetuou uma venda para uma grande rede de distribuidores. No período de apuração seguinte, a distribuidora devolveu parte do lote adquirido, alegando não conformidade com as especificações do pedido. A indústria aceitou a devolução. Sobre os efeitos tributários dessa devolução para a indústria, considere as afirmativas:\n\nI. A devolução dos bens gera o direito ao abatimento do valor do Imposto Seletivo que incidiu na operação de venda original.\nII. O abatimento do imposto pode ser efetuado tanto no período de apuração em que a devolução ocorreu quanto em períodos subsequentes.\nIII. O valor do imposto a ser recuperado em função da devolução constitui crédito fiscal, que pode ser transferido a outros estabelecimentos da mesma empresa.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Imposto Seletivo",
+    "options": [
+        "I e III.",
+        "II e III.",
+        "III.",
+        "II.",
+        "I e II."
+    ],
+    "answer": 4,
+    "justifications": [
+        "I. Correta. A lei prevê de forma expressa que a devolução de bens vendidos dá ao contribuinte o direito de abater o valor do Imposto Seletivo que foi cobrado naquela operação. A justificativa se baseia no Art. 418.",
+        "II. Correta. O mesmo dispositivo legal que autoriza o abatimento permite que ele seja feito não só no período da devolução, mas também nos períodos seguintes, oferecendo flexibilidade ao contribuinte. A justificativa se baseia no Art. 418.",
+        "III. Incorreta. A lei utiliza o termo \"abatimento\" e não \"crédito\". O Art. 410 veda expressamente qualquer forma de aproveitamento ou geração de créditos do Imposto Seletivo, o que, por consequência, impede a sua transferência. A alternativa erra ao confundir os institutos. A justificativa se baseia nos Arts. 410 e 418. Dispositivos Legais (Integral): Art. 410. O Imposto Seletivo incidirá uma única vez sobre o bem ou serviço, sendo vedado qualquer tipo de aproveitamento de crédito do imposto com operações anteriores ou geração de créditos para operações posteriores. Art. 418. As devoluções de bens vendidos geram direito ao abatimento do valor do Imposto Seletivo cobrado na respectiva operação no período de apuração em que ocorreu a devolução ou nos subsequentes."
+    ]
+},
+{
+    "id": "LC214-137",
+    "question": "A Lei Complementar nº 214/2025 institui o Imposto Seletivo, que incide sobre a produção, extração, comercialização ou importação de bens e serviços considerados prejudiciais à saúde ou ao meio ambiente. Conforme o rol expressamente previsto na referida lei, considere os seguintes itens:\n\nI. Veículos, embarcações e aeronaves.\nII. Bebidas alcoólicas e bebidas açucaradas.\nIII. Agrotóxicos e armas de fogo.\nIV. Bens minerais e produtos fumígenos.\n\nO Imposto Seletivo incide sobre o que se afirma em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Imposto Seletivo",
+    "options": [
+        "I, II e IV, apenas.",
+        "I e III, apenas.",
+        "II e III, apenas.",
+        "IV, apenas.",
+        "I, II, III e IV."
+    ],
+    "answer": 0,
+    "justifications": [
+        "I. Correta. A assertiva lista categorias de bens que estão expressamente mencionadas nos incisos I e II do § 1º do Art. 409.",
+        "II. Correta. A assertiva menciona categorias de bens que constam nos incisos IV e V do § 1º do Art. 409.",
+        "III. Incorreta. Embora agrotóxicos e armas de fogo possam ser considerados prejudiciais em um sentido amplo, eles não constam no rol taxativo apresentado pelo § 1º do Art. 409. A incidência do imposto se restringe exclusivamente aos itens listados na lei.",
+        "IV. Correta. A assertiva aponta categorias de bens que estão devidamente listadas nos incisos VI e III do § 1º do Art. 409. Dispositivo Legal (Integral): Art. 409. Fica instituído o Imposto Seletivo, de que trata o inciso VIII do art. 153 da Constituição Federal, incidente sobre a produção, extração, comercialização ou importação de bens e serviços prejudiciais à saúde ou ao meio ambiente. § 1º Para fins de incidência do Imposto Seletivo, consideram-se prejudiciais à saúde ou ao meio ambiente os bens classificados nos códigos da NCM/SH e o carvão mineral, e os serviços listados no Anexo XVII, referentes a: I - veículos; II - embarcações e aeronaves; III - produtos fumígenos; IV - bebidas alcoólicas; V - bebidas açucaradas; VI - bens minerais; VII - concursos de prognósticos e fantasy sport. § 2º Os bens a que se referem os incisos III e IV do § 1º estão sujeitos ao Imposto Seletivo quando acondicionados em embalagem primária, assim entendida aquela em contato direto com o produto e destinada ao consumidor final."
+    ]
+},
+  {
+    "id": "LC214-138",
+    "question": "Uma empresa, contribuinte do regime regular do IBS e da CBS, realizou uma venda de mercadorias no valor de R$ 10.000,00. Dias depois, o cliente efetuou a devolução integral das mercadorias, e a empresa cancelou a operação. De acordo com a Lei Complementar nº 214/2025, a base de cálculo relativa à devolução ou ao cancelamento será",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "o valor de mercado das mercadorias na data da devolução.",
+        "o valor da operação original, descontados os custos de frete.",
+        "zero, pois o cancelamento da operação extingue a base de cálculo.",
+        "o valor da operação original, corrigido pela taxa Selic entre a data da venda e a data da devolução.",
+        "a mesma utilizada na operação original."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. A lei não prevê a utilização do valor de mercado para a devolução, mas sim o valor da transação original, conforme Art. 12, § 7º.",
+        "Incorreta. Não há previsão legal para a exclusão de custos de frete na base de cálculo da devolução. A base deve ser a mesma da operação original, conforme Art. 12, § 7º.",
+        "Incorreta. Embora a operação seja cancelada, a base de cálculo para o estorno do débito é a da operação original, não sendo considerada nula, conforme a lógica do Art. 12, § 7º.",
+        "Incorreta. Não há previsão de correção monetária para a base de cálculo em caso de devolução ou cancelamento, conforme o Art. 12, § 7º.",
+        "Correta. A alternativa reflete a literalidade do Art. 12, § 7º. Texto Legal (Art. 12, § 7º): \"A base de cálculo relativa à devolução ou ao cancelamento será a mesma utilizada na operação original.\""
+    ]
+},
+{
+    "id": "LC214-139",
+    "question": "Nos termos da Lei Complementar nº 214/2025, o valor da operação será arbitrado pela administração tributária em qualquer hipótese em que",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "as declarações, informações ou documentos apresentados pelo sujeito passivo ou por terceiro legalmente obrigado forem omissos, conflitantes ou não merecerem fé.",
+        "a apuração do contribuinte resultar em saldo a recuperar (credor) por três períodos de apuração consecutivos.",
+        "o contribuinte se recusar a apresentar sua escrituração contábil durante um procedimento fiscal, caracterizando embaraço à fiscalização.",
+        "a empresa realizar uma operação de venda para uma parte relacionada, independentemente do valor praticado.",
+        "o contribuinte deixar de entregar a declaração de apuração do IBS e da CBS por um ou mais períodos."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. A alternativa é uma transcrição literal da hipótese de arbitramento prevista no Art. 13, inciso II. Texto Legal (Art. 13, II): \"O valor da operação será arbitrado pela administração tributária quando: ... II - em qualquer outra hipótese em que forem omissos, conflitantes ou não merecerem fé as declarações, informações ou documentos apresentados pelo sujeito passivo ou por terceiro legalmente obrigado.\"",
+        "Incorreta. A apuração de saldo credor recorrente, embora possa ser um indicador para a fiscalização, não é uma das hipóteses listadas no Art. 13 para o arbitramento do valor de uma operação específica.",
+        "Incorreta. O embaraço à fiscalização é uma hipótese que autoriza a instauração de um Regime Especial de Fiscalização (REF), conforme o Art. 338, inciso I, que possui outras consequências, não sendo, por si só, uma das hipóteses de arbitramento listadas no Art. 13. Texto Legal (Art. 338, I): \"a RFB e as administrações tributárias dos Estados, do Distrito Federal e dos Municípios poderão determinar Regime Especial de Fiscalização - REF para cumprimento de obrigações tributárias, nas seguintes hipóteses: I - embaraço à fiscalização...\"",
+        "Incorreta. A realização de operação com parte relacionada impõe a utilização do valor de mercado como base de cálculo (Art. 12, § 4º, IV), mas não é, isoladamente, uma hipótese de arbitramento do Art. 13. O arbitramento só ocorreria se, nessa operação, o valor declarado fosse omisso ou não merecesse fé. Texto Legal (Art. 12, § 4º, IV): \"A base de cálculo corresponderá ao valor de mercado dos bens ou serviços... IV - operação entre partes relacionadas...\"",
+        "Incorreta. A omissão na entrega da declaração de apuração é uma infração que sujeita o contribuinte ao lançamento de ofício do tributo devido (com base em dados disponíveis ou estimativas), além de penalidades, mas não se confunde com as hipóteses de arbitramento do valor de uma operação específica listadas no Art. 13."
+    ]
+},
+{
+    "id": "LC214-140",
+    "question": "A empresa \"Alfa Comércio Ltda.\" foi contribuinte do regime regular do IBS e da CBS durante todo o ano-calendário de 2028. Nesse período, em virtude de suas operações, acumulou créditos significativos e, após solicitação, recebeu o ressarcimento integral desses valores em novembro de 2028. Buscando simplificar suas obrigações, a administração da empresa decide, em janeiro de 2029, realizar a opção pelo Simples Nacional.\nConsiderando o cenário apresentado e as disposições da Lei Complementar nº 214/2025, a tentativa da empresa \"Alfa Comércio Ltda.\" de optar pelo Simples Nacional em 2029 é",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "permitida, pois a opção pelo Simples Nacional é um direito da empresa que se enquadra nos limites de faturamento, independentemente de eventos passados.",
+        "permitida, desde que a empresa devolva o valor do ressarcimento recebido, corrigido pela taxa Selic.",
+        "permitida, mas a empresa ficará impedida de solicitar novos ressarcimentos de créditos por um período de cinco anos.",
+        "vedada, pois um contribuinte que já esteve no regime regular não pode mais optar pelo Simples Nacional em nenhuma hipótese.",
+        "vedada, pois a empresa recebeu ressarcimento de créditos de IBS e CBS no ano-calendário anterior."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. A opção pelo Simples Nacional, embora seja um direito sob certas condições, possui vedações específicas, como a descrita no Art. 41, § 5º.",
+        "Incorreta. A lei estabelece uma vedação (proibição), e não uma permissão condicionada à devolução de valores.",
+        "Incorreta. A consequência prevista na lei não é uma futura restrição, mas sim a impossibilidade imediata de optar pelo Simples Nacional.",
+        "Incorreta. A vedação não é absoluta. Um contribuinte do regime regular pode, em tese, optar pelo Simples Nacional, desde que não se enquadre na hipótese de vedação específica do Art. 41, § 5º.",
+        "Correta. A alternativa descreve precisamente a vedação imposta pelo Art. 41, § 5º. Texto Legal (Art. 41, § 5º): \"É vedado ao contribuinte do Simples Nacional ou ao contribuinte que venha a fazer a opção por esse regime retirar-se do regime regular do IBS e da CBS caso tenha recebido ressarcimento de créditos desses tributos no ano-calendário corrente ou anterior, nos termos do art. 39 desta Lei Complementar.\""
+    ]
+},
+{
+    "id": "LC214-141",
+    "question": "A \"Indústria Alfa S.A.\" detém 80% do capital social da \"Distribuidora Beta Ltda.\". Em agosto de 2025, a \"Indústria Alfa\" vende para a \"Distribuidora Beta\" um lote de produtos por R$ 100.000,00, embora o valor que seria praticado em uma venda para um cliente não relacionado, em condições comparáveis, fosse de R$ 150.000,00.\nA respeito da situação apresentada, à luz da Lei Complementar nº 214/2025, analise as afirmativas a seguir.\n\nI. Para fins da legislação do IBS/CBS, a \"Indústria Alfa\" e a \"Distribuidora Beta\" não são consideradas partes relacionadas, pois possuem personalidades jurídicas e CNPJs distintos.\nII. A base de cálculo do IBS e da CBS nessa operação deverá corresponder ao valor de mercado do bem, e não ao valor efetivamente negociado entre as empresas.\nIII. A relação de controle societário, como a existente entre as empresas, é um critério que as qualifica como partes relacionadas.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "I e II.",
+        "I e III.",
+        "I, II e III.",
+        "II.",
+        "II e III."
+    ],
+    "answer": 4,
+    "justifications": [
+        "I – Incorreta. A existência de CNPJs distintos é irrelevante. O critério para definir partes relacionadas inclui a relação de controle, conforme o Art. 5º, § 3º, I, e § 5º, II. Uma empresa que participa com mais de 50% do capital social de outra caracteriza controle. Texto Legal (Art. 5º, § 3º, I): \"São consideradas partes relacionadas...: I - o controlador e as suas controladas;\".",
+        "II – Correta. Em operações entre partes relacionadas, caso o valor praticado divirja do de mercado, a base de cálculo do IBS/CBS deve ser o valor de mercado, e não o valor da transação. Texto Legal (Art. 12, § 4º, IV): \"A base de cálculo corresponderá ao valor de mercado dos bens ou serviços... IV - operação entre partes relacionadas, nos termos do inciso IV do caput do art. 5º...\".",
+        "III – Correta. A afirmativa descreve corretamente um dos principais critérios para a definição de partes relacionadas, que é o controle societário, detalhado no Art. 5º. Texto Legal (Art. 5º, § 5º): \"Para fins do disposto no § 3º deste artigo, fica caracterizada a relação de controle quando uma entidade: ... II - participar, direta ou indiretamente, de mais de 50% (cinquenta por cento) do capital social de outra entidade;\"."
+    ]
+},
+{
+    "id": "LC214-142",
+    "question": "Em uma operação comercial, o valor cobrado pelo fornecedor a um adquirente incluiu, além do preço do bem, parcelas correspondentes ao frete (realizado pelo próprio fornecedor), juros decorrentes de parcelamento, prêmio de seguro e um desconto incondicional. Nessa situação, de acordo com a Lei Complementar nº 214/2025, a base de cálculo do IBS e da CBS é corretamente composta pelo somatório",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "do valor do bem, do frete, dos juros e do prêmio de seguro, deduzido o valor do desconto incondicional.",
+        "de todos os valores cobrados, inclusive o IPI que incidiria na operação, deduzido o valor do desconto incondicional.",
+        "apenas do valor do bem e dos juros, pois frete e seguro são considerados despesas acessórias não tributáveis.",
+        "do valor do bem, do frete, dos juros e do prêmio de seguro, sem a dedução do desconto incondicional.",
+        "apenas do valor do bem, pois todos os demais valores são considerados receitas financeiras ou acessórias com tributação apartada."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. A alternativa descreve com precisão a composição da base de cálculo. O valor do bem, o frete por conta do fornecedor, os juros e o seguro integram a base de cálculo, enquanto o desconto incondicional é excluído. A base legal para a inclusão está no Art. 12, § 1º, incisos II, IV e VI, e para a exclusão, no Art. 12, § 2º, inciso III. Texto Legal (Art. 12, § 1º): \"O valor da operação compreende o valor integral cobrado pelo fornecedor a qualquer título, inclusive os valores correspondentes a: ... II - juros, multas, acréscimos e encargos; ... IV - valor do transporte cobrado como parte do valor da operação, no transporte efetuado pelo próprio fornecedor ou no transporte por sua conta e ordem; ... VI - demais importâncias cobradas ou recebidas como parte do valor da operação, inclusive seguros e taxas.\" Texto Legal (Art. 12, § 2º): \"Não integram a base de cálculo do IBS e da CBS: ... III - os descontos incondicionais;\"",
+        "Incorreta. A inclusão do IPI na base de cálculo do IBS e da CBS é expressamente vedada. Texto Legal (Art. 12, § 2º): \"Não integram a base de cálculo do IBS e da CBS: ... II - o montante do Imposto sobre Produtos Industrializados (IPI);\"",
+        "Incorreta. O frete realizado pelo fornecedor e o seguro cobrado na operação integram, sim, a base de cálculo. Texto Legal (Art. 12, § 1º): \"O valor da operação compreende o valor integral cobrado pelo fornecedor a qualquer título, inclusive os valores correspondentes a: ... IV - valor do transporte cobrado como parte do valor da operação, no transporte efetuado pelo próprio fornecedor... VI - demais importâncias cobradas ou recebidas como parte do valor da operação, inclusive seguros...\"",
+        "Incorreta. Os descontos incondicionais devem ser deduzidos (excluídos) da base de cálculo. Texto Legal (Art. 12, § 2º): \"Não integram a base de cálculo do IBS e da CBS: ... III - os descontos incondicionais;\"",
+        "Incorreta. Juros, frete e seguro, quando cobrados como parte do valor da operação, compõem a base de cálculo e não possuem tributação apartada nesse contexto. Texto Legal (Art. 12, § 1º): \"O valor da operação compreende o valor integral cobrado pelo fornecedor a qualquer título, inclusive os valores correspondentes a: II - juros... IV - valor do transporte... VI - demais importâncias ... inclusive seguros...\""
+    ]
+},
+{
+    "id": "LC214-143",
+    "question": "Considerando as disposições da Lei Complementar nº 214/2025 sobre os regimes de apuração do IBS e da CBS, analise as afirmativas a seguir.\n\nI. O contribuinte que não realizar a opção pelo Simples Nacional ou pelo MEI fica sujeito ao regime regular do IBS e da CBS.\nII. Os contribuintes que são optantes pelo Simples Nacional e não exercem a opção de apurar o IBS e a CBS pelo regime regular permanecem sujeitos às regras do Simples Nacional.\nIII. A legislação faculta aos optantes pelo Simples Nacional a opção de apurar e recolher o IBS e a CBS pelo regime regular, devendo tal opção ser exercida nos termos da Lei Complementar nº 123, de 2006.\n\nEstá correto o que se afirma em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "I, II e III.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I, apenas.",
+        "III, apenas."
+    ],
+    "answer": 0,
+    "justifications": [
+        "I – Correta. A afirmativa corresponde à definição de quem está sujeito ao regime regular, conforme o Art. 41, § 1º. Texto Legal (Art. 41, § 1º): \"Fica sujeito ao regime regular do IBS e da CBS de que trata esta Lei Complementar o contribuinte que não realizar a opção pelo Simples Nacional ou pelo MEI, de que trata a Lei Complementar nº 123, de 14 de dezembro de 2006.\".",
+        "II – Correta. A afirmativa descreve corretamente a situação dos optantes pelo Simples que não migram para o regime regular do IBS/CBS, conforme o Art. 41, § 2º. Texto Legal (Art. 41, § 2º): \"Os contribuintes optantes pelo Simples Nacional ou pelo MEI ficam sujeitos às regras desses regimes.\".",
+        "III – Correta. A afirmativa combina a permissão para a opção pelo regime regular com a norma que rege o exercício dessa opção, conforme o Art. 41, § 3º e § 4º. Texto Legal (Art. 41, § 3º e § 4º): \"§ 3º Os optantes pelo Simples Nacional poderão exercer a opção de apurar e recolher o IBS e a CBS pelo regime regular, hipótese na qual o IBS e a CBS serão apurados e recolhidos conforme o disposto nesta Lei Complementar. § 4º A opção a que se refere o § 3º será exercida nos termos da Lei Complementar nº 123, de 14 de dezembro de 2006.\"."
+    ]
+},
+{
+    "id": "LC214-144",
+    "question": "A respeito da composição da base de cálculo do Imposto sobre Bens e Serviços (IBS) e da Contribuição sobre Bens e Serviços (CBS), considere as seguintes afirmativas.\n\nI. Integram a base de cálculo os descontos incondicionais, desde que constem do respectivo documento fiscal, e são excluídos os descontos concedidos sob condição, pois dependem de evento posterior à operação.\nII. A contribuição para o custeio do serviço de iluminação pública, de que trata o art. 149-A da Constituição Federal, não integra a base de cálculo do IBS e da CBS.\nIII. Integram o valor da operação os acréscimos decorrentes de ajuste de valor e os tributos incidentes sobre a operação.\n\nEstá correto o que se afirma em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "II, apenas.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "III, apenas.",
+        "I, II e III."
+    ],
+    "answer": 2,
+    "justifications": [
+        "I – Incorreta. A afirmativa inverte a regra legal. Descontos concedidos sob condição integram a base de cálculo, enquanto os descontos incondicionais são excluídos. Texto Legal (Art. 12, § 1º, III): \"O valor da operação compreende o valor integral cobrado pelo fornecedor a qualquer título, inclusive os valores correspondentes a: [...] III - descontos concedidos sob condição;\". Texto Legal (Art. 12, § 2º, III): \"Não integram a base de cálculo do IBS e da CBS: [...] III - os descontos incondicionais;\".",
+        "II – Correta. A afirmativa reflete a exclusão específica prevista na legislação para a contribuição de iluminação pública. Texto Legal (Art. 12, § 2º, VI): \"Não integram a base de cálculo do IBS e da CBS: [...] VI - a contribuição de que trata o art. 149-A da Constituição Federal.\".",
+        "III – Correta. A afirmativa está em conformidade com o Art. 12, § 1º, que detalha os valores que compõem a base de cálculo. Texto Legal (Art. 12, § 1º, I e V): \"O valor da operação compreende o valor integral cobrado pelo fornecedor a qualquer título, inclusive os valores correspondentes a: I - acréscimos decorrentes de ajuste do valor da operação; [...] V - tributos e preços públicos, inclusive tarifas, incidentes sobre a operação ou suportados pelo fornecedor, exceto aqueles previstos no § 2º deste artigo;\"."
+    ]
+},
+{
+    "id": "LC214-145",
+    "question": "A \"Rede Varejista Brasil S.A.\" possui matriz em São Paulo e filiais nos estados do Rio de Janeiro e Bahia. Em uma auditoria, a fiscalização constatou que a filial da Bahia emitiu uma nota fiscal de venda no valor de R$ 200.000,00, mas o contrato comercial correspondente e o registro contábil da matriz indicam que o valor da mesma operação foi de R$ 500.000,00.\nDiante do cenário e das normas da Lei Complementar nº 214/2025, considere as proposições a seguir.\n\nI. As informações conflitantes sobre o valor da operação autorizam a administração tributária a arbitrar a base de cálculo do IBS e da CBS.\nII. Independentemente da filial onde a inconsistência foi encontrada, o pagamento de eventual diferença de IBS e CBS apurada deverá ser centralizado em um único estabelecimento da empresa.\nIII. A apuração do IBS e da CBS, por consolidar as operações de todos os estabelecimentos, dispensa a emissão de documento fiscal eletrônico para a transferência de bens entre a matriz em São Paulo e a filial no Rio de Janeiro.\n\nEstá correto o que se afirma em",
+    "difficulty": "Média",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "I, apenas.",
+        "I, II e III.",
+        "II e III, apenas.",
+        "II, apenas.",
+        "I e II, apenas."
+    ],
+    "answer": 4,
+    "justifications": [
+        "I – Correta. A existência de documentos com informações conflitantes sobre o valor da operação é uma das hipóteses que autorizam o arbitramento da base de cálculo pela administração tributária. Texto Legal (Art. 13, II): \"O valor da operação será arbitrado pela administração tributária quando: [...] II - em qualquer outra hipótese em que forem omissos, conflitantes ou não merecerem fé as declarações, informações ou documentos apresentados pelo sujeito passivo ou por terceiro legalmente obrigado.\"",
+        "II – Correta. A legislação determina que a apuração é consolidada e que o pagamento do IBS e da CBS, assim como os pedidos de ressarcimento, devem ser centralizados em um único estabelecimento do contribuinte. Texto Legal (Art. 42, § 1º): \"O pagamento do IBS e da CBS e o pedido de ressarcimento serão centralizados em um único estabelecimento.\"",
+        "III – Incorreta. Embora a apuração seja consolidada, a legislação é expressa ao determinar que a transferência de bens entre estabelecimentos do mesmo contribuinte, apesar de não ser fato gerador do IBS e da CBS, exige a emissão de documento fiscal eletrônico. Texto Legal (Art. 6º, II): \"O IBS e a CBS não incidem sobre: [...] II - transferência de bens entre estabelecimentos pertencentes ao mesmo contribuinte, observada a obrigatoriedade de emissão de documento fiscal eletrônico, nos termos do inciso II do § 2º do art. 60 desta Lei Complementar;\""
+    ]
+},
+{
+    "id": "LC214-146",
+    "question": "Em março de 2027, durante o período de transição da reforma tributária, a \"Indústria Pesada S.A.\" realiza uma venda para a \"Construtora Futuro Ltda.\". A nota fiscal da venda principal, referente a um guindaste, discrimina o valor do bem e o montante da COFINS incidente sobre a operação. Adicionalmente, como parte de uma promoção, a \"Indústria Pesada S.A.\" entrega um conjunto de ferramentas de alto valor como brinde, emitindo para este um documento fiscal de simples remessa, sem destacar um valor de venda.\nCom base nesse cenário e nas disposições da Lei Complementar nº 214/2025, considere as seguintes proposições:\n\nI. Para o conjunto de ferramentas entregue como brinde, por se tratar de uma hipótese de falta do valor da operação, a base de cálculo do IBS e da CBS corresponderá ao seu valor de mercado.\nII. O montante da COFINS, destacado no documento fiscal da venda do guindaste, não integra a base de cálculo do IBS e da CBS incidentes sobre essa mesma operação.\nIII. Na hipótese de a \"Indústria Pesada S.A.\" ter omitido o valor do guindaste no documento fiscal, a base de cálculo seria arbitrada prioritariamente com base no custo de produção do bem, acrescido de uma margem de lucro presumida.\n\nEstá correto o que se afirma em",
+    "difficulty": "Difícil",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Base de Cálculo e Apuração",
+    "options": [
+        "I, II e III.",
+        "II e III, apenas.",
+        "I, apenas.",
+        "III, apenas.",
+        "I e II, apenas."
+    ],
+    "answer": 4,
+    "justifications": [
+        "I – Correta. A entrega do brinde, sem um valor de contraprestação definido, caracteriza a \"falta do valor da operação\". Nesses casos, a legislação determina que a base de cálculo seja o valor de mercado do bem. Texto Legal (Art. 12, § 4º, I): \"A base de cálculo corresponderá ao valor de mercado dos bens ou serviços [...] nas seguintes hipóteses: I - falta do valor da operação;\".",
+        "II – Correta. Durante o período de transição especificado na lei (2026 a 2032), os tributos que estão sendo substituídos, como a COFINS, são expressamente excluídos da base de cálculo do IBS e da CBS. Texto Legal (Art. 12, § 2º, V): \"Não integram a base de cálculo do IBS e da CBS: [...] V - o montante incidente na operação dos tributos a que se referem [...] a alínea “b” do inciso I e o inciso IV do caput do art. 195 da Constituição Federal [...] de 1º de janeiro de 2026 a 31 de dezembro de 2032;\".",
+        "III – Incorreta. A afirmativa descreve um critério secundário de arbitramento. Em caso de arbitramento, o critério prioritário é sempre o valor de mercado. O cálculo com base no custo acrescido de margem só é utilizado na impossibilidade de se apurar o valor de mercado. Texto Legal (Art. 13, Parágrafo único): \"Para fins do arbitramento de que trata este artigo, a base de cálculo do IBS e da CBS será: I - o valor de mercado dos bens ou serviços fornecidos [...] ou II - quando não estiver disponível o valor de que trata o inciso I...\"."
+    ]
+},
+  {
+    "id": "LC214-147",
+    "question": "A Lei Complementar nº 214/2025 estabelece hipóteses específicas de responsabilidade solidária. No que se refere à aquisição de óleo lubrificante usado ou contaminado de contribuinte sujeito ao regime regular,",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Sujeição Passiva e Responsabilidade (exceto plataformas digitais)",
+    "options": [
+        "a responsabilidade pelo pagamento do IBS e da CBS é exclusiva do contribuinte que aliena o produto, por se tratar do fato gerador original.",
+        "os rerrefinadores ou coletores autorizados pela ANP são subsidiariamente responsáveis pelo pagamento dos tributos, caso o alienante não o faça.",
+        "a emissão do documento fiscal eletrônico relativo à operação permanece sob a responsabilidade do fornecedor do óleo, cabendo ao adquirente apenas a responsabilidade pelo pagamento.",
+        "a responsabilidade solidária dos rerrefinadores ou coletores se aplica apenas se o fornecedor do óleo não for contribuinte do regime regular.",
+        "os rerrefinadores ou coletores autorizados pela ANP são solidariamente responsáveis pelo pagamento do IBS e da CBS incidentes na operação."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. A lei estabelece a responsabilidade solidária dos adquirentes (rerrefinadores/coletores), contrariando a afirmação de exclusividade do fornecedor. Fundamento: \"Art. 24, § 4º Os rerrefinadores ou coletores autorizados pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) são solidariamente responsáveis pelo pagamento do IBS e da CBS incidentes na aquisição de óleo lubrificante usado ou contaminado de contribuinte sujeito ao regime regular.\"",
+        "Incorreta. A lei é explícita ao definir a responsabilidade como solidária, e não subsidiária. Fundamento: \"Art. 24, § 4º Os rerrefinadores ou coletores [...] são solidariamente responsáveis...\"",
+        "Incorreta. A lei determina que, nesta hipótese, a emissão do documento fiscal será efetuada justamente pelos rerrefinadores ou coletores. Fundamento: \"Art. 24, § 5º Na hipótese do § 4º, a emissão do documento fiscal eletrônico relativo à operação será efetuada pelos rerrefinadores ou coletores, na forma estabelecida em regulamento...\"",
+        "Incorreta. A regra de responsabilidade solidária aplica-se especificamente na aquisição de óleo \"de contribuinte sujeito ao regime regular\". Fundamento: \"Art. 24, § 4º [...] são solidariamente responsáveis [...] na aquisição de óleo lubrificante usado ou contaminado de contribuinte sujeito ao regime regular.\"",
+        "Correta. A alternativa é uma paráfrase fiel da regra de responsabilidade solidária estabelecida na lei. Fundamento: \"Art. 24, § 4º Os rerrefinadores ou coletores autorizados pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) são solidariamente responsáveis pelo pagamento do IBS e da CBS incidentes na aquisição de óleo lubrificante usado ou contaminado de contribuinte sujeito ao regime regular.\""
+    ]
+},
+{
+    "id": "LC214-148",
+    "question": "Considerando as regras de responsabilidade solidária previstas na Lei Complementar nº 214/2025,",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Sujeição Passiva e Responsabilidade (exceto plataformas digitais)",
+    "options": [
+        "a responsabilidade por uso de software fraudulento é exclusiva do usuário do programa, que se beneficia diretamente da sonegação, eximindo o desenvolvedor.",
+        "os desenvolvedores ou fornecedores de programas utilizados para registro de operações que contenham comandos inseridos com a finalidade de descumprir a legislação tributária são solidariamente responsáveis.",
+        "os fornecedores de aplicativos que permitam o descumprimento da legislação tributária são responsáveis de forma subsidiária, após esgotadas as cobranças contra o contribuinte principal.",
+        "a responsabilidade solidária dos desenvolvedores de software somente se configura se houver condenação criminal transitada em julgado pelo crime contra a ordem tributária.",
+        "a responsabilidade por software com funções fraudulentas aplica-se apenas aos fornecedores do aplicativo, excluindo-se os desenvolvedores que não participaram da comercialização."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. A lei estabelece expressamente a responsabilidade solidária dos desenvolvedores ou fornecedores. Fundamento: \"Art. 24. ... são solidariamente responsáveis pelo pagamento do IBS e da CBS: ... IV - os desenvolvedores ou fornecedores de programas ou aplicativos utilizados para registro de operações com bens ou com serviços que contenham funções ou comandos inseridos com a finalidade de descumprir a legislação tributária;\"",
+        "Correta. A alternativa descreve precisamente a hipótese de responsabilidade solidária prevista na lei. Fundamento: \"Art. 24. ... são solidariamente responsáveis pelo pagamento do IBS e da CBS: ... IV - os desenvolvedores ou fornecedores de programas ou aplicativos utilizados para registro de operações com bens ou com serviços que contenham funções ou comandos inseridos com a finalidade de descumprir a legislação tributária;\"",
+        "Incorreta. A lei define a responsabilidade como solidária, e não subsidiária. Fundamento: \"Art. 24. Sem prejuízo das demais hipóteses previstas na Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional) e na legislação civil, são solidariamente responsáveis pelo pagamento do IBS e da CBS:\"",
+        "Incorreta. A responsabilidade tributária solidária prevista na lei é de natureza administrativa e independe de prévia condenação na esfera criminal, pois o texto legal não impõe tal condição. Fundamento (por ausência de condição): \"Art. 24. ... IV - os desenvolvedores ou fornecedores de programas ou aplicativos...\"",
+        "Incorreta. O texto da lei é claro ao incluir tanto os \"desenvolvedores\" quanto os \"fornecedores\". Fundamento: \"Art. 24. ... IV - os desenvolvedores ou fornecedores de programas ou aplicativos...\""
+    ]
+},
+{
+    "id": "LC214-149",
+    "question": "As empresas \"Engenharia Alfa\" e \"Construções Beta\" formaram um consórcio para a execução de uma grande obra de infraestrutura. O consórcio, que não optou por se inscrever como contribuinte no regime regular do IBS e da CBS, realizou a aquisição de serviços de terraplanagem para a obra. Diante dessa operação, surge a questão sobre a responsabilidade pelo pagamento dos tributos.\nNesse cenário, conforme a Lei Complementar nº 214/2025, a obrigação pelo pagamento do IBS e da CBS é",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Sujeição Passiva e Responsabilidade (exceto plataformas digitais)",
+    "options": [
+        "do próprio consórcio, pois, ao realizar operações, ele se torna contribuinte por presunção legal, independentemente de opção.",
+        "da empresa líder do consórcio, \"Engenharia Alfa\", que responde integralmente pelos tributos, na qualidade de sócia ostensiva.",
+        "inexistente, pois a lei define o consórcio não optante como não contribuinte, isentando as operações por ele realizadas.",
+        "das empresas consorciadas, \"Engenharia Alfa\" e \"Construções Beta\", que ficarão obrigadas ao pagamento, de forma proporcional às suas respectivas participações.",
+        "solidária entre o consórcio e as empresas consorciadas, podendo a administração tributária exigir o pagamento integral de qualquer uma das partes."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. A lei define o consórcio como não contribuinte, salvo opção. Fundamento: \"Art. 26. Não são contribuintes do IBS e da CBS ... II - consórcio de que trata o art. 278 da Lei nº 6.404, de 15 de dezembro de 1976;\"",
+        "Incorreta. A figura do \"sócio ostensivo\" e sua responsabilidade aplicam-se à Sociedade em Conta de Participação (Art. 26, § 4º), e não ao consórcio.",
+        "Incorreta. A obrigação tributária não é extinta, mas sim transferida aos membros do consórcio. Fundamento: \"Art. 26, § 3º Caso o consórcio ... não exerça a opção pelo regime regular ..., os consorciados ficarão obrigados ao pagamento do IBS e da CBS...\"",
+        "Correta. A alternativa descreve exatamente a regra de responsabilidade dos membros do consórcio não optante. Fundamento: \"Art. 26, § 3º Caso o consórcio de que trata o inciso II do caput não exerça a opção pelo regime regular de que trata o § 1º deste artigo, os consorciados ficarão obrigados ao pagamento do IBS e da CBS quanto às operações realizadas pelo consórcio, proporcionalmente às suas participações.\"",
+        "Incorreta. A lei não estabelece responsabilidade solidária nesta hipótese, mas sim a obrigação dos consorciados de forma proporcional."
+    ]
+},
+{
+    "id": "LC214-150",
+    "question": "Com base na Lei Complementar nº 214/2025, no que tange à sujeição passiva e à responsabilidade tributária, considere as seguintes assertivas:\n\nI. O entreposto aduaneiro é solidariamente responsável pelo IBS e pela CBS em relação ao bem que, tendo sido recebido para exportação, não seja de fato exportado.\nII. A imunidade tributária de que goza a empresa pública prestadora de serviço postal não a isenta da responsabilidade solidária na condição de transportadora, nas hipóteses previstas em lei.\nIII. A obrigação de o fornecedor residente no exterior se cadastrar como contribuinte não se aplica, em nenhuma hipótese, às importações de bens materiais, ficando a cargo do importador no Brasil.\n\nEstá correto o que se afirma em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Sujeição Passiva e Responsabilidade (exceto plataformas digitais)",
+    "options": [
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I e III, apenas.",
+        "I, II e III.",
+        "III, apenas."
+    ],
+    "answer": 0,
+    "justifications": [
+        "I. Correta. A assertiva corresponde exatamente a uma das hipóteses de responsabilidade solidária do entreposto aduaneiro. Fundamento: \"Art. 24. ... são solidariamente responsáveis ... VI - o entreposto aduaneiro ... em relação ao bem: ... b) recebido para exportação e não exportado;\"",
+        "II. Correta. A lei excepciona a imunidade, mantendo a responsabilidade solidária da empresa de serviço postal. Fundamento: \"Art. 24, § 1º A imunidade de que trata o § 1º do art. 9º desta Lei Complementar não exime a empresa pública prestadora de serviço postal da responsabilidade solidária nas hipóteses previstas no inciso II do caput deste artigo.\"",
+        "III. Incorreta. A assertiva generaliza de forma errônea. A regra geral do Art. 21, § 2º, obriga o fornecedor estrangeiro a se cadastrar. O § 4º do mesmo artigo limita essa regra para importações de bens materiais, mas cria uma exceção para a exceção, determinando que a regra de cadastro se aplica sim às remessas internacionais sujeitas a regime de tributação simplificada. Fundamento: \"Art. 21, § 4º Na importação de bens materiais, o disposto no § 2º deste artigo somente se aplica às remessas internacionais sujeitas a regime de tributação simplificada nos termos do art. 95.\""
+    ]
+},
+{
+    "id": "LC214-151",
+    "question": "Considerando as disposições sobre sujeição passiva e responsabilidade tributária da Lei Complementar nº 214/2025, é correto afirmar que",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Sujeição Passiva e Responsabilidade (exceto plataformas digitais)",
+    "options": [
+        "a mera existência de grupo econômico entre duas empresas é suficiente para estabelecer responsabilidade solidária entre elas, caso uma delas deixe de cumprir suas obrigações tributárias.",
+        "os consorciados de um consórcio não optante pelo regime regular respondem subsidiariamente pelos tributos devidos nas operações realizadas pelo consórcio, apenas se o consórcio não tiver patrimônio para quitar a dívida.",
+        "as entidades de previdência complementar fechada são não contribuintes do IBS e da CBS em qualquer hipótese, ainda que descumpram requisitos legais previstos no Código Tributário Nacional.",
+        "para fins de enquadramento como nanoempreendedor, a receita bruta de pessoa física prestadora de transporte individual intermediado por plataforma digital será considerada 25% do valor bruto mensal recebido da plataforma digital.",
+        "a responsabilidade solidária dos rerrefinadores de óleo lubrificante usado limita-se ao pagamento dos tributos, não alcançando a emissão do documento fiscal relativo à operação, a qual permanece sob responsabilidade do fornecedor."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. A lei afasta a presunção de responsabilidade pela simples existência do grupo econômico, exigindo um nexo com o ato infracional. Fundamento: \"Art. 24, § 3º Não enseja responsabilidade solidária a mera existência de grupo econômico quando inexistente qualquer ação ou omissão que se enquadre no disposto no inciso V do caput deste artigo.\"",
+        "Incorreta. A alternativa erra em dois pontos: a responsabilidade dos consorciados é direta e proporcional, não subsidiária, e a lei não estabelece a condição de exaurimento do patrimônio do consórcio. Fundamento: \"Art. 26, § 3º Caso o consórcio [...] não exerça a opção pelo regime regular [...], os consorciados ficarão obrigados ao pagamento do IBS e da CBS quanto às operações realizadas pelo consórcio, proporcionalmente às suas participações.\"",
+        "Incorreta. A condição de não contribuinte para essas entidades não é absoluta, cessando caso os requisitos do CTN sejam descumpridos. Fundamento: \"Art. 26, § 9º As entidades e as unidades de natureza econômico-contábil referidas nos incisos VIII e IX do caput deste artigo serão contribuintes do IBS e da CBS caso descumpram os requisitos previstos no art. 14 do Código Tributário Nacional.\"",
+        "Correta. A alternativa descreve com exatidão a regra especial de apuração da receita bruta para essa categoria, visando o enquadramento como não contribuinte na categoria de nanoempreendedor. Fundamento: \"Art. 26, § 10. Para fins de enquadramento como nanoempreendedor, nos termos do inciso IV do caput deste artigo, será considerada como receita bruta da pessoa física prestadora de serviço de transporte privado individual de passageiros ou de entrega de bens intermediado por plataformas digitais 25% (vinte e cinco por cento) do valor bruto mensal recebido.\"",
+        "Incorreta. A lei estende a responsabilidade dos rerrefinadores para além do pagamento do tributo, incluindo a obrigação acessória de emitir o documento fiscal da operação. Fundamento: \"Art. 24, § 5º Na hipótese do § 4º, a emissão do documento fiscal eletrônico relativo à operação será efetuada pelos rerrefinadores ou coletores, na forma estabelecida em regulamento...\""
+    ]
 }
 ]
