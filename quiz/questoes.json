@@ -3255,5 +3255,347 @@
         "Correta. A alternativa descreve com exatidão a regra especial de apuração da receita bruta para essa categoria, visando o enquadramento como não contribuinte na categoria de nanoempreendedor. Fundamento: \"Art. 26, § 10. Para fins de enquadramento como nanoempreendedor, nos termos do inciso IV do caput deste artigo, será considerada como receita bruta da pessoa física prestadora de serviço de transporte privado individual de passageiros ou de entrega de bens intermediado por plataformas digitais 25% (vinte e cinco por cento) do valor bruto mensal recebido.\"",
         "Incorreta. A lei estende a responsabilidade dos rerrefinadores para além do pagamento do tributo, incluindo a obrigação acessória de emitir o documento fiscal da operação. Fundamento: \"Art. 24, § 5º Na hipótese do § 4º, a emissão do documento fiscal eletrônico relativo à operação será efetuada pelos rerrefinadores ou coletores, na forma estabelecida em regulamento...\""
     ]
+},
+  {
+    "id": "LC214-152",
+    "question": "Com base na Lei Complementar nº 214/2025, que estabelece regras de incidência, não incidência e presunções legais para o IBS e a CBS, considere as seguintes afirmativas:\n\nI. Uma entidade é considerada controlada por outra, para fins de caracterização como partes relacionadas, se a controladora detiver, por acordo de votos, direitos que lhe assegurem preponderância nas deliberações sociais ou o poder de eleger a maioria dos administradores.\nII. Uma série de operações com títulos e valores mobiliários, individualmente não tributadas pelo IBS e pela CBS, não pode ser objeto de tributação, ainda que o conjunto desses atos constitua, na essência, uma operação onerosa com serviço.\nIII. O regulamento do IBS e da CBS poderá, no âmbito de programas de conformidade fiscal, flexibilizar a exigência de verificação do valor de mercado nas operações realizadas entre partes relacionadas.\nIV. Duas entidades são consideradas partes relacionadas se o cônjuge do diretor de uma delas detiver 15% do capital social da outra.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Difícil",
+    "format": "Assertiva",
+    "subtopic": "Princípios, Conceitos e Incidência",
+    "options": [
+        "I e II.",
+        "II e IV.",
+        "I e III.",
+        "II, III e IV.",
+        "I, III e IV."
+    ],
+    "answer": 2,
+    "justifications": [
+        "I. Correta. A afirmativa descreve uma das hipóteses que caracterizam a relação de controle, conforme previsto no Art. 5º, § 5º, I, para fins de definição de partes relacionadas. LC 214/2025: \"Art. 5º ... § 5º Para fins da definição de partes relacionadas, o termo entidade compreende as pessoas físicas e jurídicas e as entidades sem personalidade jurídica. ... I - detiver, de forma direta ou indireta, isoladamente ou em conjunto com outras entidades, inclusive em função da existência de acordos de votos, direitos que lhe assegurem preponderância nas deliberações sociais ou o poder de eleger ou destituir a maioria dos administradores de outra entidade;\"",
+        "II. Incorreta. A afirmativa contraria a norma geral antiabuso do Art. 6º, § 1º, que permite a tributação sobre o conjunto de atos ou negócios jurídicos que, na essência, mascarem uma operação tributável. LC 214/2025: \"Art. 6º ... § 1º O IBS e a CBS incidem sobre o conjunto de atos ou negócios jurídicos envolvendo as hipóteses previstas nos incisos III a VII do caput deste artigo que constituam, na essência, operação onerosa com bem ou com serviço.\"",
+        "III. Correta. A assertiva corresponde à literalidade do Art. 5º, § 7º, que prevê a possibilidade de flexibilização da apuração do valor de mercado para partes relacionadas em programas de conformidade. LC 214/2025: \"Art. 5º ... § 7º O regulamento poderá flexibilizar a exigência de verificação do valor de mercado de que trata o inciso IV do caput deste artigo nas operações entre partes relacionadas, desde que essas operações não estejam sujeitas a vedação à apropriação de créditos, no âmbito de programas de conformidade fiscal.\"",
+        "IV. Incorreta. A regra do Art. 5º, § 3º, VI, que trata da relação por parentesco, estabelece um percentual mínimo de participação de 20%, e não 15%. LC 214/2025: \"Art. 5º ... § 3º São consideradas partes relacionadas, sem prejuízo de outras hipóteses que se enquadrem no disposto no § 2º deste artigo: ... VI - as entidades em que os mesmos sócios ou acionistas, ou os seus cônjuges, companheiros, parentes, consanguíneos ou afins, até o terceiro grau, detiverem no mínimo 20% (vinte por cento) do capital social de cada uma;\""
+    ]
+},
+{
+    "id": "LC214-153",
+    "question": "À luz da Lei Complementar nº 214/2025, que dispõe sobre as imunidades do IBS e da CBS, considere as seguintes situações:\n\nI. Uma gravadora lança um álbum de samba, em formato de arquivo digital, contendo obras de compositores brasileiros interpretadas por artistas nacionais. A operação de venda desses arquivos é imune.\nII. Um partido político, para equipar sua nova sede, adquire um lote de computadores de um fornecedor nacional. A operação de compra realizada pelo partido é imune.\nIII. Um cidadão firma um contrato de promessa de compra e venda de um lote de propriedade de um Município. Em razão da imunidade do vendedor, o promitente comprador fica exonerado de pagar os tributos relativos à aquisição.\nIV. O serviço de comunicação na modalidade de radiodifusão sonora de recepção livre e gratuita é imune ao IBS e à CBS.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Princípios, Conceitos e Incidência",
+    "options": [
+        "I e IV.",
+        "II e III.",
+        "III e IV.",
+        "I e II.",
+        "I, II e IV."
+    ],
+    "answer": 0,
+    "justifications": [
+        "I. Correta. A situação se enquadra na imunidade prevista no Art. 9º, V, que abrange fonogramas e videofonogramas musicais produzidos no Brasil, com obras de autores brasileiros e/ou interpretadas por artistas brasileiros, incluindo os arquivos digitais que os contenham. LC 214/2025: \"Art. 9º São imunes também ao IBS e à CBS os fornecimentos: ... V - de fonogramas e videofonogramas musicais produzidos no Brasil contendo obras musicais ou literomusicais de autores brasileiros e/ou obras em geral interpretadas por artistas brasileiros, bem como os suportes materiais ou arquivos digitais que os contenham...\"",
+        "II. Incorreta. A imunidade das entidades do Art. 9º, III (partidos políticos) se refere aos fornecimentos realizados por elas, e não às suas aquisições. O Art. 9º, § 4º, é expresso ao afirmar que a imunidade não se aplica às aquisições de bens e serviços. LC 214/2025: \"Art. 9º ... § 4º As imunidades das entidades previstas nos incisos I a III do caput deste artigo não se aplicam às suas aquisições de bens materiais e imateriais, inclusive direitos, e serviços.\"",
+        "III. Incorreta. A imunidade do ente público vendedor não se estende ao comprador. O Art. 9º, § 1º, III, estabelece que a imunidade não exonera o promitente comprador da obrigação de pagar o tributo relativo ao bem imóvel. LC 214/2025: \"Art. 9º ... § 1º ... III - não exonera o promitente comprador da obrigação de pagar tributo relativamente a bem imóvel.\"",
+        "IV. Correta. O serviço de comunicação na modalidade de radiodifusão sonora de recepção livre e gratuita é expressamente imune, conforme o Art. 9º, VI. LC 214/2025: \"Art. 9º São imunes também ao IBS e à CBS os fornecimentos: ... VI - de serviço de comunicação nas modalidades de radiodifusão sonora e de sons e imagens de recepção livre e gratuita;\""
+    ]
+},
+{
+    "id": "LC214-154",
+    "question": "A empresa \"Vertical S.A.\" fabrica um produto realizando internamente todas as etapas, desde a extração da matéria-prima até a embalagem final. Já a empresa \"Modular Ltda.\" fabrica um produto concorrente, mas opta por terceirizar cada uma das etapas produtivas com diferentes fornecedores. O sistema do IBS e da CBS foi desenhado de forma que a carga tributária total sobre o produto final seja a mesma para ambas as empresas, independentemente de seus modelos de organização.\nEssa diretriz, que visa evitar que a tributação distorça as decisões de organização da atividade econômica, e o principal mecanismo legal que a viabiliza, são, respectivamente, o princípio da",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Princípios, Conceitos e Incidência",
+    "options": [
+        "isonomia, viabilizado pela tributação no destino.",
+        "não cumulatividade, viabilizado pela técnica da neutralidade.",
+        "capacidade contributiva, viabilizado pelo sistema de créditos.",
+        "neutralidade, viabilizado pela técnica da não cumulatividade.",
+        "transparência, viabilizado pela alíquota uniforme."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. Embora relacionados, a isonomia é um princípio mais amplo e a tributação no destino resolve a guerra fiscal, mas não diretamente a distorção na cadeia produtiva descrita.",
+        "Incorreta. A alternativa inverte os conceitos. A não cumulatividade é a técnica (mecanismo), enquanto a neutralidade é o princípio (objetivo).",
+        "Incorreta. O princípio da capacidade contributiva refere-se à tributação conforme a riqueza do contribuinte, não se relacionando diretamente com a organização da cadeia produtiva.",
+        "Correta. A alternativa identifica com precisão o princípio da neutralidade como o objetivo de não distorcer as decisões econômicas, conforme o Art. 2º. A técnica da não cumulatividade, materializada pelo regime de apropriação de créditos (regulado a partir do Art. 47), é o mecanismo que permite que o imposto pago em cada etapa terceirizada pela \"Modular Ltda.\" gere crédito, assegurando que a carga final seja a mesma da \"Vertical S.A.\", realizando assim a neutralidade. LC 214/2025: \"Art. 2º O IBS e a CBS são informados pelo princípio da neutralidade, segundo o qual esses tributos devem evitar distorcer as decisões de consumo e de organização da atividade econômica, observadas as exceções previstas na Constituição Federal e nesta Lei Complementar.\"",
+        "Incorreta. O princípio da transparência se refere à clareza da carga tributária para o consumidor, não sendo o foco do cenário apresentado."
+    ]
+},
+{
+    "id": "LC214-155",
+    "question": "Considerando o momento de ocorrência do fato gerador do IBS e da CBS, conforme a Lei Complementar nº 214/2025, é correto que",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Princípios, Conceitos e Incidência",
+    "options": [
+        "Na prestação de um serviço de transporte de carga quando iniciado no exterior, o fato gerador considera-se ocorrido no momento do início do transporte em território estrangeiro.",
+        "Nas operações de execução continuada, como as relativas a fornecimento de energia elétrica e serviços de telecomunicação, o fato gerador considera-se ocorrido no momento em que se torna devido o pagamento.",
+        "Caso ocorra um distrato de um serviço cujo pagamento foi antecipado e o valor seja devolvido, o fato gerador considera-se ocorrido na data do distrato, devendo o fornecedor estornar o débito.",
+        "O fato gerador sempre ocorre no momento do pagamento para todas as aquisições de bens e serviços realizadas por pessoas jurídicas, por ser a regra aplicável à administração pública.",
+        "Na hipótese de pagamento antecipado de um serviço, o fato gerador ocorre integralmente na data do primeiro pagamento, não havendo apuração posterior na data da efetiva prestação."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. A alternativa descreve a regra incorreta. Para o serviço de transporte de carga iniciado no exterior, o fato gerador ocorre no término do transporte, e não no início. LC 214/2025: \"Art. 10. ... § 1º Para fins do disposto no caput deste artigo, considera-se ocorrido o fornecimento no momento: ... II - do término do transporte, na prestação de serviço de transporte de carga quando iniciado no exterior;\"",
+        "Correta. A alternativa transcreve a regra específica para serviços de execução continuada ou fracionada, conforme o Art. 10, § 3º. LC 214/2025: \"Art. 10. ... § 3º Nas operações de execução continuada ou fracionada em que não seja possível identificar o momento de entrega ou disponibilização do bem ou do término do fornecimento do serviço, como as relativas a abastecimento de água, saneamento básico, gás canalizado, serviços de telecomunicação, serviços de internet e energia elétrica, considera-se ocorrido o fato gerador no momento em que se torna devido o pagamento.\"",
+        "Incorreta. Em caso de distrato com devolução de pagamento antecipado, a lei não prevê a ocorrência de um fato gerador, mas sim o direito de o fornecedor apropriar créditos com base nos valores devolvidos. LC 214/2025: \"Art. 10. ... § 5º Na hipótese do § 4º deste artigo, caso não ocorra o fornecimento a que se refere o pagamento, inclusive em decorrência de distrato, o fornecedor poderá apropriar créditos com base no valor das parcelas das antecipações devolvidas.\"",
+        "Incorreta. A regra do fato gerador ocorrendo no momento do pagamento é específica para aquisições pela administração pública direta, por autarquias e por fundações públicas, não se aplicando a todas as pessoas jurídicas. LC 214/2025: \"Art. 10. ... § 2º Nas aquisições de bens e serviços pela administração pública direta, por autarquias e por fundações públicas, que estejam sujeitas ao disposto no art. 473 desta Lei Complementar, considera-se ocorrido o fato gerador no momento em que se realiza o pagamento.\"",
+        "Incorreta. Em caso de pagamento antecipado, a lei determina a exigência de antecipações dos tributos em cada parcela paga, com um cálculo definitivo dos tributos sobre o valor total da operação na data do fornecimento. LC 214/2025: \"Art. 10. ... § 4º Para fins do disposto no caput deste artigo, caso ocorra pagamento, integral ou parcial, antes do fornecimento: I - na data de pagamento de cada parcela: a) serão exigidas antecipações dos tributos...\""
+    ]
+},
+{
+    "id": "LC214-156",
+    "question": "A \"Varejo Nacional S.A.\", contribuinte do IBS e da CBS com matriz em São Paulo-SP e filiais em diversos estados, realiza as seguintes operações: (1) efetua uma aquisição centralizada de serviços de telefonia fixa para todos os seus estabelecimentos; (2) vende um produto de forma não presencial para uma pessoa física, sendo que o serviço de transporte é de responsabilidade do adquirente, que informa ao transportador o destino final em Salvador-BA; e (3) constata-se que o adquirente da operação (2) informou deliberadamente um endereço incorreto para o transportador, o que resultou em pagamento a menor de IBS.\nCom base nesse cenário e na Lei Complementar nº 214/2025:\n\nI. Para os serviços de telefonia fixa adquiridos de forma centralizada, o local da operação é considerado o do estabelecimento matriz da \"Varejo Nacional S.A.\" em São Paulo-SP.\nII. Para a venda não presencial do produto, o local da operação é considerado Salvador-BA, destino final indicado pelo adquirente ao terceiro responsável pelo transporte.\nIII. Em decorrência da informação incorreta prestada pelo adquirente, a diferença do IBS será exigida dele, com os acréscimos legais.\n\nEstá correto o que se afirma em",
+    "difficulty": "Média",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Princípios, Conceitos e Incidência",
+    "options": [
+        "I, II e III.",
+        "I e II, apenas.",
+        "II e III, apenas.",
+        "I e III, apenas.",
+        "III, apenas."
+    ],
+    "answer": 0,
+    "justifications": [
+        "I. Correta. A assertiva aplica a regra do Art. 11, § 4º, que estabelece que, em aquisições centralizadas por contribuinte com mais de um estabelecimento, o serviço de telefonia fixa é considerado prestado no domicílio principal do adquirente, que é o local do estabelecimento matriz. LC 214/2025: \"Art. 11. ... § 4º Nas aquisições realizadas de forma centralizada por contribuinte sujeito ao regime regular do IBS e da CBS que possui mais de um estabelecimento... I - os serviços de que trata o inciso IX do caput deste artigo serão considerados prestados no domicílio principal do adquirente; e II - ... considera-se como domicílio principal do adquirente o local do seu estabelecimento matriz.\"",
+        "II. Correta. A assertiva descreve a regra específica para operações não presenciais em que o transporte é de responsabilidade do adquirente, conforme o Art. 11, § 1º, I, 'b'. LC 214/2025: \"Art. 11. ... § 1º Para fins do disposto no inciso I do caput deste artigo: I - em operação realizada de forma não presencial... considera-se local da entrega ou disponibilização do bem ao destinatário o destino final indicado pelo adquirente: ... b) ao terceiro responsável pelo transporte, caso o serviço de transporte seja de responsabilidade do adquirente;\"",
+        "III. Correta. A assertiva corresponde à consequência prevista no Art. 11, § 6º, para o caso de o adquirente prestar informações incorretas que resultem em pagamento a menor dos tributos. LC 214/2025: \"Art. 11. ... § 6º Caso a autoridade tributária constate que as informações prestadas pelo adquirente nos termos do § 3º deste artigo estejam incorretas e resultem em pagamento a menor do IBS e da CBS, a diferença será exigida do adquirente, com acréscimos legais.\""
+    ]
+},
+{
+    "id": "LC214-157",
+    "question": "Conforme a Lei Complementar nº 214/2025, que institui o IBS e a CBS e estabelece suas normas gerais,  é incorreto que",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Princípios, Conceitos e Incidência",
+    "options": [
+        "A incidência do IBS e da CBS sobre as operações de transmissão de bens não altera a base de cálculo do Imposto sobre a Transmissão Causa Mortis e Doação (ITCD).",
+        "O regulamento poderá flexibilizar a exigência de verificação do valor de mercado nas operações entre partes relacionadas, no âmbito de programas de conformidade fiscal.",
+        "Para fins de imunidade, considera-se organização assistencial e beneficente a pessoa jurídica de direito privado sem fins lucrativos, vinculada e mantida por entidade religiosa, que fornece bens e serviços na área de assistência social.",
+        "O IBS e a CBS não incidem sobre a transferência de bens entre estabelecimentos pertencentes ao mesmo contribuinte, observada a obrigatoriedade de emissão de documento fiscal eletrônico.",
+        "Caso um bem imóvel esteja situado em mais de um Município, considera-se local da operação, para fins de IBS, o Município onde está situada a sede da matrícula principal do imóvel no cartório de registro."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Correta. A afirmativa está de acordo com o Art. 4º, § 5º, I, da lei. LC 214/2025: \"Art. 4º ... § 5º A incidência do IBS e da CBS sobre as operações de que trata o caput deste artigo não altera a base de cálculo do: I - Imposto sobre a Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos (ITCD)...\"",
+        "Correta. A afirmativa reflete a possibilidade prevista no Art. 5º, § 7º, da lei. LC 214/2025: \"Art. 5º ... § 7º O regulamento poderá flexibilizar a exigência de verificação do valor de mercado de que trata o inciso IV do caput deste artigo nas operações entre partes relacionadas... no âmbito de programas de conformidade fiscal.\"",
+        "Correta. A afirmativa corresponde à definição contida no Art. 9º, § 2º, II, da lei. LC 214/2025: \"Art. 9º ... § 2º Para efeitos do disposto no inciso II do caput deste artigo, considera-se: ... II - organização assistencial e beneficente a pessoa jurídica de direito privado sem fins lucrativos vinculada e mantida por entidade religiosa e templo de qualquer culto, que fornece bens e serviços na área de assistência social...\"",
+        "Correta. A afirmativa descreve a hipótese de não incidência do Art. 6º, II, da lei. LC 214/2025: \"Art. 6º O IBS e a CBS não incidem sobre: ... II - transferência de bens entre estabelecimentos pertencentes ao mesmo contribuinte, observada a obrigatoriedade de emissão de documento fiscal eletrônico...\"",
+        "Incorreta. A alternativa apresenta uma regra incorreta. A lei estabelece um critério geográfico (maior parte da área), e não um critério registral (matrícula). LC 214/2025: \"Art. 11. ... § 2º Para fins do disposto no inciso II do caput deste artigo, caso o bem imóvel esteja situado em mais de um Município, considera-se local do imóvel o Município onde está situada a maior parte da sua área.\""
+    ]
+},
+{
+    "id": "LC214-158",
+    "question": "De acordo com as definições da Lei Complementar nº 214/2025, o conceito de \"fornecimento\" compreende",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Princípios, Conceitos e Incidência",
+    "options": [
+        "todas e quaisquer operações que envolvam bens móveis ou imóveis, materiais ou imateriais, inclusive direitos.",
+        "aquele obrigado ao pagamento ou a qualquer outra forma de contraprestação pelo bem ou serviço.",
+        "a entrega ou disponibilização de bem material, a instituição, transferência ou disponibilização de bem imaterial, e a prestação ou disponibilização de serviço.",
+        "qualquer operação com contraprestação, incluindo compra e venda, troca, permuta e dação em pagamento.",
+        "exclusivamente a entrega de bem material, por ser a forma mais comum de operação com mercadorias."
+    ],
+    "answer": 2,
+    "justifications": [
+        "Incorreta. A alternativa descreve o conceito de \"operações com bens\", conforme o Art. 3º, I, 'a', da lei. LC 214/2025: \"Art. 3º Para fins desta Lei Complementar, consideram-se: I - operações com: a) bens todas e quaisquer que envolvam bens móveis ou imóveis, materiais ou imateriais, inclusive direitos;\"",
+        "Incorreta. A alternativa define a figura do \"adquirente\", de acordo com o Art. 3º, IV, 'a', da lei. LC 214/2025: \"Art. 3º Para fins desta Lei Complementar, consideram-se: ... IV - adquirente: a) aquele obrigado ao pagamento ou a qualquer outra forma de contraprestação pelo fornecimento de bem ou serviço;\"",
+        "Correta. A alternativa sintetiza com precisão as três modalidades que compõem o conceito de \"fornecimento\", conforme disposto no Art. 3º, II, alíneas 'a', 'b' e 'c'. LC 214/2025: \"Art. 3º Para fins desta Lei Complementar, consideram-se: ... II - fornecimento: a) entrega ou disponibilização de bem material; b) instituição, transferência, cessão, concessão, licenciamento ou disponibilização de bem imaterial, inclusive direito; c) prestação ou disponibilização de serviço;\"",
+        "Incorreta. A alternativa apresenta exemplos de \"operação onerosa\", conceito tratado no Art. 4º, § 2º, e não a definição de \"fornecimento\". LC 214/2025: \"Art. 4º ... § 2º Para fins do disposto neste artigo, considera-se operação onerosa com bens ou com serviços qualquer fornecimento com contraprestação, incluindo o decorrente de: I - compra e venda, troca ou permuta, dação em pagamento e demais espécies de alienação;\"",
+        "Incorreta. A definição de fornecimento não é exclusiva, abrangendo também bens imateriais e serviços, conforme o Art. 3º, II, alíneas 'b' e 'c'. LC 214/2025: \"Art. 3º Para fins desta Lei Complementar, consideram-se: ... II - fornecimento: a) entrega ou disponibilização de bem material; b) instituição, transferência, cessão, concessão, licenciamento ou disponibilização de bem imaterial, inclusive direito; c) prestação ou disponibilização de serviço;\""
+    ]
+},
+{
+    "id": "LC214-159",
+    "question": "De acordo com a Lei Complementar nº 214/2025, o conceito de \"operações com bens\"",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Princípios, Conceitos e Incidência",
+    "options": [
+        "abrange todas e quaisquer operações que envolvam bens móveis ou imóveis, materiais ou imateriais, inclusive direitos.",
+        "é definido por exclusão, como todas as demais operações que não sejam enquadradas como fornecimento de serviços.",
+        "limita-se às operações com bens móveis materiais, por serem estes os únicos passíveis de entrega física e efetiva tradição.",
+        "equivale ao conceito de fornecimento, abrangendo a entrega de bem material e a prestação de serviço.",
+        "inclui as operações com bens móveis e imateriais, mas exclui as operações com bens imóveis, por possuírem regime tributário específico."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. A alternativa é uma transcrição literal e exata da definição legal de \"operações com bens\", conforme o Art. 3º, I, 'a', da LC 214/2025. LC 214/2025: \"Art. 3º Para fins desta Lei Complementar, consideram-se: I - operações com: a) bens todas e quaisquer que envolvam bens móveis ou imóveis, materiais ou imateriais, inclusive direitos;\"",
+        "Incorreta. A alternativa inverte a lógica da lei. O conceito definido por exclusão é o de \"operações com serviços\", que abrange tudo o que não for \"operação com bens\". LC 214/2025: \"Art. 3º ... I - operações com: ... b) serviços todas as demais que não sejam enquadradas como operações com bens nos termos da alínea “a” deste inciso;\"",
+        "Incorreta. Esta é uma definição restritiva e incorreta. O texto legal é explícito ao incluir bens imóveis, imateriais e direitos, não se limitando a bens móveis materiais. LC 214/2025: \"Art. 3º ... I - operações com: a) bens todas e quaisquer que envolvam bens móveis ou imóveis, materiais ou imateriais, inclusive direitos;\"",
+        "Incorreta. A alternativa confunde conceitos distintos. \"Operações com bens\" é uma categoria de operação, enquanto \"fornecimento\" é o ato de realizar a operação, que pode ser de um bem ou de um serviço. LC 214/2025: \"Art. 3º ... II - fornecimento: a) entrega ou disponibilização de bem material; ... c) prestação ou disponibilização de serviço;\"",
+        "Incorreta. Este é um distrator elaborado. Embora seja verdade que as operações com bens imóveis possuem um regime específico (Capítulo V do Título V), isso não as exclui da definição fundamental de \"operações com bens\" estabelecida no Art. 3º. A lei é clara ao incluí-los. LC 214/2025: \"Art. 3º ... I - operações com: a) bens todas e quaisquer que envolvam bens móveis ou imóveis, materiais ou imateriais, inclusive direitos;\""
+    ]
+},
+{
+    "id": "LC214-160",
+    "question": "De acordo com a Lei Complementar nº 214/2025, para as operações com serviços e bens móveis imateriais que não se enquadram nas regras específicas de localização, como as relativas a bens imóveis ou transporte, o local da operação, em se tratando de uma operação onerosa, é considerado",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Princípios, Conceitos e Incidência",
+    "options": [
+        "o do domicílio principal do adquirente.",
+        "o do domicílio principal do fornecedor do serviço.",
+        "o local onde o serviço é efetivamente executado, ainda que remotamente.",
+        "o local da instituição financeira por onde o pagamento é processado.",
+        "a capital do Estado onde o estabelecimento principal do fornecedor está registrado."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. A alternativa descreve com exatidão a regra geral de fechamento do sistema, prevista no Art. 11, X, 'a', para operações onerosas com os \"demais serviços\" e bens imateriais. LC 214/2025: \"Art. 11. Considera-se local da operação com: ... X - demais serviços e demais bens móveis imateriais, inclusive direitos, o local do domicílio principal do: a) adquirente, nas operações onerosas;\"",
+        "Incorreta. A lei estabelece a tributação no destino, portanto o critério é o domicílio de quem adquire (consome), e não de quem fornece.",
+        "Incorreta. Este critério não é o geral. O local da execução do serviço só é relevante em casos específicos, como serviços prestados fisicamente sobre bens ou pessoas.",
+        "Incorreta. O local do processamento do pagamento não é um critério definido em lei para determinar o local da operação para fins de incidência do IBS.",
+        "Incorreta. Este é um critério arbitrário e não possui qualquer fundamento na legislação do IBS e da CBS."
+    ]
+},
+{
+    "id": "LC214-161",
+    "question": "De acordo com a Lei Complementar nº 214/2025, que estabelece as hipóteses de incidência do IBS e da CBS, a alternativa que apresenta uma operação que NÃO é considerada \"onerosa com bens ou com serviços\" é:",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Princípios, Conceitos e Incidência",
+    "options": [
+        "a locação.",
+        "a prestação de serviços.",
+        "a compra e venda.",
+        "o arrendamento mercantil.",
+        "a transferência de bens entre estabelecimentos pertencentes ao mesmo contribuinte."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. A locação é expressamente listada como uma operação onerosa, sendo, portanto, hipótese de incidência dos tributos. LC 214/2025: \"Art. 4º ... § 2º Para fins do disposto neste artigo, considera-se operação onerosa com bens ou com serviços qualquer fornecimento com contraprestação, incluindo o decorrente de: ... II - locação;\"",
+        "Incorreta. A prestação de serviços com contraprestação é o exemplo clássico de operação onerosa tributável. LC 214/2025: \"Art. 4º ... § 2º Para fins do disposto neste artigo, considera-se operação onerosa com bens ou com serviços qualquer fornecimento com contraprestação, incluindo o decorrente de: ... VIII - prestação de serviços.\"",
+        "Incorreta. A compra e venda é citada como exemplo primordial de operação onerosa e, consequentemente, de incidência do IBS e da CBS. LC 214/2025: \"Art. 4º ... § 2º Para fins do disposto neste artigo, considera-se operação onerosa com bens ou com serviços qualquer fornecimento com contraprestação, incluindo o decorrente de: I - compra e venda...\"",
+        "Incorreta. O arrendamento mercantil é uma das espécies de operação onerosa expressamente previstas na lei como fato gerador dos tributos. LC 214/2025: \"Art. 4º ... § 2º Para fins do disposto neste artigo, considera-se operação onerosa com bens ou com serviços qualquer fornecimento com contraprestação, incluindo o decorrente de: ... VII - arrendamento, inclusive mercantil;\"",
+        "Correta. A alternativa descreve uma operação que, por não ser considerada onerosa para fins de tributação entre as partes (não há contraprestação de um terceiro), é expressamente classificada como uma hipótese de não incidência do IBS e da CBS. LC 214/2025: \"Art. 6º O IBS e a CBS não incidem sobre: ... II - transferência de bens entre estabelecimentos pertencentes ao mesmo contribuinte, observada a obrigatoriedade de emissão de documento fiscal eletrônico;\""
+    ]
+},
+{
+    "id": "LC214-162",
+    "question": "A empresa \"Consultoria Estratégica S.A.\" possui em seu quadro: (i) Ana, analista sênior contratada pelo regime da CLT, que recebe seu salário mensal; (ii) João, que atua como membro do conselho de administração e recebe uma remuneração por essa função; e (iii) a empresa \"Serviços Gerais PJ Ltda.\", contratada para realizar a manutenção dos sistemas de TI.\nConsiderando as hipóteses de incidência e não incidência do IBS e da CBS, conforme a Lei Complementar nº 214/2025:\n\nI. O salário pago a Ana, por decorrer de sua relação de emprego com a consultoria, não constitui fato gerador do IBS e da CBS.\nII. A remuneração paga a João por sua atuação como membro do conselho de administração é considerada uma operação tributável pelo IBS e pela CBS.\nIII. O serviço prestado pela \"Serviços Gerais PJ Ltda.\" é uma hipótese de não incidência, pois o serviço de TI é essencial à atividade-fim da consultoria.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Fácil",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Princípios, Conceitos e Incidência",
+    "options": [
+        "I.",
+        "II.",
+        "I e II.",
+        "III.",
+        "II e III."
+    ],
+    "answer": 0,
+    "justifications": [
+        "I. Correta. A assertiva descreve exatamente a hipótese de não incidência prevista no Art. 6º, I, 'a', da lei, que exclui da tributação os serviços prestados por pessoas físicas em decorrência de relação de emprego. LC 214/2025: \"Art. 6º O IBS e a CBS não incidem sobre: I - fornecimento de serviços por pessoas físicas em decorrência de: a) relação de emprego com o contribuinte;\"",
+        "II. Incorreta. A afirmativa está errada. A remuneração de membros de conselhos de administração, assim como a de empregados, é uma hipótese expressa de não incidência tributária. LC 214/2025: \"Art. 6º O IBS e a CBS não incidem sobre: I - fornecimento de serviços por pessoas físicas em decorrência de: ... b) sua atuação como administradores ou membros de conselhos de administração e fiscal e comitês de assessoramento do conselho de administração do contribuinte previstos em lei;\"",
+        "III. Incorreta. A afirmativa está errada. A prestação de serviço por uma pessoa jurídica (\"PJ Ltda.\") a outra é a hipótese padrão de incidência do IBS e da CBS, conforme o Art. 4º. A essencialidade do serviço para a atividade-fim não é um critério de não incidência previsto na lei. LC 214/2025: \"Art. 4º O IBS e a CBS incidem sobre operações onerosas com bens ou com serviços.\""
+    ]
+},{
+    "id": "LC214-163",
+    "question": "A empresa \"Global Services\", uma plataforma digital domiciliada no exterior e sem inscrição cadastral no Brasil, intermedeia a venda de um serviço de streaming para um consumidor final residente em um município brasileiro. O pagamento é processado por uma instituição financeira no Brasil, que efetua a segregação e o recolhimento do IBS e da CBS com base nas alíquotas de referência. Ocorre que a alíquota do IBS vigente no município do consumidor é superior à de referência.\nConsiderando essa situação hipotética, de acordo com a Lei Complementar nº 214/2025:\n\nI. A plataforma \"Global Services\" está dispensada de se inscrever no cadastro do IBS e da CBS, uma vez que a responsabilidade pelo recolhimento na fonte é da instituição que realiza a operação de câmbio.\nII. O consumidor final será responsável pelo pagamento da diferença do IBS, correspondente ao valor que excede o montante recolhido com base na alíquota de referência.\nIII. Caso a alíquota de IBS do município do consumidor fosse inferior à de referência, a diferença apurada seria devolvida ao consumidor.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Fácil",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Plataformas Digitais",
+    "options": [
+        "I e II.",
+        "I e III.",
+        "II.",
+        "III.",
+        "II e III."
+    ],
+    "answer": 4,
+    "justifications": [
+        "I. Incorreta. A assertiva está incorreta. O caput do Art. 23 exige a inscrição da plataforma digital, inclusive a domiciliada no exterior. O parágrafo único do mesmo artigo disciplina a hipótese em que, na ausência de inscrição, o IBS e a CBS são recolhidos pela instituição que realiza a operação de câmbio. LC 214/2025: \"Art. 23. A plataforma digital, inclusive a domiciliada no exterior, deverá se inscrever no cadastro do IBS e da CBS no regime regular para fins de cumprimento do disposto no art. 22.\"",
+        "II. Correta. A assertiva está em conformidade com o Art. 23, parágrafo único, II, \"a\", que determina que o adquirente deve pagar a diferença caso as alíquotas incidentes sejam maiores que as de referência. LC 214/2025: \"Art. 23. Parágrafo único. ... II - eventual diferença do IBS e da CBS devidos na operação ou importação deverá ser: a) paga pelo adquirente ou importador, caso as alíquotas incidentes sejam maiores que as alíquotas de referência;\"",
+        "III. Correta. A assertiva descreve o procedimento previsto no Art. 23, parágrafo único, II, \"b\", que estabelece a devolução ao adquirente caso as alíquotas incidentes sejam menores que as de referência. LC 214/2025: \"Art. 23. Parágrafo único. ... II - eventual diferença do IBS e da CBS devidos na operação ou importação deverá ser: ... b) devolvida ao adquirente ou importador, caso as alíquotas incidentes sejam menores que as alíquotas de referência.\""
+    ]
+},
+{
+    "id": "LC214-164",
+    "question": "A Lei Complementar nº 214/2025 estabelece um conjunto de regras sobre a sujeição passiva e a responsabilidade tributária das plataformas digitais que intermedeiam operações com bens e serviços, definindo também as competências dos órgãos da administração tributária nesse contexto.\nDe acordo com a referida lei, no que tange à relação entre as plataformas e as autoridades fiscais,",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Plataformas Digitais",
+    "options": [
+        "a plataforma digital é obrigada a investigar de ofício a situação cadastral de todos os fornecedores que operam em seu sistema, sob pena de responsabilidade integral.",
+        "a informação sobre a condição de contribuinte de um fornecedor é considerada sigilosa e não pode, em nenhuma hipótese, ser compartilhada pelas autoridades fiscais com a plataforma digital.",
+        "compete exclusivamente à administração tributária do município de domicílio do fornecedor informar à plataforma digital sobre a sua condição de contribuinte do IBS.",
+        "se um fornecedor não estiver inscrito no cadastro, a plataforma digital deve presumi-lo como não contribuinte, ficando vedada qualquer comunicação das autoridades fiscais a esse respeito.",
+        "compete ao Comitê Gestor do IBS e à Secretaria Especial da Receita Federal do Brasil informar à plataforma digital a condição de contribuinte do fornecedor residente ou domiciliado no País que não esteja inscrito no cadastro."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. A lei não atribui à plataforma o dever de investigação, mas sim à autoridade fiscal o dever de informação, conforme o Art. 22, § 4º. LC 214/2025: \"Art. 22. ... § 4º Para fins de aplicação do disposto no inciso II do caput deste artigo, compete ao Comitê Gestor do IBS e à Secretaria Especial da Receita Federal do Brasil (RFB) informar à plataforma digital a condição de contribuinte do fornecedor residente ou domiciliado no País que não esteja inscrito no cadastro.\"",
+        "Incorreta. A assertiva contradiz diretamente a previsão legal, que estabelece justamente o dever de a autoridade fiscal compartilhar essa informação com a plataforma. LC 214/2025: \"Art. 22. ... § 4º Para fins de aplicação do disposto no inciso II do caput deste artigo, compete ao Comitê Gestor do IBS e à Secretaria Especial da Receita Federal do Brasil (RFB) informar à plataforma digital a condição de contribuinte do fornecedor residente ou domiciliado no País que não esteja inscrito no cadastro.\"",
+        "Incorreta. A competência é atribuída de forma conjunta ao Comitê Gestor do IBS e à Secretaria Especial da Receita Federal do Brasil (RFB), e não a uma única esfera da administração tributária. LC 214/2025: \"Art. 22. ... § 4º Para fins de aplicação do disposto no inciso II do caput deste artigo, compete ao Comitê Gestor do IBS e à Secretaria Especial da Receita Federal do Brasil (RFB) informar à plataforma digital a condição de contribuinte do fornecedor residente ou domiciliado no País que não esteja inscrito no cadastro.\"",
+        "Incorreta. A lei cria um mecanismo para que a autoridade fiscal informe a plataforma, e não para que a plataforma presuma o status do fornecedor. LC 214/2025: \"Art. 22. ... § 4º Para fins de aplicação do disposto no inciso II do caput deste artigo, compete ao Comitê Gestor do IBS e à Secretaria Especial da Receita Federal do Brasil (RFB) informar à plataforma digital a condição de contribuinte do fornecedor residente ou domiciliado no País que não esteja inscrito no cadastro.\"",
+        "Correta. A alternativa é uma paráfrase precisa do Art. 22, § 4º, da LC 214/2025, que atribui expressamente essa competência ao Comitê Gestor do IBS e à RFB. LC 214/2025: \"Art. 22. ... § 4º Para fins de aplicação do disposto no inciso II do caput deste artigo, compete ao Comitê Gestor do IBS e à Secretaria Especial da Receita Federal do Brasil (RFB) informar à plataforma digital a condição de contribuinte do fornecedor residente ou domiciliado no País que não esteja inscrito no cadastro.\""
+    ]
+},
+{
+    "id": "LC214-165",
+    "question": "De acordo com a Lei Complementar nº 214/2025, na hipótese em que o processo de pagamento de uma operação ou importação seja iniciado por uma plataforma digital,",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Plataformas Digitais",
+    "options": [
+        "a plataforma fica dispensada de prestar informações, pois a responsabilidade pelo recolhimento é transferida para a instituição de pagamento.",
+        "esta deverá apresentar as informações necessárias para a segregação e o recolhimento dos valores do IBS e da CBS devidos pelo fornecedor na liquidação financeira da operação.",
+        "a obrigação de apresentar as informações para a liquidação financeira é facultativa, dependendo de acordo prévio com o fornecedor para ser ativada.",
+        "o recolhimento do IBS e da CBS deve ser feito integralmente pela plataforma em nome do fornecedor, que fica isento de qualquer obrigação na operação.",
+        "a apresentação das informações para a segregação dos tributos só é obrigatória se o fornecedor for domiciliado no exterior."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. A lei não dispensa a plataforma de prestar informações; pelo contrário, estabelece essa obrigação como condição para o funcionamento do sistema de recolhimento na fonte. LC 214/2025: \"Art. 22. ... § 6º Na hipótese em que o processo de pagamento da operação ou importação seja iniciado pela plataforma digital, esta deverá apresentar as informações necessárias para a segregação e o recolhimento dos valores do IBS e da CBS devidos pelo fornecedor na liquidação financeira da operação (split payment), quando disponível, inclusive no procedimento simplificado, nos termos dos arts. 31 a 35 desta Lei Complementar.\"",
+        "Correta. A alternativa descreve com exatidão a obrigação imposta à plataforma digital pelo Art. 22, § 6º, da LC 214/2025. LC 214/2025: \"Art. 22. ... § 6º Na hipótese em que o processo de pagamento da operação ou importação seja iniciado pela plataforma digital, esta deverá apresentar as informações necessárias para a segregação e o recolhimento dos valores do IBS e da CBS devidos pelo fornecedor na liquidação financeira da operação (split payment), quando disponível, inclusive no procedimento simplificado, nos termos dos arts. 31 a 35 desta Lei Complementar.\"",
+        "Incorreta. O texto legal utiliza o verbo \"deverá\", indicando uma obrigação, e não uma faculdade ou algo que dependa de acordo. LC 214/2025: \"Art. 22. ... § 6º Na hipótese em que o processo de pagamento da operação ou importação seja iniciado pela plataforma digital, esta deverá apresentar as informações necessárias para a segregação e o recolhimento dos valores do IBS e da CBS devidos pelo fornecedor na liquidação financeira da operação (split payment)...\"",
+        "Incorreta. O mecanismo padrão previsto é o split payment (segregação), e não o pagamento integral pela plataforma em nome do fornecedor. A opção por pagar em nome do fornecedor existe, mas é uma faculdade prevista no § 12 do Art. 22 e, mesmo nesse caso, não isenta totalmente o fornecedor. LC 214/2025: \"Art. 22. ... § 12. A plataforma digital poderá optar... II - por pagar o IBS e a CBS... mantida a obrigação do fornecedor em relação a eventuais diferenças.\"",
+        "Incorreta. A regra do Art. 22, § 6º, é geral e se aplica a operações com fornecedores nacionais e estrangeiros, não fazendo a distinção mencionada na alternativa. LC 214/2025: \"Art. 22. ... § 6º Na hipótese em que o processo de pagamento da operação ou importação seja iniciado pela plataforma digital, esta deverá apresentar as informações necessárias para a segregação e o recolhimento dos valores do IBS e da CBS devidos pelo fornecedor na liquidação financeira da operação (split payment)...\""
+    ]
+},
+{
+    "id": "LC214-166",
+    "question": "Uma plataforma digital, que inicia o processo de pagamento das vendas de seus parceiros, intermedia duas operações distintas:\n\nOperação 1: O vendedor \"Alfa\", contribuinte do IBS e da CBS, realiza uma venda. O mecanismo de split payment não é acionado, mas o vendedor emite o correspondente documento fiscal eletrônico pelo valor total da operação.\nOperação 2: A vendedora \"Beta\", também contribuinte, realiza uma venda em situação idêntica, porém não registra a operação em documento fiscal eletrônico.\n\nConsiderando as disposições da Lei Complementar nº 214/2025, a responsabilidade tributária da plataforma digital é",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Plataformas Digitais",
+    "options": [
+        "solidária com o fornecedor em ambas as operações, pois o split payment não foi realizado em nenhuma delas.",
+        "afastada em ambas as operações, uma vez que a responsabilidade primária pela emissão do documento fiscal é sempre do vendedor.",
+        "solidária com o fornecedor na Operação 1, em razão da falha no split payment, mas afastada na Operação 2.",
+        "afastada na Operação 1, mas solidária com o fornecedor na Operação 2.",
+        "exclusiva em ambas as operações, em substituição a ambos os fornecedores, por ter iniciado o processo de pagamento."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. A responsabilidade é afastada na Operação 1 pela exceção do Art. 22, § 9º, que se aplica mesmo com a falha no split payment, desde que o documento fiscal seja emitido. LC 214/2025: \"Art. 22. ... § 9º Aplica-se o disposto no § 8º, também, caso o processo de pagamento da operação seja iniciado pela plataforma digital e não seja realizado o split payment.\" e \"§ 8º ... a plataforma digital, esta não será responsável tributária caso cumpra o disposto no § 5º e o fornecedor emita documento fiscal eletrônico...\"",
+        "Incorreta. A responsabilidade da plataforma é configurada na Operação 2, justamente porque o fornecedor contribuinte não emitiu o documento fiscal, atraindo a regra da solidariedade do Art. 22, II. LC 214/2025: \"Art. 22. As plataformas digitais... são responsáveis pelo pagamento do IBS e da CBS... II - solidariamente com o fornecedor, caso este: ... c) não registre a operação em documento fiscal eletrônico.\"",
+        "Incorreta. A alternativa inverte as consequências legais. A responsabilidade é afastada na Operação 1 e configurada na Operação 2.",
+        "Correta. Na Operação 1, a responsabilidade da plataforma é afastada pela regra do Art. 22, § 9º (que remete ao § 8º), pois, apesar da falha no split payment, o fornecedor emitiu o documento fiscal. Na Operação 2, a plataforma responde solidariamente, pois o fornecedor, sendo contribuinte, não emitiu o documento fiscal, configurando a hipótese do Art. 22, II. LC 214/2025: \"Art. 22. ... § 9º Aplica-se o disposto no § 8º, também, caso o processo de pagamento da operação seja iniciado pela plataforma digital e não seja realizado o split payment.\" (Aplicável à Operação 1). \"Art. 22. As plataformas digitais... são responsáveis pelo pagamento do IBS e da CBS... II - solidariamente com o fornecedor, caso este: a) seja residente ou domiciliado no País; b) seja contribuinte... e c) não registre a operação em documento fiscal eletrônico.\" (Aplicável à Operação 2).",
+        "Incorreta. A responsabilidade exclusiva em substituição ao fornecedor é prevista no Art. 22, I, e se aplica apenas quando o fornecedor é residente ou domiciliado no exterior, o que não é o caso de \"Alfa\" e \"Beta\". LC 214/2025: \"Art. 22. As plataformas digitais... são responsáveis pelo pagamento do IBS e da CBS... I - solidariamente com o adquirente ou destinatário e em substituição ao fornecedor, caso este seja residente ou domiciliado no exterior;\""
+    ]
+},
+{
+    "id": "LC214-167",
+    "question": "Considere a seguinte situação hipotética envolvendo a \"Marketplace Global\", uma plataforma digital que controla o processo de pagamento e não possui inscrição cadastral no Brasil:\n\nOperação A: A plataforma intermedeia uma venda da \"Loja SP\", fornecedor domiciliado em São Paulo que, por seu faturamento, é contribuinte do IBS e da CBS, mas não está formalmente inscrito no cadastro. A \"Marketplace Global\" inicia o processo de pagamento, mas ocorre uma falha técnica que impede a efetivação do split payment. Contudo, a \"Loja SP\" emite o documento fiscal eletrônico corretamente. As autoridades fiscais ainda não informaram à plataforma sobre a condição de contribuinte da \"Loja SP\".\nOperação B: A plataforma intermedeia a venda de uma licença de software da \"Soft IRE\", fornecedora domiciliada na Irlanda, para um consumidor em um município brasileiro cuja alíquota de IBS é superior à alíquota de referência. A instituição financeira no Brasil realiza o recolhimento do IBS/CBS com base nas alíquotas de referência.\n\nCom base nesse cenário e nas disposições da Lei Complementar nº 214/2025,\n\nI. em relação à Operação A, a responsabilidade tributária da \"Marketplace Global\" é afastada, pois, apesar da falha no split payment, o fornecedor emitiu o correspondente documento fiscal eletrônico.\nII. a \"Marketplace Global\" responde solidariamente pela Operação A, pois a \"Loja SP\" é contribuinte dos tributos e não emitiu o documento fiscal, sendo irrelevante a comunicação prévia das autoridades fiscais sobre essa condição.\nIII. na Operação B, a obrigação pelo recolhimento da diferença do IBS, decorrente da alíquota do município do consumidor ser superior à de referência, recai sobre o adquirente brasileiro do software.\nIV. por se tratar de fornecedor estrangeiro na Operação B, a \"Marketplace Global\" tem responsabilidade em substituição ao fornecedor, devendo arcar, inclusive, com a diferença de alíquota do IBS não recolhida pela instituição financeira.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Difícil",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Plataformas Digitais",
+    "options": [
+        "I e II.",
+        "I e III.",
+        "II e IV.",
+        "III e IV.",
+        "I, II e III."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Assertiva I (Correta): A assertiva descreve precisamente a regra de exceção do Art. 22, § 9º. Mesmo que a plataforma inicie o pagamento e o split payment falhe, a sua responsabilidade é afastada se o fornecedor cumprir sua parte e emitir o documento fiscal. O § 9º remete à condição do § 8º, que é a emissão do documento fiscal pelo fornecedor. LC 214/2025: \"Art. 22. ... § 9º Aplica-se o disposto no § 8º, também, caso o processo de pagamento da operação seja iniciado pela plataforma digital e não seja realizado o split payment.\" LC 214/2025: \"Art. 22. ... § 8º Na hipótese em que o fornecedor seja residente ou domiciliado no País e o processo de pagamento da operação não seja iniciado pela plataforma digital, esta não será responsável tributária caso cumpra o disposto no § 5º e o fornecedor emita documento fiscal eletrônico pelo valor da operação realizada por meio da plataforma.\"",
+        "Assertiva II (Incorreta): A assertiva comete dois erros. Primeiro, contradiz a premissa do cenário, que afirma que a \"Loja SP\" emitiu o documento fiscal, o que por si só já afastaria a responsabilidade da plataforma, conforme analisado na assertiva I. Segundo, mesmo que o documento não fosse emitido, a responsabilidade solidária da plataforma por um fornecedor que é contribuinte mas não é inscrito depende da comunicação prévia das autoridades fiscais, conforme o Art. 22, § 4º. Como o cenário afirma que essa comunicação não ocorreu, a responsabilidade solidária não seria configurada de imediato. LC 214/2025: \"Art. 22. ... § 4º Para fins de aplicação do disposto no inciso II do caput deste artigo, compete ao Comitê Gestor do IBS e à Secretaria Especial da Receita Federal do Brasil (RFB) informar à plataforma digital a condição de contribuinte do fornecedor residente ou domiciliado no País que não esteja inscrito no cadastro.\"",
+        "Assertiva III (Correta): A assertiva descreve o procedimento exato para o caso de uma plataforma estrangeira que descumpre sua obrigação de se inscrever (Art. 23, caput). Nesse cenário, o recolhimento é feito na fonte (operação de câmbio) pelas alíquotas de referência. A responsabilidade por qualquer diferença a maior recai sobre o adquirente, conforme o Art. 23, parágrafo único, II, 'a'. LC 214/2025: \"Art. 23. A plataforma digital, inclusive a domiciliada no exterior, deverá se inscrever no cadastro do IBS e da CBS no regime regular para fins de cumprimento do disposto no art. 22.\" LC 214/2025: \"Art. 23. Parágrafo único. ... II - eventual diferença do IBS e da CBS devidos na operação ou importação deverá ser: a) paga pelo adquirente ou importador, caso as alíquotas incidentes sejam maiores que as alíquotas de referência;\"",
+        "Assertiva IV (Incorreta): Esta é a principal \"armadilha\" da questão. A regra da responsabilidade em substituição ao fornecedor estrangeiro (Art. 22, I) aplica-se quando a plataforma cumpre sua obrigação de se cadastrar. Como a \"Marketplace Global\" não se cadastrou, ela acionou o mecanismo de contingência do Art. 23, que transfere a responsabilidade pela diferença de alíquota para o adquirente, e não para a plataforma. A assertiva aplica a regra geral (Art. 22) a um cenário de exceção (Art. 23), tornando-a incorreta. LC 214/2025: \"Art. 22. As plataformas digitais... são responsáveis pelo pagamento do IBS e da CBS... I - solidariamente com o adquirente ou destinatário e em substituição ao fornecedor, caso este seja residente ou domiciliado no exterior;\""
+    ]
 }
 ]
