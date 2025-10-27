@@ -3597,5 +3597,333 @@
         "Assertiva III (Correta): A assertiva descreve o procedimento exato para o caso de uma plataforma estrangeira que descumpre sua obrigação de se inscrever (Art. 23, caput). Nesse cenário, o recolhimento é feito na fonte (operação de câmbio) pelas alíquotas de referência. A responsabilidade por qualquer diferença a maior recai sobre o adquirente, conforme o Art. 23, parágrafo único, II, 'a'. LC 214/2025: \"Art. 23. A plataforma digital, inclusive a domiciliada no exterior, deverá se inscrever no cadastro do IBS e da CBS no regime regular para fins de cumprimento do disposto no art. 22.\" LC 214/2025: \"Art. 23. Parágrafo único. ... II - eventual diferença do IBS e da CBS devidos na operação ou importação deverá ser: a) paga pelo adquirente ou importador, caso as alíquotas incidentes sejam maiores que as alíquotas de referência;\"",
         "Assertiva IV (Incorreta): Esta é a principal \"armadilha\" da questão. A regra da responsabilidade em substituição ao fornecedor estrangeiro (Art. 22, I) aplica-se quando a plataforma cumpre sua obrigação de se cadastrar. Como a \"Marketplace Global\" não se cadastrou, ela acionou o mecanismo de contingência do Art. 23, que transfere a responsabilidade pela diferença de alíquota para o adquirente, e não para a plataforma. A assertiva aplica a regra geral (Art. 22) a um cenário de exceção (Art. 23), tornando-a incorreta. LC 214/2025: \"Art. 22. As plataformas digitais... são responsáveis pelo pagamento do IBS e da CBS... I - solidariamente com o adquirente ou destinatário e em substituição ao fornecedor, caso este seja residente ou domiciliado no exterior;\""
     ]
+},
+  {
+    "id": "LC214-168",
+    "question": "Nos termos da Lei Complementar nº 214/2025, a disciplina do recolhimento na liquidação financeira (split payment) estabelece que os prestadores de serviços de pagamento e as instituições operadoras de sistemas de pagamento",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Split Payment",
+    "options": [
+        "serão responsáveis por segregar e recolher os valores do IBS e da CBS, mas não serão responsáveis tributários pelos tributos incidentes sobre as operações cujos pagamentos liquidem.",
+        "respondem solidariamente pelos valores do IBS e da CBS de todas as operações liquidadas, ainda que tenham cumprido integralmente o procedimento de segregação.",
+        "apenas transmitirão as informações relativas ao documento fiscal, sendo facultativas a segregação e o recolhimento quando a transação utilizar instrumento de pagamento eletrônico.",
+        "recolherão exclusivamente os valores da CBS, permanecendo os valores do IBS sob responsabilidade integral do fornecedor do bem ou do serviço.",
+        "efetuarão a segregação integral do IBS e da CBS na liquidação da primeira parcela, nas operações com pagamento parcelado, liberando as demais parcelas do procedimento."
+    ],
+    "answer": 0,
+    "justifications": [
+        "Correta. A alternativa descreve com precisão as duas naturezas da obrigação impostas pelo Art. 34, inciso V: a responsabilidade operacional de segregar (alínea \"a\") e a exclusão da responsabilidade tributária (alínea \"b\"). Dispositivo Legal (Art. 34, V): \"V - os prestadores de serviços de pagamentos e as instituições operadoras de sistemas de pagamento: a) serão responsáveis por segregar e recolher os valores do IBS e da CBS de acordo o disposto nesta Subseção; e b) não serão responsáveis tributários pelo IBS e pela CBS incidentes sobre as operações com bens e com serviços cujos pagamentos eles liquidem.\"",
+        "Incorreta. A norma expressamente afasta a responsabilidade tributária dos prestadores de pagamento pelas operações que liquidam, contrariando a ideia de responsabilidade solidária. Dispositivo Legal (Art. 34, V, \"b\"): \"b) não serão responsáveis tributários pelo IBS e pela CBS incidentes sobre as operações com bens e com serviços cujos pagamentos eles liquidem.\"",
+        "Incorreta. A segregação e o recolhimento não são facultativos; são a obrigação principal imposta aos prestadores de pagamento. Dispositivo Legal (Art. 31, caput): \"Art. 31. Nas transações de pagamento relativas a operações com bens ou com serviços, os prestadores de serviços de pagamento eletrônico e as instituições operadoras de sistemas de pagamentos deverão segregar e recolher ao Comitê Gestor do IBS e à RFB, no momento da liquidação financeira da transação (split payment), os valores do IBS e da CBS, de acordo com o disposto nesta Subseção.\"",
+        "Incorreta. A obrigação de segregar e recolher abrange ambos os tributos (IBS e CBS), conforme o texto legal. Dispositivo Legal (Art. 31, caput): \"...deverão segregar e recolher [...] os valores do IBS e da CBS...\"",
+        "Incorreta. Em operações parceladas, a segregação e o recolhimento devem ocorrer de forma proporcional em todas as parcelas, e não integralmente na primeira. Dispositivo Legal (Art. 34, II): \"II - nas operações com bens ou com serviços com pagamento parcelado pelo fornecedor, a segregação e o recolhimento do IBS e da CBS deverão ser efetuados, de forma proporcional, na liquidação financeira de todas as parcelas;\""
+    ]
+},
+{
+    "id": "LC214-169",
+    "question": "Conforme a Lei Complementar nº 214/2025, o recolhimento na liquidação financeira da operação (split payment) estabelece que",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Split Payment",
+    "options": [
+        "os fornecedores de bens e serviços deverão segregar e recolher o IBS e a CBS no momento da emissão do documento fiscal.",
+        "os procedimentos do split payment compreenderão a vinculação exclusiva entre a transação de pagamento e o cadastro com identificação única do adquirente.",
+        "a obrigação se aplica apenas aos prestadores de serviços de pagamento eletrônico participantes de arranjos abertos e que estejam sujeitos à regulação do Banco Central do Brasil.",
+        "a obrigação se aplica a todos os prestadores de serviços de pagamento eletrônico, participantes de arranjos de pagamento, abertos e fechados, públicos e privados, inclusive os que não estão sujeitos à regulação do Banco Central do Brasil.",
+        "os procedimentos do split payment serão disciplinados exclusivamente por atos do Comitê Gestor do IBS, não havendo participação da Secretaria Especial da Receita Federal do Brasil (RFB) nessa normatização."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. A obrigação de segregar e recolher, no momento da liquidação financeira, é dos prestadores de serviços de pagamento eletrônico e das instituições operadoras de sistemas de pagamentos, e não dos fornecedores de bens e serviços. Dispositivo Legal (Art. 31, caput): \"Art. 31. Nas transações de pagamento relativas a operações com bens ou com serviços, os prestadores de serviços de pagamento eletrônico e as instituições operadoras de sistemas de pagamentos deverão segregar e recolher ao Comitê Gestor do IBS e à RFB, no momento da liquidação financeira da transação (split payment), os valores do IBS e da CBS, de acordo com o disposto nesta Subseção.\"",
+        "Incorreta. Conforme o Art. 31, § 1º, os procedimentos do split payment compreenderão a vinculação entre os documentos fiscais eletrônicos relativos às operações e a transação de pagamento das respectivas operações . Dispositivo Legal (Art. 31, § 1º): \"§ 1º Os procedimentos do split payment previstos nesta Subseção compreenderão a vinculação entre: I - os documentos fiscais eletrônicos relativos a operações com bens ou com serviços; e II - a transação de pagamento das respectivas operações.\"",
+        "Incorreta. A lei é explícita ao incluir todos os arranjos, sejam abertos ou fechados, públicos ou privados, e menciona textualmente que a obrigação se aplica inclusive aos participantes e arranjos que não estão sujeitos à regulação do Banco Central do Brasil. Dispositivo Legal (Art. 31, § 3º): \"§ 3º O disposto nesta Subseção aplica-se a todos os prestadores de serviços de pagamento eletrônico de que trata o caput deste artigo, participantes de arranjos de pagamento, abertos e fechados, públicos e privados, inclusive os participantes e arranjos que não estão sujeitos à regulação do Banco Central do Brasil.\"",
+        "Correta. Reproduz fielmente o escopo de abrangência definido no Art. 31, § 3º da Lei Complementar. Dispositivo Legal (Art. 31, § 3º): \"§ 3º O disposto nesta Subseção aplica-se a todos os prestadores de serviços de pagamento eletrônico de que trata o caput deste artigo, participantes de arranjos de pagamento, abertos e fechados, públicos e privados, inclusive os participantes e arranjos que não estão sujeitos à regulação do Banco Central do Brasil.\"",
+        "Incorreta. O Art. 31, § 2º, estabelece que atos conjuntos do Comitê Gestor do IBS e da RFB disciplinarão o disposto na Subseção, indicando a participação de ambas as entidades. Dispositivo Legal (Art. 31, § 2º): \"§ 2º Atos conjuntos do Comitê Gestor do IBS e da RFB disciplinarão o disposto nesta Subseção, inclusive no que se refere às atribuições dos prestadores de serviços de pagamento eletrônico e das instituições operadoras de sistemas de pagamento, considerando as características de cada arranjo de pagamento e das operações com bens e serviços.\""
+    ]
+},
+{
+    "id": "LC214-170",
+    "question": "Considere as seguintes assertivas a respeito do procedimento simplificado do recolhimento na liquidação financeira (split payment), conforme disciplinado pela Lei Complementar nº 214/2025:\n\nI. A opção pelo procedimento simplificado é facultada ao contribuinte para todas as operações em que o adquirente não seja contribuinte do IBS e da CBS no regime regular.\nII. A opção pelo procedimento simplificado será irretratável para todo o período de apuração.\nIII. Os valores recolhidos por este procedimento serão utilizados para pagamento dos débitos não extintos do contribuinte, relativos às operações do período de apuração, observada a ordem cronológica do documento fiscal.\nIV. O Comitê Gestor do IBS estabelecerá o percentual base para o cálculo dos valores do IBS e da CBS, sendo vedada a aplicação de procedimento simplificado para apenas um desses tributos.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Split Payment",
+    "options": [
+        "I, II e III.",
+        "I e IV.",
+        "II e III.",
+        "II, III e IV.",
+        "I e II."
+    ],
+    "answer": 0,
+    "justifications": [
+        "I. Correta. O item descreve fielmente a condição de elegibilidade para a opção pelo procedimento simplificado. Dispositivo Legal (Art. 33, caput): \"Art. 33. O contribuinte poderá optar por procedimento simplificado do split payment para todas as operações cujo adquirente não seja contribuinte do IBS e da CBS no regime regular.\"",
+        "II. Correta. O item reflete a regra de irretratabilidade da opção dentro do período. Dispositivo Legal (Art. 33, § 5º): \"§ 5º A opção de que trata o caput deste artigo será irretratável para todo o período de apuração.\"",
+        "III. Correta. A assertiva descreve corretamente o método de imputação dos valores recolhidos no regime simplificado. Dispositivo Legal (Art. 33, § 3º): \"§ 3º Os valores do IBS e da CBS recolhidos por meio do procedimento simplificado de que trata o caput serão utilizados para pagamento dos débitos não extintos do contribuinte decorrentes das operações de que trata o caput ocorridas no período de apuração, em ordem cronológica do documento fiscal, segundo critérios estabelecidos no regulamento.\"",
+        "IV. Incorreta. O item erra ao atribuir ao Comitê Gestor do IBS (CGIBS) a definição do percentual para ambos os tributos. A competência é dividida: o CGIBS estabelece o percentual para o IBS, e a RFB estabelece o percentual para a CBS. A parte final da assertiva (sobre a vedação) está correta, tornando-a um distrator mais complexo. Dispositivo Legal (Art. 33, § 2º, I): \"§ 2º O percentual de que trata o § 1º deste artigo: I - será estabelecido pelo Comitê Gestor do IBS, para o IBS, e pela RFB, para a CBS, vedada a aplicação de procedimento simplificado para apenas um desses tributos;\""
+    ]
+},
+{
+    "id": "LC214-171",
+    "question": "Uma loja de eletrodomésticos realizou uma venda em 5 parcelas. O fornecedor (a loja), posteriormente, liquidou antecipadamente os recebíveis dessa operação junto à sua instituição financeira.\nÀ luz da Lei Complementar nº 214/2025, no que tange ao recolhimento na liquidação financeira (split payment) dessa operação,",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Split Payment",
+    "options": [
+        "o IBS e a CBS devem ser integralmente segregados e recolhidos na liquidação financeira da primeira parcela, ficando as demais dispensadas do procedimento.",
+        "a liquidação antecipada de recebíveis transfere a obrigação do recolhimento, que deixa de ser proporcional nas parcelas e passa a ser integral no ato da antecipação.",
+        "a liquidação antecipada de recebíveis não altera a obrigação de segregação e de recolhimento, que deverá ser efetuada, de forma proporcional, na liquidação financeira de todas as parcelas.",
+        "a instituição financeira que antecipou os recebíveis passa a ser a responsável tributária pelo IBS e CBS da operação, devendo recolhê-los integralmente no ato da antecipação.",
+        "o IBS e a CBS devem ser integralmente segregados e recolhidos apenas no momento da liquidação antecipada dos recebíveis, pois esta prevalece sobre o parcelamento."
+    ],
+    "answer": 2,
+    "justifications": [
+        "Incorreta. Esta alternativa contraria a regra específica do parcelamento. Dispositivo Legal (Art. 34, II): \"II - nas operações com bens ou com serviços com pagamento parcelado pelo fornecedor, a segregação e o recolhimento do IBS e da CBS deverão ser efetuados, de forma proporcional, na liquidação financeira de todas as parcelas;\"",
+        "Incorreta. Esta alternativa contraria a regra da antecipação de recebíveis, que determina que a obrigação original (no caso, parcelada) não é alterada. Dispositivo Legal (Art. 34, III): \"III - a liquidação antecipada de recebíveis não altera a obrigação de segregação e de recolhimento do IBS e da CBS na forma dos incisos I e II deste caput;\"",
+        "Correta. A alternativa combina corretamente as duas regras aplicáveis ao caso: a liquidação antecipada não altera a obrigação (Art. 34, III), e a obrigação original (parcelamento) exige recolhimento proporcional em todas as parcelas (Art. 34, II). Dispositivo Legal (Art. 34, II e III): \"II - nas operações com bens ou com serviços com pagamento parcelado pelo fornecedor, a segregação e o recolhimento do IBS e da CBS deverão ser efetuados, de forma proporcional, na liquidação financeira de todas as parcelas; III - a liquidação antecipada de recebíveis não altera a obrigação de segregação e de recolhimento do IBS e da CBS na forma dos incisos I e II deste caput;\"",
+        "Incorreta. A instituição financeira não se torna responsável tributária pela operação. Dispositivo Legal (Art. 34, V, \"b\"): \"b) [os prestadores de serviços de pagamentos e as instituições operadoras de sistemas de pagamento] não serão responsáveis tributários pelo IBS e pela CBS incidentes sobre as operações com bens e com serviços cujos pagamentos eles liquidem.\"",
+        "Incorreta. A regra da antecipação de recebíveis determina que a obrigação original (parcelada) seja mantida, e não substituída. Dispositivo Legal (Art. 34, III): \"III - a liquidação antecipada de recebíveis não altera a obrigação de segregação e de recolhimento do IBS e da CBS na forma dos incisos I e II deste caput;\""
+    ]
+},
+{
+    "id": "LC214-172",
+    "question": "A \"Plataforma Digital VendeTudo S.A.\" atua como intermediária entre fornecedores e adquirentes, sendo que o processo de pagamento das operações realizadas por seu intermédio é iniciado pela própria plataforma. Nesses casos, a Lei Complementar nº 214/2025 estabelece regras específicas sobre o procedimento padrão do split payment.\nConsiderando essa situação,\n\nI. As informações necessárias para a segregação e o recolhimento dos valores do IBS e da CBS devidos pelo fornecedor deverão ser apresentadas pela plataforma digital.\nII. O fornecedor permanece obrigado a transmitir diretamente aos prestadores de serviço de pagamento as informações para a vinculação da operação com a transação de pagamento.\nIII. Caso a plataforma digital cumpra a obrigação de apresentar as informações necessárias para a segregação e o recolhimento (split payment), ela não será responsável pelo pagamento de eventuais diferenças entre os valores recolhidos e aqueles devidos pelo fornecedor residente no País.\nIV. Se o processo de pagamento for iniciado pela plataforma digital, mas o split payment não for realizado, a plataforma será automaticamente considerada responsável tributária pela totalidade do débito, independentemente da emissão de documento fiscal pelo fornecedor.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Contexto-Assertiva",
+    "subtopic": "Split Payment",
+    "options": [
+        "II e IV.",
+        "I e II.",
+        "II e III.",
+        "I e III.",
+        "III e IV."
+    ],
+    "answer": 3,
+    "justifications": [
+        "I. Correta. O item reflete a regra do procedimento padrão do split payment (Art. 32) combinada com a obrigação da plataforma (Art. 22). Quando a plataforma inicia o pagamento, é dela a responsabilidade por transmitir as informações para o split. Dispositivo Legal (Art. 32, § 2º, II): \"§ 2º As informações previstas no § 1º deste artigo deverão ser transmitidas aos prestadores de serviço de pagamento: [...] II - pela plataforma digital, em relação às operações e importações realizadas por seu intermédio, nos termos do art. 22 desta Lei Complementar;\" Dispositivo Legal (Art. 22, § 6º): \"§ 6º Na hipótese em que o processo de pagamento da operação ou importação seja iniciado pela plataforma digital, esta deverá apresentar as informações necessárias para a segregação e o recolhimento dos valores do IBS e da CBS devidos pelo fornecedor na liquidação financeira da operação (split payment)...\"",
+        "II. Incorreta. O item contraria o Art. 32, § 2º, inciso II, que, na situação descrita (operação intermediada por plataforma), atribui à plataforma, e não ao fornecedor, o dever de transmitir as informações. Dispositivo Legal (Art. 32, § 2º): \"§ 2º As informações previstas no § 1º deste artigo deverão ser transmitidas aos prestadores de serviço de pagamento: I - pelo fornecedor; II - pela plataforma digital, em relação às operações e importações realizadas por seu intermédio...\"",
+        "III. Correta. O item descreve a regra de exclusão de responsabilidade (safe harbor) da plataforma que cumpre suas obrigações relativas ao split payment. Dispositivo Legal (Art. 22, § 7º): \"§ 7º A plataforma digital que cumprir o disposto nos §§ 5º e 6º deste artigo não será responsável pelo pagamento de eventuais diferenças entre os valores do IBS e da CBS recolhidos e aqueles devidos na operação pelo fornecedor residente ou domiciliado no País.\"",
+        "IV. Incorreta. A responsabilidade da plataforma não é automática nesse caso. Se o split payment não for realizado (mesmo com pagamento iniciado pela plataforma), aplica-se a regra do Art. 22, § 8º, que afasta a responsabilidade da plataforma caso o fornecedor emita o documento fiscal eletrônico. Dispositivo Legal (Art. 22, § 9º): \"§ 9º Aplica-se o disposto no § 8º, também, caso o processo de pagamento da operação seja iniciado pela plataforma digital e não seja realizado o split payment.\" Dispositivo Legal (Art. 22, § 8º): \"§ 8º Na hipótese em que o fornecedor seja residente ou domiciliado no País e o processo de pagamento da operação não seja iniciado pela plataforma digital, esta não será responsável tributária caso cumpra o disposto no § 5º e o fornecedor emita documento fiscal eletrônico pelo valor da operação realizada por meio da plataforma.\""
+    ]
+},
+{
+    "id": "LC214-173",
+    "question": "A Distribuidora de Combustíveis Delta Ltda. adquire gasolina A diretamente da Refinaria Gama S.A., ambas contribuintes do regime específico de combustíveis previsto na Lei Complementar nº 214/2025. A transação de pagamento referente a essa aquisição foi liquidada por meio de um instrumento de pagamento eletrônico que permitiu o recolhimento do IBS e da CBS na liquidação financeira da operação (split payment), conforme os procedimentos estabelecidos na referida lei. Posteriormente, a fiscalização apurou que a Refinaria Gama S.A. não recolheu integralmente o IBS e a CBS devidos naquela operação.\nNessa situação, de acordo com a Lei Complementar nº 214/2025, a Distribuidora de Combustíveis Delta Ltda.",
+    "difficulty": "Média",
+    "format": "Contexto",
+    "subtopic": "Split Payment",
+    "options": [
+        "será solidariamente responsável pelo pagamento do IBS e da CBS não recolhidos pela Refinaria Gama S.A., pois adquiriu o produto diretamente do contribuinte principal.",
+        "não terá responsabilidade solidária pelo pagamento do IBS e da CBS não recolhidos, uma vez que a transação de pagamento foi liquidada utilizando o split payment.",
+        "será responsável principal pelo pagamento integral do IBS e da CBS, devendo solicitar posteriormente o ressarcimento dos valores já recolhidos via split payment.",
+        "terá responsabilidade subsidiária, devendo ser cobrada apenas após esgotadas as tentativas de cobrança contra a Refinaria Gama S.A.",
+        "será solidariamente responsável apenas pela parcela do IBS, ficando a CBS sob responsabilidade exclusiva da Refinaria Gama S.A."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. Embora o Art. 177, caput, estabeleça a regra geral da responsabilidade solidária do adquirente direto, o § 1º, inciso I, cria uma exceção específica para o caso de utilização do split payment. Dispositivo Legal (Art. 177, caput): \"Art. 177. Nas operações realizadas diretamente com os contribuintes de que trata o art. 176 desta Lei Complementar, o adquirente fica solidariamente responsável pelo pagamento do IBS e da CBS incidentes na operação, nos termos previstos neste artigo.\"",
+        "Correta. A alternativa aplica corretamente a exceção prevista no Art. 177, § 1º, inciso I, que afasta a responsabilidade solidária do adquirente quando a operação é liquidada via split payment. Dispositivo Legal (Art. 177, § 1º, I): \"§ 1º A responsabilidade a que se refere o caput: I - não se aplica na hipótese em que a transação de pagamento tenha sido liquidada por instrumento eletrônico que permita o recolhimento do IBS e da CBS na liquidação financeira da operação (split payment), nos termos dos arts. 31 a 35 desta Lei Complementar;\"",
+        "Incorreta. A lei não atribui responsabilidade principal ao adquirente nesse regime, apenas solidária (regra geral) ou nenhuma (exceção do split payment). Dispositivo Legal (Art. 177, caput e § 1º, I): Vide justificativas A e B.",
+        "Incorreta. A responsabilidade, quando existente (sem split payment), é solidária, e não subsidiária . Dispositivo Legal (Art. 177, caput): \"Art. 177. [...] o adquirente fica solidariamente responsável...\"",
+        "Incorreta. A regra do Art. 177 (tanto a responsabilidade solidária quanto sua exclusão pelo split payment) aplica-se a ambos os tributos (IBS e CBS). Dispositivo Legal (Art. 177, caput): \"...responsável pelo pagamento do IBS e da CBS...\""
+    ]
+},
+{
+    "id": "LC214-174",
+    "question": "A empresa Indústria Beta S.A., contribuinte do regime regular do IBS e da CBS, adquiriu insumos de um fornecedor nacional. O pagamento foi realizado por meio de um instrumento que não permitiu a implementação do recolhimento na liquidação financeira (split payment). Além disso, a Indústria Beta S.A. não optou por efetuar o recolhimento direto do IBS e da CBS incidentes sobre a operação. O fornecedor emitiu documento fiscal eletrônico idôneo, destacando corretamente os valores do IBS e da CBS.\nNesse cenário, considerando as regras de não cumulatividade e as modalidades de extinção dos débitos na Lei Complementar nº 214/2025, a Indústria Beta S.A.",
+    "difficulty": "Difícil",
+    "format": "Contexto",
+    "subtopic": "Split Payment",
+    "options": [
+        "fica impedida de apropriar os créditos de IBS e CBS relativos a essa aquisição, pois a extinção do débito pelo fornecedor não ocorreu via split payment ou recolhimento pelo adquirente.",
+        "poderá apropriar os créditos de IBS e CBS relativos a essa aquisição, ficando dispensado o requisito de extinção dos débitos, mas condicionada ao destaque correto dos tributos no documento fiscal.",
+        "poderá apropriar apenas 50% dos créditos, como penalidade pela não utilização das modalidades preferenciais de extinção do débito (split payment ou recolhimento pelo adquirente).",
+        "deverá solicitar autorização prévia ao Comitê Gestor do IBS e à RFB para apropriar os créditos, comprovando a impossibilidade técnica do split payment.",
+        "poderá apropriar os créditos, mas deverá estorná-los caso o fornecedor não comprove o recolhimento do IBS e da CBS no prazo regulamentar."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. A alternativa descreve a regra geral do Art. 47, mas ignora a exceção criada pelo Art. 48 especificamente para a situação descrita. Dispositivo Legal (Art. 47, caput): \"Art. 47. O contribuinte sujeito ao regime regular poderá apropriar créditos do IBS e da CBS quando ocorrer a extinção por qualquer das modalidades previstas no art. 27 dos débitos relativos às operações em que seja adquirente...\"",
+        "Correta. A alternativa aplica corretamente a dispensa do requisito de extinção do débito prevista no Art. 48, condicionando a apropriação do crédito ao destaque no documento fiscal, conforme o parágrafo único do mesmo artigo. A situação descrita (sem split payment implementado e sem recolhimento pelo adquirente) enquadra-se exatamente na hipótese do Art. 48. Dispositivo Legal (Art. 48, caput e parágrafo único): \"Art. 48. Ficará dispensado o requisito de extinção dos débitos para fins de apropriação dos créditos de que trata o caput do art. 47 desta Lei Complementar, exclusivamente, se não houver sido implementada nenhuma das seguintes modalidades de extinção: I - recolhimento na liquidação financeira da operação (split payment), nos termos dos arts. 31 e 32 desta Lei Complementar; ou II - recolhimento pelo adquirente, nos termos do art. 36 desta Lei Complementar. Parágrafo único. Na hipótese de que trata o caput deste artigo, a apropriação dos créditos ficará condicionada ao destaque dos valores corretos do IBS e da CBS no documento fiscal eletrônico relativo à aquisição.\"",
+        "Incorreta. A lei não prevê a apropriação parcial como penalidade nessa situação; ela dispensa o requisito da extinção ou exige seu cumprimento. Dispositivo Legal (Art. 48): Vide justificativa B.",
+        "Incorreta. O Art. 48 não exige autorização prévia para a apropriação do crédito na hipótese descrita; a dispensa é automática se as condições forem atendidas (não implementação do split/recolhimento adquirente + destaque no DFe). Dispositivo Legal (Art. 48): Vide justificativa B.",
+        "Incorreta. Na hipótese do Art. 48, a apropriação é condicionada apenas ao destaque no documento fiscal, e não à comprovação posterior de recolhimento pelo fornecedor. A responsabilidade pelo recolhimento (ou não) é do fornecedor, mas o direito ao crédito do adquirente, nesse caso específico, fica assegurado pela dispensa da exigência de extinção do débito. Dispositivo Legal (Art. 48, parágrafo único): \"Parágrafo único. Na hipótese de que trata o caput deste artigo, a apropriação dos créditos ficará condicionada ao destaque dos valores corretos do IBS e da CBS no documento fiscal eletrônico relativo à aquisição.\""
+    ]
+},
+{
+    "id": "LC214-175",
+    "question": "A Lei Complementar nº 214/2025 institui o mecanismo de recolhimento na liquidação financeira da transação, conhecido como split payment. Conforme essa lei, tal mecanismo consiste fundamentalmente na obrigação de",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Split Payment",
+    "options": [
+        "o fornecedor do bem ou serviço reter e recolher o IBS e a CBS devidos pelo adquirente no momento da transação.",
+        "os prestadores de serviços de pagamento eletrônico e as instituições operadoras de sistemas de pagamentos segregarem e recolherem o IBS e a CBS ao Comitê Gestor do IBS e à RFB no momento da liquidação financeira.",
+        "o adquirente do bem ou serviço calcular e recolher diretamente o IBS e a CBS incidentes na operação, deduzindo o valor do pagamento ao fornecedor.",
+        "as instituições financeiras apenas informarem à RFB e ao Comitê Gestor do IBS os dados da transação, sem realizar qualquer segregação de valores.",
+        "o Comitê Gestor do IBS e a RFB realizarem a cobrança direta do IBS e da CBS junto ao fornecedor imediatamente após a liquidação financeira."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. A obrigação de segregar e recolher no split payment não é do fornecedor, mas dos prestadores de serviços de pagamento. Dispositivo Legal (Art. 31, caput): \"Art. 31. Nas transações de pagamento relativas a operações com bens ou com serviços, os prestadores de serviços de pagamento eletrônico e as instituições operadoras de sistemas de pagamentos deverão segregar e recolher ao Comitê Gestor do IBS e à RFB, no momento da liquidação financeira da transação (split payment), os valores do IBS e da CBS, de acordo com o disposto nesta Subseção.\"",
+        "Correta. A alternativa descreve com precisão a obrigação central do split payment, indicando os sujeitos responsáveis (prestadores de pagamento e instituições operadoras), a ação (segregar e recolher IBS/CBS) e o momento (liquidação financeira), conforme o Art. 31, caput. Dispositivo Legal (Art. 31, caput): \"Art. 31. Nas transações de pagamento relativas a operações com bens ou com serviços, os prestadores de serviços de pagamento eletrônico e as instituições operadoras de sistemas de pagamentos deverão segregar e recolher ao Comitê Gestor do IBS e à RFB, no momento da liquidação financeira da transação (split payment), os valores do IBS e da CBS, de acordo com o disposto nesta Subseção.\"",
+        "Incorreta. O recolhimento direto pelo adquirente é uma modalidade distinta (prevista no Art. 36 ), não a definição do split payment padrão executado pelos prestadores de pagamento. Dispositivo Legal (Art. 31, caput): Vide justificativa B.",
+        "Incorreta. O split payment envolve a ação de segregar e recolher os valores, não apenas informar dados. Dispositivo Legal (Art. 31, caput): Vide justificativa B.",
+        "Incorreta. O mecanismo do split payment impõe a obrigação de segregar e recolher aos intermediários do pagamento, não prevê uma cobrança direta dos órgãos fiscais ao fornecedor nesse momento específico. Dispositivo Legal (Art. 31, caput): Vide justificativa B."
+    ]
+},
+{
+    "id": "LC214-176",
+    "question": "De acordo com a Lei Complementar nº 214/2025, os procedimentos do recolhimento na liquidação financeira (split payment) compreenderão essencialmente a",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Split Payment",
+    "options": [
+        "análise prévia da capacidade contributiva do adquirente antes de autorizar a transação de pagamento.",
+        "vinculação entre os documentos fiscais eletrônicos relativos a operações com bens ou com serviços e a transação de pagamento das respectivas operações.",
+        "notificação automática ao fornecedor sobre eventuais pendências fiscais do adquirente no momento da liquidação.",
+        "emissão de um documento fiscal complementar pela instituição operadora do sistema de pagamento, confirmando o recolhimento.",
+        "segregação obrigatória de valores apenas para operações realizadas entre contribuintes do regime regular do IBS e da CBS."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. O split payment foca na vinculação documento-pagamento e recolhimento, não em análise de capacidade contributiva do adquirente. Dispositivo Legal (Art. 31, § 1º): \"§ 1º Os procedimentos do split payment previstos nesta Subseção compreenderão a vinculação entre: I - os documentos fiscais eletrônicos relativos a operações com bens ou com serviços; e II - a transação de pagamento das respectivas operações.\"",
+        "Correta. Esta alternativa descreve exatamente o núcleo processual do split payment conforme definido no Art. 31, § 1º: conectar o registro fiscal da operação (DFe) com sua liquidação financeira. Dispositivo Legal (Art. 31, § 1º): \"§ 1º Os procedimentos do split payment previstos nesta Subseção compreenderão a vinculação entre: I - os documentos fiscais eletrônicos relativos a operações com bens ou com serviços; e II - a transação de pagamento das respectivas operações.\"",
+        "Incorreta. A lei não estabelece essa notificação como parte do procedimento do split payment. Dispositivo Legal (Art. 31, § 1º): Vide justificativa B.",
+        "Incorreta. A lei não prevê a emissão de documento fiscal complementar pela instituição de pagamento no âmbito do split payment; a base é o documento fiscal emitido pelo fornecedor. Dispositivo Legal (Art. 31, § 1º): Vide justificativa B.",
+        "Incorreta. O split payment aplica-se a diversas operações, incluindo aquelas com adquirentes não contribuintes, sendo inclusive a base para o procedimento simplificado (Art. 33 ). Dispositivo Legal (Art. 31, § 1º): Vide justificativa B. (A definição do §1º não restringe a aplicabilidade apenas a operações entre contribuintes)."
+    ]
+},
+{
+    "id": "LC214-177",
+    "question": "Considerando o regime de recolhimento na liquidação financeira (split payment) instituído pela Lei Complementar nº 214/2025, a obrigação principal de segregar e recolher os valores do IBS e da CBS no momento da liquidação financeira da transação é atribuída",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Split Payment",
+    "options": [
+        "exclusivamente ao fornecedor do bem ou serviço, que deve informar os dados para débito em sua conta.",
+        "solidariamente ao fornecedor e ao adquirente do bem ou serviço.",
+        "ao Comitê Gestor do IBS e à RFB, que efetuarão o débito na conta do fornecedor.",
+        "aos prestadores de serviços de pagamento eletrônico e às instituições operadoras de sistemas de pagamentos.",
+        "exclusivamente ao adquirente do bem ou serviço, caso seja contribuinte do regime regular."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. O fornecedor tem a obrigação de incluir informações no DFe (Art. 32, § 1º ), mas a obrigação de segregar e recolher é dos intermediários do pagamento. Dispositivo Legal (Art. 31, caput): \"Art. 31. Nas transações de pagamento relativas a operações com bens ou com serviços, os prestadores de serviços de pagamento eletrônico e as instituições operadoras de sistemas de pagamentos deverão segregar e recolher...\"",
+        "Incorreta. A lei não estabelece essa responsabilidade solidária entre fornecedor e adquirente para a operação do split payment; a obrigação é direcionada aos prestadores de pagamento. Dispositivo Legal (Art. 31, caput): Vide justificativa A.",
+        "Incorreta. O Comitê Gestor e a RFB são os destinatários do recolhimento feito pelos prestadores de pagamento, não os executores diretos da segregação na conta do fornecedor. Dispositivo Legal (Art. 31, caput): \"...deverão segregar e recolher ao Comitê Gestor do IBS e à RFB...\"",
+        "Correta. Esta alternativa identifica corretamente os sujeitos a quem a lei atribui a obrigação operacional de executar o split payment, conforme o Art. 31, caput. Dispositivo Legal (Art. 31, caput): \"Art. 31. Nas transações de pagamento relativas a operações com bens ou com serviços, os prestadores de serviços de pagamento eletrônico e as instituições operadoras de sistemas de pagamentos deverão segregar e recolher...\"",
+        "Incorreta. O recolhimento pelo adquirente (Art. 36 ) é uma modalidade alternativa e facultativa, não a regra geral do split payment executado pelos prestadores de pagamento. Dispositivo Legal (Art. 31, caput): Vide justificativa D."
+    ]
+},
+{
+    "id": "LC214-178",
+    "question": "A Lei Complementar nº 214/2025 estabelece que prestadores de serviços de pagamento eletrônico e instituições operadoras de sistemas de pagamentos devem segregar e recolher os valores do IBS e da CBS devidos em operações com bens ou serviços, diretamente ao Comê Gestor do IBS e à RFB, no momento da liquidação financeira da transação. Esse mecanismo é denominado",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Split Payment",
+    "options": [
+        "Cashback.",
+        "Substituição Tributária.",
+        "Apuração assistida.",
+        "Split Payment.",
+        "Débito Automático Fiscal."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. Cashback, nos termos da Lei Complementar nº 214/2025, refere-se à devolução personalizada de parte do IBS e da CBS para pessoas físicas integrantes de famílias de baixa renda, conforme definido nos Arts. 112 a 124 . Trata-se de um mecanismo de devolução pós-pagamento, distinto da retenção no ato da transação.",
+        "Incorreta. Substituição Tributária é um regime onde a lei atribui a responsabilidade pelo recolhimento do tributo devido por outrem a um terceiro participante da cadeia econômica. Embora o Split Payment envolva um terceiro (prestador de pagamento) recolhendo o tributo, ele atua como um agente de arrecadação no fluxo financeiro da própria operação, sem alterar a responsabilidade tributária principal do fornecedor, diferentemente da lógica da Substituição Tributária. O mecanismo descrito foca na operacionalização do recolhimento no momento do pagamento.",
+        "Incorreta. Apuração assistida, conforme o Art. 46 da Lei Complementar nº 214/2025, é a possibilidade de o Comitê Gestor do IBS e a RFB apresentarem ao sujeito passivo uma apuração pré-calculada do saldo do IBS e da CBS com base nos documentos fiscais e outras informações . Não se confunde com o mecanismo de retenção no pagamento.",
+        "Correta. A descrição no enunciado corresponde precisamente à definição funcional do mecanismo denominado pela Lei Complementar nº 214/2025 como Recolhimento na Liquidação Financeira (Split Payment). Dispositivo Legal (Art. 31, caput): \"Art. 31. Nas transações de pagamento relativas a operações com bens ou com serviços, os prestadores de serviços de pagamento eletrônico e as instituições operadoras de sistemas de pagamentos deverão segregar e recolher ao Comitê Gestor do IBS e à RFB, no momento da liquidação financeira da transação (split payment), os valores do IBS e da CBS, de acordo com o disposto nesta Subseção.\"",
+        "Incorreta. Débito Automático Fiscal pode ser associado ao mecanismo opcional de pagamento automatizado, previsto no Art. 30 da Lei Complementar nº 214/2025, onde o contribuinte autoriza previamente o débito do saldo a recolher em sua conta . Isso difere do Split Payment, que é uma segregação realizada pelo intermediário financeiro no fluxo do pagamento da operação, independentemente de autorização específica do contribuinte para cada transação."
+    ]
+},
+  {
+    "id": "LC214-179",
+    "question": "Considere as seguintes afirmações sobre as alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) durante os primeiros anos da transição, conforme a Lei Complementar nº 214/2025:\n\nI. Em relação aos fatos geradores ocorridos no ano de 2026, o IBS será cobrado mediante aplicação da alíquota estadual de 0,9% (nove décimos por cento).\nII. Em relação aos fatos geradores ocorridos no ano de 2026, a CBS será cobrada mediante aplicação da alíquota de 0,9% (nove décimos por cento).\nIII. Durante o período de 1º de janeiro de 2027 a 31 de dezembro de 2028, o IBS será cobrado à alíquota estadual de 0,05% (cinco centésimos por cento) e à alíquota municipal de 0,1% (um décimo por cento).\nIV. Durante o período de 1º de janeiro de 2027 a 31 de dezembro de 2028, a alíquota da CBS será aquela fixada nos termos da lei, reduzida em 0,1 (um décimo) ponto percentual, exceto em relação aos combustíveis sujeitos a regime específico.\n\nEstá correto o que se afirma APENAS em",
+    "difficulty": "Média",
+    "format": "Assertiva",
+    "subtopic": "Transição",
+    "options": [
+        "I e III.",
+        "I e II.",
+        "III e IV.",
+        "II e IV.",
+        "II e III."
+    ],
+    "answer": 3,
+    "justifications": [
+        "Incorreta. O item I está incorreto e o III está incorreto.",
+        "Incorreta. O item I está incorreto.",
+        "Incorreta. O item III está incorreto.",
+        "Correta. Os itens II e IV estão corretos. Item II (Correto): Conforme Art. 346: \"Em relação aos fatos geradores ocorridos de 1º de janeiro a 31 de dezembro de 2026, a CBS será cobrada mediante aplicação da alíquota de 0,9% (nove décimos por cento).\" Item IV (Correto): Conforme Art. 347: \"Em relação aos fatos geradores ocorridos de 1º de janeiro de 2027 a 31 de dezembro de 2028, a alíquota da CBS será aquela fixada nos termos dos incisos I do caput e dos §§ 2º e 3º, todos do art. 14, reduzida em 0,1 (um décimo) ponto percentual, exceto em relação aos combustíveis sujeitos ao regime específico de que tratam os arts. 172 a 180 desta Lei Complementar.\"",
+        "Incorreta. O item III está incorreto. Justificativas dos itens incorretos: Item I (Incorreto): A alíquota do IBS para 2026 é de 0,1% (um décimo por cento), conforme Art. 343. A alíquota de 0,9% é a da CBS para o mesmo ano (Art. 346). Item III (Incorreto): As alíquotas do IBS para 2027-2028 são 0,05% (estadual) e 0,05% (municipal), conforme Art. 344."
+    ]
+},
+{
+    "id": "LC214-180",
+    "question": "De acordo com a Lei Complementar nº 214/2025, que dispõe sobre a fixação das alíquotas durante a transição para o IBS e a CBS, observadas a forma de cálculo e os limites nela previstos, compete fixar as alíquotas de referência da CBS para os anos de 2027 a 2033 e as alíquotas de referência do IBS para os anos de 2029 a 2033",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Transição",
+    "options": [
+        "ao Comitê Gestor do IBS, por meio de resolução, com base em cálculos realizados pelo Tribunal de Contas da União e propostas encaminhadas pelo Poder Executivo da União.",
+        "ao Senado Federal, por meio de resolução, com base em cálculos realizados pelo Tribunal de Contas da União.",
+        "ao Tribunal de Contas da União, que homologará a metodologia e publicará as alíquotas anualmente, com base em propostas encaminhadas pelo Comitê Gestor do IBS e pelo Poder Executivo da União.",
+        "ao Poder Executivo da União, por meio de Lei Ordinária, que deverá observar a metodologia homologada pelo Comitê Gestor do IBS.",
+        "ao Senado Federal, por meio de resolução, que deverá fixá-las até 31 de dezembro do ano anterior ao de sua vigência, sob pena de aplicação automática das alíquotas calculadas pelo Comitê Gestor do IBS."
+    ],
+    "answer": 1,
+    "justifications": [
+        "Incorreta. Embora o Comitê Gestor do IBS e o Poder Executivo da União encaminhem propostas de cálculo ao TCU , a competência para fixar as alíquotas de referência não é do Comitê Gestor, mas sim do Senado Federal.",
+        "Correta. A alternativa descreve perfeitamente o processo. O Art. 349, caput, estabelece que compete ao Senado Federal fixar as referidas alíquotas. O § 1º do mesmo artigo complementa que essa fixação será \"com base em cálculos realizados pelo Tribunal de Contas da União\".",
+        "Incorreta. O Tribunal de Contas da União (TCU) realiza os cálculos e homologa a metodologia , mas a competência para fixar (ou seja, aprovar e dar vigência) as alíquotas de referência é do Senado Federal.",
+        "Incorreta. A fixação não é feita pelo Poder Executivo da União nem por Lei Ordinária, mas sim por Resolução do Senado Federal.",
+        "Incorreta. A alternativa contém dois erros: 1) O prazo para o Senado fixar as alíquotas é 31 de outubro (e não 31 de dezembro) do ano anterior; 2) Caso o prazo seja perdido, serão utilizadas as alíquotas calculadas pelo Tribunal de Contas da União (e não pelo Comitê Gestor do IBS)."
+    ]
+},
+{
+    "id": "LC214-181",
+    "question": "Considerando as normas da Lei Complementar nº 214/2025 relativas às alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS),",
+    "difficulty": "Média",
+    "format": "Direta",
+    "subtopic": "Alíquotas e Regras de Arrecadação",
+    "options": [
+        "compete à União fixar a alíquota da CBS e a cada Estado e Município, bem como ao Distrito Federal, fixar suas respectivas alíquotas do IBS, devendo a fixação ocorrer por meio de lei complementar do respectivo ente federativo.",
+        "as alíquotas de referência da CBS e do IBS serão fixadas, respectivamente, pela Receita Federal do Brasil (RFB) e pelo Comitê Gestor do IBS (CGIBS).",
+        "na ausência de lei específica que estabeleça a alíquota do ente federativo, será aplicada a alíquota de referência, sendo vedado ao ente federativo fixar sua alíquota com vinculação à de referência.",
+        "a União exercerá a competência relativamente às operações realizadas no Distrito Estadual de Fernando de Noronha.",
+        "a alíquota fixada por cada ente federativo será a mesma para todas as operações com bens ou com serviços, ressalvadas as hipóteses previstas na própria Lei Complementar."
+    ],
+    "answer": 4,
+    "justifications": [
+        "Incorreta. A competência de fixação está correta, mas o instrumento normativo exigido pelo Art. 14 é a 'lei específica' do respectivo ente. A alternativa erra ao exigir que esta seja uma 'lei complementar', pois o instrumento suficiente para atender à exigência legal é a lei ordinária específica. Dispositivo Legal (Art. 14, caput): \"Art. 14. As alíquotas da CBS e do IBS serão fixadas por lei específica do respectivo ente federativo, nos seguintes termos: I - a União fixará a alíquota da CBS; II - cada Estado fixará sua alíquota do IBS; III - cada Município fixará sua alíquota do IBS; e IV - o Distrito Federal exercerá as competências estadual e municipal na fixação de suas alíquotas.\"",
+        "Incorreta. A competência para fixar as alíquotas de referência é do Senado Federal, por meio de resolução. Dispositivo Legal (Art. 18, caput): \"Art. 18. As alíquotas de referência serão fixadas por resolução do Senado Federal:\"",
+        "Incorreta. Embora seja correto que a alíquota de referência se aplica na ausência de lei específica, é permitido (e não vedado) que o ente federativo vincule sua alíquota à de referência. Dispositivo Legal (Art. 14, § 2º, I): \"§ 2º Ao fixar sua alíquota, cada ente federativo poderá: I - vinculá-la à alíquota de referência da respectiva esfera federativa, de que trata o art. 18 desta Lei Complementar, por meio de acréscimo ou decréscimo de pontos percentuais;\" Dispositivo Legal (Art. 14, § 3º): \"§ 3º Na ausência de lei específica que estabeleça a alíquota do ente federativo, será aplicada a alíquota de referência da respectiva esfera federativa.\"",
+        "Incorreta. A competência municipal relativa às operações em Fernando de Noronha é exercida pelo Estado de Pernambuco. Dispositivo Legal (Art. 14, § 1º): \"§ 1º Para fins do disposto no inciso III do caput deste artigo, o Estado de Pernambuco exercerá a competência municipal relativamente às operações realizadas no Distrito Estadual de Fernando de Noronha, conforme o art. 15 do Ato das Disposições Constitucionais Transitórias (ADCT).\"",
+        "Correta. A alternativa descreve precisamente a regra geral de uniformidade da alíquota dentro da competência de cada ente federativo, ressalvando as exceções previstas na própria lei. Dispositivo Legal (Art. 16, caput): \"Art. 16. A alíquota fixada por cada ente federativo na forma do art. 14 desta Lei Complementar será a mesma para todas as operações com bens ou com serviços, ressalvadas as hipóteses previstas nesta Lei Complementar.\""
+    ]
+},
+{
+    "id": "LC214-182",
+    "question": "A Lei Complementar nº 214/2025 institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS), cuja instância máxima de deliberação é o Conselho Superior. Sobre a composição deste Conselho, é INCORRETO afirmar que",
+    "difficulty": "Fácil",
+    "format": "Direta",
+    "subtopic": "Comitê Gestor do IBS (CGIBS)",
+    "options": [
+        "os 27 membros representantes dos Estados e do Distrito Federal serão indicados pelas respectivas Assembleias Legislativas.",
+        "tem em sua composição 27 membros e respectivos suplentes, representantes de cada Estado e do Distrito Federal.",
+        "tem em sua composição 27 membros e respectivos suplentes, representantes do conjunto dos Municípios e do Distrito Federal.",
+        "14 dos representantes municipais e distrital serão eleitos com base nos votos de cada Município e do Distrito Federal, com valor igual para todos.",
+        "13 dos representantes municipais e distrital serão eleitos com base nos votos de cada Município e do Distrito Federal, ponderados pelas respectivas populações"
+    ],
+    "answer": 0,
+    "justifications": [
+        "Incorreta (Gabarito). Esta afirmação está incorreta. A Lei Complementar nº 214/2025 determina, em seu Art. 481, § 1º, inciso I, que os membros e suplentes representantes dos Estados e do Distrito Federal \"serão indicados pelo Chefe do Poder Executivo de cada Estado e do Distrito Federal\", e não pelas respectivas Assembleias Legislativas.",
+        "Correta. Esta afirmação está correta. A composição do Conselho Superior está descrita no Art. 481, inciso I, que prevê \"27 (vinte e sete) membros e respectivos suplentes, representantes de cada Estado e do Distrito Federal\".",
+        "Correta. Esta afirmação está correta. A composição do Conselho Superior está descrita no Art. 481, inciso II, que prevê \"27 (vinte e sete) membros e respectivos suplentes, representantes do conjunto dos Municípios e do Distrito Federal\".",
+        "Correta. Esta afirmação está correta. O Art. 481, § 1º, inciso II, alínea \"a\", estabelece este método de eleição, prevendo \"14 (quatorze) representantes eleitos com base nos votos de cada Município e do Distrito Federal, com valor igual para todos\".",
+        "Correta. Esta afirmação está correta. O Art. 481, § 1º, inciso II, alínea \"b\", estabelece este método de eleição, prevendo \"13 (treze) representantes eleitos com base nos votos de cada Município e do Distrito Federal, ponderados pelas respectivas populações\"."
+    ]
 }
 ]
