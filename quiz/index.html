@@ -340,15 +340,25 @@
             questionsPool = shuffleArray([...questionsPool]);
         }
 
-        // Aplica limite de quantidade APENAS se não for busca por ID e o limite for válido
-        const limit = parseInt(quantityLimitInput.value, 10);
-        if (!searchTerm && !isNaN(limit) && limit > 0 && limit < questionsPool.length) {
-            // Pega apenas as primeiras "limit" questões do pool já embaralhado
-            filteredQuestions = questionsPool.slice(0, limit);
-        } else {
-            // Usa todas as questões filtradas (embaralhadas se não for busca por ID)
-            filteredQuestions = [...questionsPool];
-        }
+        // Verifica limite do campo "Limitar Quantidade (Opcional)"
+const limit = parseInt(quantityLimitInput.value, 10);
+
+// Se NÃO houver busca por ID e o limite for válido, então EMBARALHA e aplica o limite
+if (!searchTerm && !isNaN(limit) && limit > 0) {
+    // Embaralha SOMENTE quando o usuário preencher o limite
+    const shuffled = shuffleArray([...questionsPool]);
+
+    // Se o limite for maior que a quantidade disponível, devolve todas
+    if (limit >= shuffled.length) {
+        filteredQuestions = [...shuffled];
+    } else {
+        filteredQuestions = shuffled.slice(0, limit);
+    }
+} else {
+    // Caso o campo esteja em branco → mantém a ordem normal
+    filteredQuestions = [...questionsPool];
+}
+
 
     }
 
