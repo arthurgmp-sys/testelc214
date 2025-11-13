@@ -334,13 +334,22 @@
             );
         }
 
+                // Embaralha o pool de questões ANTES de aplicar o limite (quando não é busca por ID)
+        if (!searchTerm) {
+            // Clona e embaralha para não mexer em allQuestions diretamente
+            questionsPool = shuffleArray([...questionsPool]);
+        }
+
         // Aplica limite de quantidade APENAS se não for busca por ID e o limite for válido
-         const limit = parseInt(quantityLimitInput.value, 10);
-         if (!searchTerm && !isNaN(limit) && limit > 0 && limit < questionsPool.length) {
-             filteredQuestions = questionsPool.slice(0, limit);
-         } else {
-             filteredQuestions = [...questionsPool]; // Usa todas (ou a única encontrada por ID)
-         }
+        const limit = parseInt(quantityLimitInput.value, 10);
+        if (!searchTerm && !isNaN(limit) && limit > 0 && limit < questionsPool.length) {
+            // Pega apenas as primeiras "limit" questões do pool já embaralhado
+            filteredQuestions = questionsPool.slice(0, limit);
+        } else {
+            // Usa todas as questões filtradas (embaralhadas se não for busca por ID)
+            filteredQuestions = [...questionsPool];
+        }
+
     }
 
     // --- Lógica Comum para Iniciar o Quiz ---
