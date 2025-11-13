@@ -334,12 +334,6 @@
             );
         }
 
-                // Embaralha o pool de questões ANTES de aplicar o limite (quando não é busca por ID)
-        if (!searchTerm) {
-            // Clona e embaralha para não mexer em allQuestions diretamente
-            questionsPool = shuffleArray([...questionsPool]);
-        }
-
         // Verifica limite do campo "Limitar Quantidade (Opcional)"
 const limit = parseInt(quantityLimitInput.value, 10);
 
