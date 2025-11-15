@@ -23,6 +23,14 @@
         /* Cor de seleção neutra para a alternativa escolhida */
         .dark input[type="radio"]:checked + label { border-color: #9ca3af; background-color: #374151; }
         input[type="radio"]:checked + label { border-color: #64748b; background-color: #e2e8f0; }
+        .alternative-strike-through {
+            text-decoration: line-through;
+            color: #ef4444; /* red-500 */
+            font-weight: bold;
+        }
+        .dark .alternative-strike-through {
+            color: #f87171; /* red-400 */
+        }
     </style>
     <script>
         // Script Crítico: Executa antes da renderização para evitar "flash" de tema incorreto.
@@ -208,6 +216,7 @@
         let score = 0;
         let quizMode = 'simulado';
         let confirmAction = null;
+        let lastKeypress = { key: null, time: 0 };
         const REVIEW_PAGE_SIZE = 10;
         let reviewCurrentPage = 1;
 
@@ -411,8 +420,9 @@ if (!searchTerm && !isNaN(limit) && limit > 0) {
             const optionsHTML = q.options.map((option, i) => `
                 <div class="relative">
                     <input type="radio" id="q${index}_option${i}" name="question_${index}" value="${i}" class="sr-only" ${userAnswer === i ? 'checked' : ''}>
-                    <label for="q${index}_option${i}" class="block w-full p-4 border-2 border-gray-300 dark:border-gray-600 rounded-lg cursor-pointer hover:bg-gray-200 dark:hover:bg-gray-700 transition-all duration-200">
-                        <span class="font-bold mr-2">${String.fromCharCode(65 + i)})</span> ${option}
+                    
+                    <label for="q${index}_option${i}" data-q-index="${index}" data-option-index="${i}" class="block w-full p-4 border-2 border-gray-300 dark:border-gray-600 rounded-lg cursor-pointer hover:bg-gray-200 dark:hover:bg-gray-700 transition-all duration-200">
+                        <span id="q${index}_letter${i}" class="font-bold mr-2">${String.fromCharCode(65 + i)})</span> ${option}
                     </label>
                 </div>
             `).join('');
@@ -711,6 +721,113 @@ if (!searchTerm && !isNaN(limit) && limit > 0) {
         loadingMessage.innerHTML = errorMessage;
     });
 });
+        document.addEventListener('keydown', (e) => {
+        const key = e.key;
+        const target = e.target;
+
+        // Evita que o listener atue quando o usuário está digitando nos inputs
+        // (exceto 'Enter' na tela de setup para iniciar)
+        if (target.tagName === 'INPUT' && target.type !== 'radio') {
+            if (key === 'Enter' && setupScreen.offsetParent !== null) { // se tela de setup está visível
+                 startQuizBtn.click();
+            }
+            return;
+        }
+
+        // --- Lógica da Tela Inicial (Setup) ---
+        if (setupScreen.offsetParent !== null) { // 'offsetParent' checa se o elemento está visível
+            if (key === 'Enter') {
+                e.preventDefault(); // Previne o envio de formulário (se houver)
+                startQuizBtn.click();
+            }
+            return; 
+        }
+        
+        // --- Lógica da Tela de Modal (Confirmação) ---
+        if (modalContainer.offsetParent !== null) { 
+            if (key === 'Enter') {
+                e.preventDefault();
+                confirmBtn.click();
+            } else if (key === 'Escape') {
+                e.preventDefault();
+                cancelBtn.click();
+            }
+            return;
+        }
+
+        // --- Lógica da Tela de Quiz ---
+        if (quizScreen.offsetParent !== null) {
+            
+            // Setas de Navegação
+            if (key === 'ArrowRight') {
+                e.preventDefault();
+                document.getElementById('next-btn')?.click(); // Clica em "Próxima"
+            } else if (key === 'ArrowLeft') {
+                e.preventDefault();
+                document.getElementById('prev-btn')?.click(); // Clica em "Anterior"
+            }
+            
+            // Tecla Enter (Ação Principal)
+            else if (key === 'Enter') {
+                e.preventDefault();
+                // Tenta clicar no botão de ação principal que estiver visível, em ordem de prioridade
+                document.getElementById('confirm-single-btn')?.click() ||
+                document.getElementById('check-all-btn')?.click() ||
+                document.getElementById('show-results-btn')?.click() ||
+                document.getElementById('show-results-btn-final')?.click() ||
+                document.getElementById('next-btn')?.click(); // Clica em "Próxima" se for a única opção
+            }
+            
+            // Seleção de Alternativas (A-E ou 1-5)
+            else if (['a', 'b', 'c', 'd', 'e', '1', '2', '3', '4', '5'].includes(key.toLowerCase())) {
+                e.preventDefault();
+                
+                let optionIndex = -1;
+                switch (key.toLowerCase()) {
+                    case 'a': case '1': optionIndex = 0; break;
+                    case 'b': case '2': optionIndex = 1; break;
+                    case 'c': case '3': optionIndex = 2; break;
+                    case 'd': case '4': optionIndex = 3; break;
+                    case 'e': case '5': optionIndex = 4; break;
+                }
+                
+                // Lógica de Dupla Pressão (Riscar)
+                const now = new Date().getTime();
+                // Se a tecla for a mesma e dentro de 400ms
+                if (lastKeypress.key === key.toLowerCase() && (now - lastKeypress.time < 400)) { 
+                    toggleStrikeThrough(currentQuestionIndex, optionIndex);
+                    lastKeypress = { key: null, time: 0 }; // Reseta
+                } else {
+                    // Seleciona a alternativa
+                    const radio = document.getElementById(`q${currentQuestionIndex}_option${optionIndex}`);
+                    if (radio && !radio.disabled) {
+                        radio.click(); // Clica no input de rádio
+                    }
+                    lastKeypress = { key: key.toLowerCase(), time: now }; // Armazena
+                }
+            }
+            return;
+        }
+
+        // --- Lógica da Tela de Resultados ---
+        if (resultsScreen.offsetParent !== null) { 
+            if (key === 'Enter') {
+                e.preventDefault();
+                restartQuizBtn.click(); // "Gerar Novo Questionário"
+            } else if (key.toLowerCase() === 'r') { // Atalho 'r' para "Rever"
+                e.preventDefault();
+                reviewQuizBtn.click(); // "Rever Questionário"
+            }
+        }
+    });
+
+    // --- NOVA FUNÇÃO: Para ligar/desligar o estilo "riscado" ---
+    function toggleStrikeThrough(qIndex, optionIndex) {
+        const letterSpan = document.getElementById(`q${qIndex}_letter${optionIndex}`);
+        if (letterSpan) {
+            letterSpan.classList.toggle('alternative-strike-through');
+        }
+    }
 
         startQuizBtn.addEventListener('click', startQuiz);
         restartQuizBtn.addEventListener('click', resetQuiz);
@@ -752,6 +869,25 @@ if (!searchTerm && !isNaN(limit) && limit > 0) {
                     e.target.classList.add('underline', 'text-blue-600', 'dark:text-blue-400');
                     e.target.classList.remove('font-semibold', 'no-underline', 'text-gray-500', 'dark:text-gray-400');
                 }
+            }
+        });
+        quizContainer.addEventListener('dblclick', (e) => {
+            const label = e.target.closest('label');
+            
+            // Verifica se o clique foi em um label de alternativa
+            if (label && label.dataset.qIndex !== undefined) {
+                e.preventDefault(); // Previne seleção de texto
+                
+                const qIndex = parseInt(label.dataset.qIndex, 10);
+                const optionIndex = parseInt(label.dataset.optionIndex, 10);
+
+                // Não permite riscar se a questão já foi respondida (inputs desabilitados)
+                const radio = document.getElementById(`q${qIndex}_option${optionIndex}`);
+                if (radio && radio.disabled) {
+                    return;
+                }
+                
+                toggleStrikeThrough(qIndex, optionIndex);
             }
         });
 // Função para habilitar/desabilitar filtros com base na seleção Essência/Padrão
