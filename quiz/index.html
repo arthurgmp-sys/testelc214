@@ -117,7 +117,10 @@
                 <button id="back-to-menu-btn" class="bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 font-bold py-2 px-4 rounded-lg transition-all duration-300">
                     &larr; Voltar ao Início
                 </button>
-                 <div id="question-counter" class="text-lg font-semibold bg-gray-200 dark:bg-gray-700 px-4 py-2 rounded-md"></div>
+                 <div id="question-jump-container" class="flex items-center gap-2 text-lg font-semibold" style="display: none;"> <select id="question-jump-select" class="bg-gray-200 dark:bg-gray-700 p-2 rounded-md focus:ring-2 focus:ring-blue-500 outline-none cursor-pointer">
+                        </select>
+                    <span id="question-total-text" class="text-gray-600 dark:text-gray-400"></span>
+                </div>
             </div>
             <div id="quiz-container" class="space-y-8"></div>
             <div id="quiz-navigation" class="mt-12 flex justify-between items-center"></div>
@@ -178,7 +181,9 @@
         const subtopicFilterContainer = document.getElementById('subtopic-filter');
         const filterError = document.getElementById('filter-error');
         const filteredCountDisplay = document.getElementById('filtered-count-display');
-        const questionCounter = document.getElementById('question-counter');
+        const questionJumpContainer = document.getElementById('question-jump-container');
+        const questionJumpSelect = document.getElementById('question-jump-select');
+        const questionTotalText = document.getElementById('question-total-text');
         const performanceFeedback = document.getElementById('performance-feedback');
         const quizNavigation = document.getElementById('quiz-navigation');
         const backToMenuBtn = document.getElementById('back-to-menu-btn');
@@ -370,8 +375,10 @@ if (!searchTerm && !isNaN(limit) && limit > 0) {
         // filterError já foi escondido
         setupScreen.classList.add('hidden');
         quizScreen.classList.remove('hidden');
+        questionJumpContainer.style.display = 'flex';
         currentQuestionIndex = 0;
         score = 0;
+        populateQuestionJump();
         renderQuestion();
         window.scrollTo(0, 0);
     } else {
@@ -383,7 +390,7 @@ if (!searchTerm && !isNaN(limit) && limit > 0) {
         
         function renderQuestion() {
             quizContainer.innerHTML = createQuestionHTML(filteredQuestions[currentQuestionIndex], currentQuestionIndex);
-            questionCounter.textContent = `Questão ${currentQuestionIndex + 1} de ${filteredQuestions.length}`;
+            questionJumpSelect.value = currentQuestionIndex;
             updateNavigation();
             
             const options = document.querySelectorAll(`input[name="question_${currentQuestionIndex}"]`);
@@ -424,7 +431,19 @@ if (!searchTerm && !isNaN(limit) && limit > 0) {
                 </div>
             `;
         }
-        
+        function populateQuestionJump() {
+            questionJumpSelect.innerHTML = ''; // Limpa opções anteriores
+            
+            filteredQuestions.forEach((q, index) => {
+                const option = document.createElement('option');
+                option.value = index; // O valor será o índice (0, 1, 2...)
+                option.textContent = `Questão ${index + 1}`;
+                questionJumpSelect.appendChild(option);
+            });
+            
+            questionTotalText.textContent = `de ${filteredQuestions.length}`;
+            questionJumpContainer.style.display = 'flex'; // Mostra o dropdown
+        }
         function updateNavigation() {
             const baseButtonClasses = "font-bold py-3 px-6 rounded-lg transition-colors";
             const prevButton = `<button id="prev-btn" class="${baseButtonClasses} bg-gray-200 dark:bg-gray-600 hover:bg-gray-300 dark:hover:bg-gray-500 ${currentQuestionIndex === 0 ? 'opacity-50 cursor-not-allowed' : ''}" ${currentQuestionIndex === 0 ? 'disabled' : ''}>Anterior</button>`;
@@ -495,6 +514,7 @@ if (!searchTerm && !isNaN(limit) && limit > 0) {
         }
 
         function renderReviewPage(page) {
+            questionJumpContainer.style.display = 'none';
             quizContainer.innerHTML = '';
             const totalPages = Math.ceil(filteredQuestions.length / REVIEW_PAGE_SIZE);
             page = Math.max(1, Math.min(page, totalPages));
@@ -646,6 +666,7 @@ if (!searchTerm && !isNaN(limit) && limit > 0) {
             resultsScreen.classList.add('hidden');
             modalContainer.classList.add('hidden');
             reviewQuizBtn.classList.add('hidden');
+            questionJumpContainer.style.display = 'none';
             searchInput.value = '';
             quantityLimitInput.value = '';
             quantityLimitInput.disabled = false;
@@ -712,6 +733,13 @@ if (!searchTerm && !isNaN(limit) && limit > 0) {
             quantityLimitInput.disabled = hasSearchTerm;
         });
         themeToggle.addEventListener('click', toggleTheme);
+        questionJumpSelect.addEventListener('change', (e) => {
+            const newIndex = parseInt(e.target.value, 10);
+            if (newIndex !== currentQuestionIndex) {
+                currentQuestionIndex = newIndex;
+                renderQuestion(); // Renderiza a questão selecionada
+            }
+        });
         quizContainer.addEventListener('click', (e) => {
             if (e.target.classList.contains('subject-toggle')) {
                 const subject = e.target.dataset.subject;
