@@ -768,14 +768,47 @@ if (!searchTerm && !isNaN(limit) && limit > 0) {
             }
             
             // Tecla Enter (Ação Principal)
+            // Tecla Enter (Ação Principal)
             else if (key === 'Enter') {
                 e.preventDefault();
-                // Tenta clicar no botão de ação principal que estiver visível, em ordem de prioridade
-                document.getElementById('confirm-single-btn')?.click() ||
-                document.getElementById('check-all-btn')?.click() ||
-                document.getElementById('show-results-btn')?.click() ||
-                document.getElementById('show-results-btn-final')?.click() ||
-                document.getElementById('next-btn')?.click(); // Clica em "Próxima" se for a única opção
+                
+                // --- LÓGICA REVISADA ---
+                // A ordem de prioridade é importante.
+                // Clica no botão de ação principal que estiver disponível.
+
+                const confirmSingleBtn = document.getElementById('confirm-single-btn');
+                if (confirmSingleBtn) {
+                    confirmSingleBtn.click();
+                    return; // Para aqui (Modo Treino, antes de responder)
+                }
+
+                const checkAllBtn = document.getElementById('check-all-btn');
+                if (checkAllBtn) {
+                    checkAllBtn.click();
+                    return; // Para aqui (Modo Simulado, última questão)
+                }
+                
+                const showResultsBtn = document.getElementById('show-results-btn');
+                if (showResultsBtn) {
+                    showResultsBtn.click();
+                    return; // Para aqui (Modo Treino, última questão, já respondida)
+                }
+                
+                const showResultsFinalBtn = document.getElementById('show-results-btn-final');
+                if (showResultsFinalBtn) {
+                    showResultsFinalBtn.click();
+                    return; // Para aqui (Modo Simulado, tela de revisão)
+                }
+
+                // Se 'Enter' não deve avançar no modo treino, verificamos o modo.
+                if (quizMode === 'simulado') {
+                    const nextBtn = document.getElementById('next-btn');
+                    if (nextBtn) {
+                        nextBtn.click(); // Avança no Modo Simulado
+                    }
+                }
+                // Se for 'treino', nada mais acontece, como solicitado.
+                // O usuário terá que usar 'ArrowRight' para avançar.
             }
             
             // Seleção de Alternativas (A-E ou 1-5)
