@@ -129,9 +129,15 @@
                 Você acertou <span id="score" class="font-bold text-green-600 dark:text-green-400">0</span> de <span id="total-questions" class="font-bold text-blue-600 dark:text-blue-400">0</span> questões (<span id="score-percentage" class="font-bold">0%</span>).
             </p>
             <div id="performance-feedback" class="text-xl mb-8"></div>
-            <button id="restart-quiz-btn" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg text-lg transition-all duration-300 shadow-lg">
-                Gerar Novo Questionário
-            </button>
+            
+            <div class="flex flex-col sm:flex-row justify-center gap-4 mt-8">
+                <button id="review-quiz-btn" class="bg-gray-200 dark:bg-gray-600 hover:bg-gray-300 dark:hover:bg-gray-500 font-bold py-3 px-6 rounded-lg text-lg transition-all duration-300 shadow-lg hidden">
+                    Rever Questionário
+                </button>
+                <button id="restart-quiz-btn" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg text-lg transition-all duration-300 shadow-lg">
+                    Gerar Novo Questionário
+                </button>
+            </div>
         </div>
 
     </div>
@@ -163,6 +169,7 @@
         const quizContainer = document.getElementById('quiz-container');
         const startQuizBtn = document.getElementById('start-quiz-btn');
         const restartQuizBtn = document.getElementById('restart-quiz-btn');
+        const reviewQuizBtn = document.getElementById('review-quiz-btn');
         const scoreEl = document.getElementById('score');
         const totalQuestionsEl = document.getElementById('total-questions');
         const scorePercentageEl = document.getElementById('score-percentage');
@@ -614,6 +621,11 @@ if (!searchTerm && !isNaN(limit) && limit > 0) {
                 performanceFeedback.textContent = "Não desanime! Revise a teoria e refaça as questões para fixar o conteúdo.";
                 performanceFeedback.className = "text-xl mb-8 text-red-500 dark:text-red-400";
             }
+            if (quizMode === 'treino') {
+                reviewQuizBtn.classList.remove('hidden');
+            } else {
+                reviewQuizBtn.classList.add('hidden');
+            }
             quizScreen.classList.add('hidden');
             resultsScreen.classList.remove('hidden');
             window.scrollTo(0, 0);
@@ -633,6 +645,7 @@ if (!searchTerm && !isNaN(limit) && limit > 0) {
             quizScreen.classList.add('hidden');
             resultsScreen.classList.add('hidden');
             modalContainer.classList.add('hidden');
+            reviewQuizBtn.classList.add('hidden');
             searchInput.value = '';
             quantityLimitInput.value = '';
             quantityLimitInput.disabled = false;
@@ -680,6 +693,11 @@ if (!searchTerm && !isNaN(limit) && limit > 0) {
 
         startQuizBtn.addEventListener('click', startQuiz);
         restartQuizBtn.addEventListener('click', resetQuiz);
+        reviewQuizBtn.addEventListener('click', () => {
+            resultsScreen.classList.add('hidden');
+            quizScreen.classList.remove('hidden');
+            window.scrollTo(0, 0); // Opcional: rola para o topo da tela do quiz
+        });
         backToMenuBtn.addEventListener('click', () => showModal('Voltar ao Início', 'Todo o seu progresso será perdido. Deseja continuar?', resetQuiz));
         cancelBtn.addEventListener('click', () => modalContainer.classList.add('hidden'));
         confirmBtn.addEventListener('click', () => {
